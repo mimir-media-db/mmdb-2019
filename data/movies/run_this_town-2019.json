@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_this_town_2019",
+  "title": "Run This Town",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738597",
+    "imdb": "tt7596680",
+    "tmdb": 576682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

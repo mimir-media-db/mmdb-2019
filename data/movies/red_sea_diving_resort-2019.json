@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_sea_diving_resort_2019",
+  "title": "The Red Sea Diving Resort",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30639015",
+    "imdb": "tt4995776",
+    "tmdb": 465003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 129
+}

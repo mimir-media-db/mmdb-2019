@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robert_the_bruce_2019",
+  "title": "Robert the Bruce",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64747414",
+    "imdb": "tt8000908",
+    "tmdb": 532812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 124
+}

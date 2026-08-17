@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rbg_2019",
+  "title": "RBG",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54829190",
+    "imdb": "tt7689964",
+    "tmdb": 493099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

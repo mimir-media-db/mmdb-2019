@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_randen_the_comings_and_goings_on_a_kyoto_tram_2019",
+  "title": "Randen: The Comings and Goings on a Kyoto Tram",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65265756",
+    "imdb": "tt9838378",
+    "tmdb": 579941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

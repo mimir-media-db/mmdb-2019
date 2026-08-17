@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_recorder_the_marion_stokes_project_2019",
+  "title": "Recorder: The Marion Stokes Project",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56514049",
+    "imdb": "tt8863066",
+    "tmdb": 555112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roh_2019",
+  "title": "Roh",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87584794",
+    "imdb": "tt10613002",
+    "tmdb": 641548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_restiamo_amici_2019",
+  "title": "Restiamo amici",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65127111",
+    "imdb": "tt7714878",
+    "tmdb": 605507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 87
+}

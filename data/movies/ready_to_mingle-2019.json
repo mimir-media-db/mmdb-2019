@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ready_to_mingle_2019",
+  "title": "Ready to Mingle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70206991",
+    "imdb": "tt6736198",
+    "tmdb": 532880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

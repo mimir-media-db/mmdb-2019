@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_letter_day_2019",
+  "title": "Red Letter Day",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537549",
+    "imdb": "tt7379994",
+    "tmdb": 568308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

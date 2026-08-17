@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remastered_devil_at_the_crossroads_2019",
+  "title": "ReMastered: Devil at the Crossroads",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65552635",
+    "imdb": "tt9046574",
+    "tmdb": 553645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_random_acts_of_violence_2019",
+  "title": "Random Acts of Violence",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56703415",
+    "imdb": "tt1925493",
+    "tmdb": 582049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

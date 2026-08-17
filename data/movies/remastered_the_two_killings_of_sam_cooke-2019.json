@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remastered_the_two_killings_of_sam_cooke_2019",
+  "title": "ReMastered: The Two Killings of Sam Cooke",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65552654",
+    "imdb": "tt9046564",
+    "tmdb": 553646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 74
+}

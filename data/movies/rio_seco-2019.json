@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rio_seco_2019",
+  "title": "Río seco",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66332710"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 86
+}

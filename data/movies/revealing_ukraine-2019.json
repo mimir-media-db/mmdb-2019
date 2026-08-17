@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revealing_ukraine_2019",
+  "title": "Revealing Ukraine",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85858586",
+    "imdb": "tt10498588",
+    "tmdb": 616914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}
