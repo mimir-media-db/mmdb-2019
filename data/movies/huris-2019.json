@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_huris_2019",
+  "title": "Huris",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999308",
+    "tmdb": 995522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

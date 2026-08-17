@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hearts_and_bones_2019",
+  "title": "Hearts and Bones",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73543245",
+    "imdb": "tt8689644",
+    "tmdb": 590306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

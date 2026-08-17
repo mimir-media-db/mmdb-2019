@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_air_2019",
+  "title": "Hot Air",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66475502",
+    "imdb": "tt6186940",
+    "tmdb": 479315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

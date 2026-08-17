@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_henry_glassie_field_work_2019",
+  "title": "Henry Glassie: Field Work",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77979852",
+    "imdb": "tt10883440",
+    "tmdb": 622959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homme_fatale_2019",
+  "title": "Homme Fatale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65238240",
+    "imdb": "tt10633676",
+    "tmdb": 598440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

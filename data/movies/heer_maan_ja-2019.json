@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heer_maan_ja_2019",
+  "title": "Heer Maan Ja",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768509",
+    "imdb": "tt10152214",
+    "tmdb": 592536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

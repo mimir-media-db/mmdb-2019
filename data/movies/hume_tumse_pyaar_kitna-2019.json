@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hume_tumse_pyaar_kitna_2019",
+  "title": "Hume Tumse Pyaar Kitna",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64587280",
+    "imdb": "tt6862542",
+    "tmdb": 607308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

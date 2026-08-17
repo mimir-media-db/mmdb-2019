@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haingosoa_2019",
+  "title": "Haingosoa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85613250",
+    "imdb": "tt9023136",
+    "tmdb": 667943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 72
+}

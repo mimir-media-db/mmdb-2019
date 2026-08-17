@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_historias_breves_17_2019",
+  "title": "Historias breves 17",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76824889",
+    "imdb": "tt13279738",
+    "tmdb": 1088626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

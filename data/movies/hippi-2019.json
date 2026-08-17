@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hippi_2019",
+  "title": "Hippi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737838",
+    "imdb": "tt9251858",
+    "tmdb": 607100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

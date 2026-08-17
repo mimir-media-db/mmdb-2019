@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hellboy_2019",
+  "title": "Hellboy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30895665",
+    "imdb": "tt2274648",
+    "tmdb": 456740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 120
+}

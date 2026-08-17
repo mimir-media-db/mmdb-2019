@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horrible_histories_the_movie_2019",
+  "title": "Horrible Histories: The Movie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61977862",
+    "imdb": "tt7715070",
+    "tmdb": 553002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

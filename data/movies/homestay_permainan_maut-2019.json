@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homestay_permainan_maut_2019",
+  "title": "Homestay: Permainan Maut",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63168089",
+    "imdb": "tt17052502",
+    "tmdb": 596040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

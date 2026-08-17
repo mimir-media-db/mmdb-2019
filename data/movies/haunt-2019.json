@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunt_2019",
+  "title": "Haunt",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67208581",
+    "imdb": "tt6535880",
+    "tmdb": 517116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
