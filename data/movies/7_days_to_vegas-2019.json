@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_days_to_vegas_2019",
+  "title": "7 Days to Vegas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73536234",
+    "imdb": "tt6840554",
+    "tmdb": 619798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
