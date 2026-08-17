@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_to_snuff_2019",
+  "title": "Up to Snuff",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63802223",
+    "imdb": "tt6432868",
+    "tmdb": 487546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

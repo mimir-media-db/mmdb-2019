@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unpromised_land_2019",
+  "title": "The Unpromised Land",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60970992",
+    "imdb": "tt9800752",
+    "tmdb": 579678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
