@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_quicksand",
+  "title": "Quicksand",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51572795",
+    "imdb": "tt8686106",
+    "tmdb": 86621
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
