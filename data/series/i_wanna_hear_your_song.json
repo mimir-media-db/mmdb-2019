@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_i_wanna_hear_your_song",
+  "title": "I Wanna Hear Your Song",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63474646",
+    "imdb": "tt10449370",
+    "tmdb": 90237
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

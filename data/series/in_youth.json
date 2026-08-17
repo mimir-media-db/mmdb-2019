@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_in_youth",
+  "title": "In Youth",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55697067",
+    "imdb": "tt10816124",
+    "tmdb": 88410
+  },
+  "last_updated": "2026-08-17"
+}

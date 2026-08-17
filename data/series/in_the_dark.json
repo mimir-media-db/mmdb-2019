@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_the_dark",
+  "title": "In the Dark",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q53746188",
+    "imdb": "tt7772602",
+    "tmdb": 85727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

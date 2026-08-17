@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inbestigators",
+  "title": "The InBESTigators",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55635307",
+    "imdb": "tt9332962",
+    "tmdb": 91348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

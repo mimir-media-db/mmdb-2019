@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_your_turn",
+  "title": "It's Your Turn",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61058243",
+    "imdb": "tt9679644",
+    "tmdb": 88570
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

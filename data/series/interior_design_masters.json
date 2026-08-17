@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_interior_design_masters",
+  "title": "Interior Design Masters",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q73027554",
+    "imdb": "tt8367694",
+    "tmdb": 94750
+  },
+  "last_updated": "2026-08-17"
+}

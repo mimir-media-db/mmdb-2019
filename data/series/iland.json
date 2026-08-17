@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iland",
+  "title": "The I-Land",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56850495",
+    "imdb": "tt9067020",
+    "tmdb": 90755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}
