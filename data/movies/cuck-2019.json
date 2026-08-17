@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuck_2019",
+  "title": "Cuck",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73897931",
+    "imdb": "tt8195518",
+    "tmdb": 594304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_compulsive_liar_2019",
+  "title": "Compulsive Liar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889893",
+    "imdb": "tt9487594",
+    "tmdb": 592117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

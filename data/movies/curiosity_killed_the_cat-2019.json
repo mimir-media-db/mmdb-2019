@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curiosity_killed_the_cat_2019",
+  "title": "Curiosity killed the Cat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61719325",
+    "imdb": "tt9529454",
+    "tmdb": 637834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

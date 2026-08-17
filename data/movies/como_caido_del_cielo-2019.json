@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_como_caido_del_cielo_2019",
+  "title": "Como caído del cielo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895391",
+    "imdb": "tt10946934",
+    "tmdb": 654299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

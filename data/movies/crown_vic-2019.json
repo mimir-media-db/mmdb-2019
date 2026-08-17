@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crown_vic_2019",
+  "title": "Crown Vic",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63437008",
+    "imdb": "tt4558200",
+    "tmdb": 524659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

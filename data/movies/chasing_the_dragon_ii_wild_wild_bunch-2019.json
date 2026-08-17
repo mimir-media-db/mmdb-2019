@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_the_dragon_ii_wild_wild_bunch_2019",
+  "title": "Chasing the Dragon II: Wild Wild Bunch",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63800374",
+    "imdb": "tt10279010",
+    "tmdb": 602661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cave_2019",
+  "title": "The Cave",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69768547",
+    "imdb": "tt8726180",
+    "tmdb": 547090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

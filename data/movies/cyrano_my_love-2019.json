@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cyrano_my_love_2019",
+  "title": "Cyrano, My Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55596753",
+    "imdb": "tt7201846",
+    "tmdb": 544510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 109
+}

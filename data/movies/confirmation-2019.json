@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confirmation_2019",
+  "title": "The Confirmation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73482215",
+    "imdb": "tt9859270",
+    "tmdb": 645848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 18
+}

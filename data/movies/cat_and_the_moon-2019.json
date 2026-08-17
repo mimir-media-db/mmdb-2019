@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_and_the_moon_2019",
+  "title": "The Cat and the Moon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51278957",
+    "imdb": "tt5360232",
+    "tmdb": 515402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

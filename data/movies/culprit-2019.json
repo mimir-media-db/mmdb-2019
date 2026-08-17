@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_culprit_2019",
+  "title": "The Culprit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65294252",
+    "imdb": "tt10633722",
+    "tmdb": 572158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
