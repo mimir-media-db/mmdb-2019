@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_expeditionen",
+  "title": "Expeditionen",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q77736781",
+    "imdb": "tt11212682",
+    "tmdb": 212631
+  },
+  "last_updated": "2026-08-17"
+}

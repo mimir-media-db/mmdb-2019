@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_general_naranjo_capitulo_serie",
+  "title": "El General Naranjo Capitulo serie",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q63814252",
+    "imdb": "tt8574982",
+    "tmdb": 89720
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

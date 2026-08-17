@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_tigre_veron",
+  "title": "El Tigre Verón",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q60853310",
+    "imdb": "tt10631536",
+    "tmdb": 91506
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

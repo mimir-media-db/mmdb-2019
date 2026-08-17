@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_epic_yellowstone",
+  "title": "Epic Yellowstone",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121335177",
+    "imdb": "tt9800072",
+    "tmdb": 95165
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

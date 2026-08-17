@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_en_la_piel_de_alicia",
+  "title": "En la Piel de Alicia",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q71730824",
+    "imdb": "tt10831678",
+    "tmdb": 91496
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 81
+}

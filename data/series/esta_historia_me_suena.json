@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_esta_historia_me_suena",
+  "title": "Esta historia me suena",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q63519974",
+    "imdb": "tt10540362"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 113
+}

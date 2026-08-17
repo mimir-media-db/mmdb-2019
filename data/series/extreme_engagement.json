@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extreme_engagement",
+  "title": "Extreme Engagement",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66106773",
+    "imdb": "tt10521644",
+    "tmdb": 91047
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

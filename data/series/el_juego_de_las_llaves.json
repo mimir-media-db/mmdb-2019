@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_juego_de_las_llaves",
+  "title": "El juego de las llaves",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q70138305",
+    "imdb": "tt9863788",
+    "tmdb": 90239
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

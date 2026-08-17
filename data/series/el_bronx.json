@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_bronx",
+  "title": "El Bronx",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q30570412",
+    "imdb": "tt8866730",
+    "tmdb": 86346
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 81
+}

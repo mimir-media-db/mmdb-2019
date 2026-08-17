@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_pueblo",
+  "title": "El pueblo",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63228417",
+    "imdb": "tt8038148",
+    "tmdb": 89427
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

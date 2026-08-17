@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_employables",
+  "title": "The Employables",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112687747",
+    "imdb": "tt10147542",
+    "tmdb": 91037
+  },
+  "last_updated": "2026-08-17"
+}

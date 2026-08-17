@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_end_of_dejvice_theatre",
+  "title": "The End of Dejvice Theatre",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q61928969",
+    "imdb": "tt8526756",
+    "tmdb": 87304
+  },
+  "last_updated": "2026-08-17"
+}
