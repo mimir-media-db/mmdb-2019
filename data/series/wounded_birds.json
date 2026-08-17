@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wounded_birds",
+  "title": "Wounded Birds",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63905369",
+    "imdb": "tt9915022",
+    "tmdb": 101385
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

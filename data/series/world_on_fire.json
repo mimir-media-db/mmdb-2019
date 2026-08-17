@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_world_on_fire",
+  "title": "World on Fire",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q60786672",
+    "imdb": "tt8001092",
+    "tmdb": 83015
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

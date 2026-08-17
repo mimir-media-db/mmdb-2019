@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whiskey_cavalier",
+  "title": "Whiskey Cavalier",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q53495511",
+    "imdb": "tt7599942",
+    "tmdb": 82094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

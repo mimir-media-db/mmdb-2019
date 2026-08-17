@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_west_of_liberty",
+  "title": "West of Liberty",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q65246661",
+    "imdb": "tt7520178",
+    "tmdb": 95868
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

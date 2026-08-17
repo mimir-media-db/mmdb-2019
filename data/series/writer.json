@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_writer",
+  "title": "The Writer",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q73030782",
+    "imdb": "tt10312958",
+    "tmdb": 89169
+  },
+  "last_updated": "2026-08-17"
+}

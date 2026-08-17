@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wellintended_love",
+  "title": "Well-Intended Love",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60995220",
+    "imdb": "tt9886950",
+    "tmdb": 86605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

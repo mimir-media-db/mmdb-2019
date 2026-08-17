@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_now",
+  "title": "We Are Now",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63373195",
+    "imdb": "tt10256646",
+    "tmdb": 89055
+  },
+  "last_updated": "2026-08-17"
+}

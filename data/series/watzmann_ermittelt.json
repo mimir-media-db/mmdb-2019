@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_watzmann_ermittelt",
+  "title": "Watzmann ermittelt",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63127054",
+    "imdb": "tt9767164",
+    "tmdb": 84971
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_2_life",
+  "title": "Welcome 2 Life",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65062506",
+    "imdb": "tt10579300",
+    "tmdb": 91460
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
