@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_corroboradores_2019",
+  "title": "Los Corroboradores",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53849718",
+    "imdb": "tt7293844",
+    "tmdb": 487806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-21",
+  "runtime_minutes": 70
+}

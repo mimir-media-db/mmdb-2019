@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_2019",
+  "title": "Little",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60631382",
+    "imdb": "tt8085790",
+    "tmdb": 526050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12",
+  "runtime_minutes": 109
+}

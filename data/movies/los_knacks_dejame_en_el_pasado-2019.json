@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_knacks_dejame_en_el_pasado_2019",
+  "title": "Los Knacks: déjame en el pasado",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108126407",
+    "imdb": "tt11245952",
+    "tmdb": 646386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 108
+}

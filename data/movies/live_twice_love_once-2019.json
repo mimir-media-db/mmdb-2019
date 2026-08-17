@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_twice_love_once_2019",
+  "title": "Live Twice, Love Once",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81561094",
+    "imdb": "tt9063902",
+    "tmdb": 613090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06",
+  "runtime_minutes": 101
+}

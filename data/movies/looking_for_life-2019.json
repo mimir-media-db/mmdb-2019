@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_life_2019",
+  "title": "Looking for Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642200",
+    "imdb": "tt9097738",
+    "tmdb": 573665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-31",
+  "runtime_minutes": 76
+}

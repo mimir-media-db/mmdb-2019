@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_love_song_2019",
+  "title": "Little Love Song",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65262889",
+    "imdb": "tt10206614",
+    "tmdb": 596727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-24",
+  "runtime_minutes": 123
+}

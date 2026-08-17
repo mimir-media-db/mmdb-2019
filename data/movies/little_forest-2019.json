@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_forest_2019",
+  "title": "Little Forest",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30611920",
+    "imdb": "tt6083230",
+    "tmdb": 448491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-03",
+  "runtime_minutes": 103
+}

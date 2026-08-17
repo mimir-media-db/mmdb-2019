@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lev_yashin_the_dream_goalkeeper_2019",
+  "title": "Lev Yashin. The Dream Goalkeeper",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28664682",
+    "imdb": "tt8266452",
+    "tmdb": 513514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-28",
+  "runtime_minutes": 120
+}

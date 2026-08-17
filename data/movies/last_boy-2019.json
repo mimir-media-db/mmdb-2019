@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_boy_2019",
+  "title": "The Last Boy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110624584",
+    "imdb": "tt4157728",
+    "tmdb": 573632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 87
+}

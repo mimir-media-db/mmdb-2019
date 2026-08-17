@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_pacte_hitlerstaline_2019",
+  "title": "Le pacte Hitler-Staline",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112684044",
+    "imdb": "tt9738198",
+    "tmdb": 573731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}

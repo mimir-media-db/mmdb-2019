@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_fool_show_2019",
+  "title": "Last Fool Show",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66204353",
+    "imdb": "tt10074426",
+    "tmdb": 593943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-10"
+}

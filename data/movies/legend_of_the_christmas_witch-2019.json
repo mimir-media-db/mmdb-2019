@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_christmas_witch_2019",
+  "title": "The Legend of the Christmas Witch",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60840055",
+    "imdb": "tt8539280",
+    "tmdb": 554133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 95
+}

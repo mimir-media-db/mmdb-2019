@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_virilite_2019",
+  "title": "La Virilité",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104412514",
+    "imdb": "tt11053438"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 68
+}

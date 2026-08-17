@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_song_for_latasha_2019",
+  "title": "A Love Song for Latasha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245182",
+    "imdb": "tt8993180",
+    "tmdb": 631344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

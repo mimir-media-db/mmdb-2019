@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_habras_imaginado_2019",
+  "title": "Lo habrás imaginado",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106149465",
+    "imdb": "tt12463672",
+    "tmdb": 661326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_unscathed_2019",
+  "title": "Living Unscathed",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532331",
+    "imdb": "tt9682578",
+    "tmdb": 637588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_coups_du_destin_2019",
+  "title": "Les Coups du Destin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101243580",
+    "imdb": "tt7869824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_listen_to_your_heart_the_beautiful_mind_2019",
+  "title": "Listen to Your Heart. The Beautiful Mind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740611",
+    "imdb": "tt10237670",
+    "tmdb": 591019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legendary_lighter_2019",
+  "title": "The Legendary Lighter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85984749",
+    "imdb": "tt34510565",
+    "tmdb": 646315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-29"
+}

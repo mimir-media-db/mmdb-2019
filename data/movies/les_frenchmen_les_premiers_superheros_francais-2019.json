@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_frenchmen_les_premiers_superheros_francais_2019",
+  "title": "Les Frenchmen, les premiers super-héros français",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64032193",
+    "imdb": "tt10472960",
+    "tmdb": 603156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-19"
+}

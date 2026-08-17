@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lina_from_lima_2019",
+  "title": "Lina from Lima",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93874742",
+    "imdb": "tt10374236",
+    "tmdb": 552365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 83
+}

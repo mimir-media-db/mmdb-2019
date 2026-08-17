@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_one_2019",
+  "title": "The Little One",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52009401",
+    "imdb": "tt8305116",
+    "tmdb": 519185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-18",
+  "runtime_minutes": 114
+}

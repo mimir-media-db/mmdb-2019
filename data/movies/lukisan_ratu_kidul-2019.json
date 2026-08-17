@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lukisan_ratu_kidul_2019",
+  "title": "Lukisan Ratu Kidul",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65210632",
+    "imdb": "tt9811528",
+    "tmdb": 591429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 90
+}

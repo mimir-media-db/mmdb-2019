@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_internacional_del_fin_del_mundo_2019",
+  "title": "La internacional del fin del mundo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108614940",
+    "imdb": "tt10963834",
+    "tmdb": 684655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 78
+}

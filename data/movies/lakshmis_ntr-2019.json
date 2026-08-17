@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakshmis_ntr_2019",
+  "title": "Lakshmi's NTR",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60461858",
+    "imdb": "tt9319884",
+    "tmdb": 590753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25"
+}

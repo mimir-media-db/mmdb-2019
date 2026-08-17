@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_faust_2019",
+  "title": "The Last Faust",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83987738",
+    "imdb": "tt8871254",
+    "tmdb": 652778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-02",
+  "runtime_minutes": 108
+}

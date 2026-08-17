@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looby_2019",
+  "title": "Looby",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127870732",
+    "imdb": "tt12566394",
+    "tmdb": 621896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

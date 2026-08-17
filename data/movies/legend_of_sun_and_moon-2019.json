@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_sun_and_moon_2019",
+  "title": "Legend Of Sun And Moon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600407",
+    "imdb": "tt8501950",
+    "tmdb": 590305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

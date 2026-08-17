@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_me_tender_2019",
+  "title": "Love Me Tender",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131872441",
+    "imdb": "tt10189466",
+    "tmdb": 616312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-09",
+  "runtime_minutes": 83
+}

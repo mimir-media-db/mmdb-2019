@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leaving_the_frame_2019",
+  "title": "Leaving the Frame",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66826494",
+    "imdb": "tt10921098",
+    "tmdb": 628627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03",
+  "runtime_minutes": 95
+}

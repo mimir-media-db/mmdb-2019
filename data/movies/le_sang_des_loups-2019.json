@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_sang_des_loups_2019",
+  "title": "Le Sang des loups",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108878036",
+    "imdb": "tt11179100",
+    "tmdb": 809919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

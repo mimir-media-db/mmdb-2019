@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lords_of_chaos_2019",
+  "title": "Lords of Chaos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30765956",
+    "imdb": "tt4669296",
+    "tmdb": 426249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29",
+  "runtime_minutes": 118
+}

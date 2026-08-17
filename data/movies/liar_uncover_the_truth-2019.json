@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liar_uncover_the_truth_2019",
+  "title": "Liar! Uncover the Truth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108131008",
+    "imdb": "tt10269620",
+    "tmdb": 647609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lurker_2019",
+  "title": "The Lurker",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104844606",
+    "imdb": "tt5201882",
+    "tmdb": 608502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

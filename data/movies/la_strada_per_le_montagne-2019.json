@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_strada_per_le_montagne_2019",
+  "title": "La strada per le montagne",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576008",
+    "imdb": "tt10129414",
+    "tmdb": 648691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 82
+}

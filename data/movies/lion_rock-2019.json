@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_rock_2019",
+  "title": "Lion Rock",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70670159",
+    "imdb": "tt11811996",
+    "tmdb": 646411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14"
+}

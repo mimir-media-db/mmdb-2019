@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_2019",
+  "title": "The Letter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104869439",
+    "imdb": "tt13099242",
+    "tmdb": 682673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

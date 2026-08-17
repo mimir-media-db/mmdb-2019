@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesprit_des_lieux_2019",
+  "title": "L'Esprit des lieux",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107240220",
+    "imdb": "tt8775280",
+    "tmdb": 562578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-24",
+  "runtime_minutes": 91
+}

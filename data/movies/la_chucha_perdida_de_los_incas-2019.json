@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_chucha_perdida_de_los_incas_2019",
+  "title": "La chucha perdida de los Incas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532343",
+    "imdb": "tt27520266",
+    "tmdb": 660960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 83
+}

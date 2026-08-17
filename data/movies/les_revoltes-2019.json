@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_revoltes_2019",
+  "title": "Les Révoltés",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65158519",
+    "imdb": "tt8875222",
+    "tmdb": 531070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-09"
+}

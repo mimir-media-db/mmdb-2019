@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_ninja_red_shadow_2019",
+  "title": "Last Ninja: Red Shadow",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97197112",
+    "imdb": "tt11905622",
+    "tmdb": 721057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04"
+}

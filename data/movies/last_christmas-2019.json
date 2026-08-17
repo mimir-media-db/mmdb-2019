@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_christmas_2019",
+  "title": "Last Christmas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60370884",
+    "imdb": "tt8623904",
+    "tmdb": 549053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 103
+}
