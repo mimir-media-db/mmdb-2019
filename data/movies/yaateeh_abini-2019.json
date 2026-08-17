@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yaateeh_abini_2019",
+  "title": "Yá’át’ééh Abiní",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882659",
+    "imdb": "tt9327810",
+    "tmdb": 807276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 12
+}

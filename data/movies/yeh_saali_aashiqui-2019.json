@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_saali_aashiqui_2019",
+  "title": "Yeh Saali Aashiqui",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64438323",
+    "imdb": "tt10443846",
+    "tmdb": 646173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
