@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_velke_dobrodruzstvi_ctyrlistku_2019",
+  "title": "Velké dobrodruzství Ctyrlístku",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63023324",
+    "imdb": "tt10332464",
+    "tmdb": 593880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verbindung_gesucht_2019",
+  "title": "Verbindung gesucht",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128799551",
+    "imdb": "tt14747832",
+    "tmdb": 1327448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 81
+}

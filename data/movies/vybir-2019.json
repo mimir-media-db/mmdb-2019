@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vybir_2019",
+  "title": "Vybir",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575626",
+    "imdb": "tt10937192",
+    "tmdb": 784955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-22",
+  "runtime_minutes": 65
+}

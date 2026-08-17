@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_sisters_3_journey_to_transylvania_2019",
+  "title": "Vampire Sisters 3: Journey to Transylvania",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21695930",
+    "imdb": "tt5218346",
+    "tmdb": 392476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01",
+  "runtime_minutes": 95
+}

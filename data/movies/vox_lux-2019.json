@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vox_lux_2019",
+  "title": "Vox Lux",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48313895",
+    "imdb": "tt5960374",
+    "tmdb": 429202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-03",
+  "runtime_minutes": 114
+}

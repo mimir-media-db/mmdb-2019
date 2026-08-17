@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verotika_2019",
+  "title": "Verotika",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96413840",
+    "imdb": "tt9425078",
+    "tmdb": 601099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

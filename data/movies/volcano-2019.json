@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_volcano_2019",
+  "title": "Volcano",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55164107",
+    "imdb": "tt7186036",
+    "tmdb": 464561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 106
+}

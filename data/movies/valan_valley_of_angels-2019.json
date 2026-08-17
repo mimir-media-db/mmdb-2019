@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valan_valley_of_angels_2019",
+  "title": "Valan: Valley of Angels",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67199492",
+    "imdb": "tt8648880",
+    "tmdb": 650264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-21",
+  "runtime_minutes": 97
+}

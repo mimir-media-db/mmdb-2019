@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virus_2019",
+  "title": "Virus",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738253",
+    "imdb": "tt8941440",
+    "tmdb": 585261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-07"
+}

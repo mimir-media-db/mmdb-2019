@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulnerable_histories_a_road_movie_2019",
+  "title": "Vulnerable Histories (A Road Movie)",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642220",
+    "imdb": "tt14039674",
+    "tmdb": 575897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-30",
+  "runtime_minutes": 103
+}
