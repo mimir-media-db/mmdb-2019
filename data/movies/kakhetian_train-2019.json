@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kakhetian_train_2019",
+  "title": "Kakhetian Train",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61137108",
+    "imdb": "tt9495744",
+    "tmdb": 766163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

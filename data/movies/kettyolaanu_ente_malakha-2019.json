@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kettyolaanu_ente_malakha_2019",
+  "title": "Kettyolaanu Ente Malakha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893056",
+    "imdb": "tt10452480",
+    "tmdb": 651353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

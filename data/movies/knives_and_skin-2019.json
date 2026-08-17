@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knives_and_skin_2019",
+  "title": "Knives and Skin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64338113",
+    "imdb": "tt8234892",
+    "tmdb": 575730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 111
+}

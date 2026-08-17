@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kardec_2019",
+  "title": "Kardec",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65166905",
+    "imdb": "tt9213932",
+    "tmdb": 600335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

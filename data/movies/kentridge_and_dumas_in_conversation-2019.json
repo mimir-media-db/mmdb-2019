@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kentridge_and_dumas_in_conversation_2019",
+  "title": "Kentridge and Dumas in Conversation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488766",
+    "imdb": "tt1494776",
+    "tmdb": 1418658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

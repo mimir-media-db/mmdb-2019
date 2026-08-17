@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kusatma_yedi_uyuyanlar_2019",
+  "title": "Kuşatma Yedi Uyuyanlar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77273841",
+    "imdb": "tt10825934",
+    "tmdb": 672269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

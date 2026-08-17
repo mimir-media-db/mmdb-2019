@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kazakh_khanate_golden_throne_2019",
+  "title": "Kazakh Khanate – Golden Throne",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893042",
+    "imdb": "tt11050404",
+    "tmdb": 635897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

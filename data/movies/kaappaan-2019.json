@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaappaan_2019",
+  "title": "Kaappaan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55784446",
+    "imdb": "tt8411144",
+    "tmdb": 533885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

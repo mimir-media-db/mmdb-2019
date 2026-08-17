@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kataksha_2019",
+  "title": "Kataksha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62118610",
+    "imdb": "tt10322592",
+    "tmdb": 611390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

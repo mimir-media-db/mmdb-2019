@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaanadante_maayavadanu_2019",
+  "title": "Kaanadante Maayavadanu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768716",
+    "imdb": "tt9807856",
+    "tmdb": 667924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
