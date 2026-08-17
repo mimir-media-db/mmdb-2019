@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_can_quit_whenever_i_want_2019",
+  "title": "I Can Quit Whenever I Want",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62893588",
+    "imdb": "tt8806768",
+    "tmdb": 574370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12",
+  "runtime_minutes": 98
+}

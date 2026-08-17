@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_chapter_two_2019",
+  "title": "It: Chapter Two",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42726338",
+    "imdb": "tt7349950",
+    "tmdb": 474350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-05",
+  "runtime_minutes": 169
+}

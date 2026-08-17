@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incoming_2019",
+  "title": "Incoming",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61063419",
+    "imdb": "tt6678874",
+    "tmdb": 522964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-07",
+  "runtime_minutes": 89
+}

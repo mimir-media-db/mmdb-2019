@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_mighty_jungle_2019",
+  "title": "In the Mighty Jungle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106523949",
+    "imdb": "tt8412820",
+    "tmdb": 518734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

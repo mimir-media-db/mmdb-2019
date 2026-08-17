@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_dads_woods_2019",
+  "title": "Into Dad's Woods",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97165316",
+    "imdb": "tt9348752",
+    "tmdb": 654862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

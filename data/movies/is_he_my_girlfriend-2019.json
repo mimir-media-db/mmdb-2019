@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_is_he_my_girlfriend_2019",
+  "title": "Is He My Girlfriend?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804212",
+    "imdb": "tt12325252",
+    "tmdb": 636148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

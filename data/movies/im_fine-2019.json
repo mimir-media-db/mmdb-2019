@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_im_fine_2019",
+  "title": "I'm Fine",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64159538",
+    "imdb": "tt9545084"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-24"
+}

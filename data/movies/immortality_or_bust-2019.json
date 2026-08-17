@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_immortality_or_bust_2019",
+  "title": "Immortality or Bust",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108366018",
+    "imdb": "tt5851826",
+    "tmdb": 750406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26"
+}

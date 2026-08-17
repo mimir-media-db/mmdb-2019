@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_middle_of_the_labyrinth_2019",
+  "title": "In the Middle of the Labyrinth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532339",
+    "imdb": "tt11764424",
+    "tmdb": 648992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 65
+}

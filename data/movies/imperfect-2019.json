@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imperfect_2019",
+  "title": "Imperfect",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97240779",
+    "imdb": "tt10932100",
+    "tmdb": 611368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-19",
+  "runtime_minutes": 113
+}

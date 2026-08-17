@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_if_it_makes_you_happy_2019",
+  "title": "If It Makes You Happy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840258",
+    "tmdb": 699402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-10"
+}

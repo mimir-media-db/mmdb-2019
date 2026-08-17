@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_frank_2019",
+  "title": "I am Frank",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107305176",
+    "imdb": "tt10505598",
+    "tmdb": 650403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 98
+}

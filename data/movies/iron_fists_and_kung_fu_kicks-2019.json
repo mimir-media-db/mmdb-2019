@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_fists_and_kung_fu_kicks_2019",
+  "title": "Iron Fists and Kung Fu Kicks",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114714059",
+    "imdb": "tt9169764",
+    "tmdb": 600014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 107
+}

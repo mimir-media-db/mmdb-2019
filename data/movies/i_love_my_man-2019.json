@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_my_man_2019",
+  "title": "I Love My Man",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840421",
+    "tmdb": 961205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-07"
+}

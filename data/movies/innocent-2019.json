@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_2019",
+  "title": "The Innocent",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642162",
+    "imdb": "tt6596418",
+    "tmdb": 515050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 114
+}

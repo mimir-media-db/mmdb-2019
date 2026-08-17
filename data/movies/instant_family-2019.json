@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_instant_family_2019",
+  "title": "Instant Family",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50649533",
+    "imdb": "tt7401588",
+    "tmdb": 491418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 119
+}

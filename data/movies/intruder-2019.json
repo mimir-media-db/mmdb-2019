@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intruder_2019",
+  "title": "The Intruder",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56562299",
+    "imdb": "tt6722030",
+    "tmdb": 524247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26",
+  "runtime_minutes": 102
+}

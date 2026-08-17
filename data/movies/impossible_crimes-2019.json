@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_impossible_crimes_2019",
+  "title": "Impossible Crimes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106141964",
+    "imdb": "tt9437360",
+    "tmdb": 614195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-31",
+  "runtime_minutes": 90
+}
