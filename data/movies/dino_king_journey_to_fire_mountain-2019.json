@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dino_king_journey_to_fire_mountain_2019",
+  "title": "Dino King: Journey to Fire Mountain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30645558",
+    "imdb": "tt7659018",
+    "tmdb": 561974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-17"
+}

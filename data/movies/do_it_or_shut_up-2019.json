@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_it_or_shut_up_2019",
+  "title": "Do It or Shut Up",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051566",
+    "imdb": "tt10452946",
+    "tmdb": 588760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15"
+}

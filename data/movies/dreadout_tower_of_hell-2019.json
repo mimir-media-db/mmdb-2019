@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreadout_tower_of_hell_2019",
+  "title": "Dreadout: Tower of Hell",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61366042",
+    "imdb": "tt9435162",
+    "tmdb": 535736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03"
+}

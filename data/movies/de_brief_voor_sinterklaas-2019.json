@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_brief_voor_sinterklaas_2019",
+  "title": "De brief voor Sinterklaas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64582826",
+    "imdb": "tt9848092",
+    "tmdb": 635759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-09",
+  "runtime_minutes": 60
+}

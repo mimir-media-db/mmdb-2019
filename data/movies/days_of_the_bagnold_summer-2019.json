@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_the_bagnold_summer_2019",
+  "title": "Days of the Bagnold Summer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96376067",
+    "imdb": "tt7343740",
+    "tmdb": 578944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 86
+}

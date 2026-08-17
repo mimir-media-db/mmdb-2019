@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drowning_2019",
+  "title": "Drowning",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107089194",
+    "imdb": "tt9506000",
+    "tmdb": 641229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

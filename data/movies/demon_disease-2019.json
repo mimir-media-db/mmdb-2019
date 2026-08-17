@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demon_disease_2019",
+  "title": "The Demon Disease",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67141935",
+    "imdb": "tt8297552",
+    "tmdb": 635786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 82
+}

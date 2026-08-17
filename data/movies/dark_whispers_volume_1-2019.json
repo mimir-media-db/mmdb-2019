@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_whispers_volume_1_2019",
+  "title": "Dark Whispers: Volume 1",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600237",
+    "imdb": "tt10448542",
+    "tmdb": 618331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

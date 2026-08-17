@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_night_obsession_2019",
+  "title": "Dance Night Obsession",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60847938",
+    "imdb": "tt5702314",
+    "tmdb": 593144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-26",
+  "runtime_minutes": 94
+}

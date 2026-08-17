@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_dont_die_2019",
+  "title": "The Dead Don't Die",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55564530",
+    "imdb": "tt8695030",
+    "tmdb": 535581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-14",
+  "runtime_minutes": 105
+}

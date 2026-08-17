@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daal_bhat_tarkari_2019",
+  "title": "Daal Bhat Tarkari",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58700545",
+    "imdb": "tt8848374",
+    "tmdb": 599156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26"
+}

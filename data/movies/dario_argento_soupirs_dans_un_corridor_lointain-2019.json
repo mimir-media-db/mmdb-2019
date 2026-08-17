@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dario_argento_soupirs_dans_un_corridor_lointain_2019",
+  "title": "Dario Argento: soupirs dans un corridor lointain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95599500",
+    "imdb": "tt10584804",
+    "tmdb": 609502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

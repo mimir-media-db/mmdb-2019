@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_diana_b_2019",
+  "title": "The Diary of Diana B",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67202845",
+    "imdb": "tt8028150",
+    "tmdb": 619239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18",
+  "runtime_minutes": 88
+}

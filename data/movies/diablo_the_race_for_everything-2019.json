@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diablo_the_race_for_everything_2019",
+  "title": "Diablo. The race for everything",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135720369",
+    "imdb": "tt8857666",
+    "tmdb": 568637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_rote_linie_widerstand_im_hambacher_forst_2019",
+  "title": "Die Rote Linie – Widerstand im Hambacher Forst",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63203733",
+    "imdb": "tt10373872",
+    "tmdb": 604271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-23",
+  "runtime_minutes": 115
+}

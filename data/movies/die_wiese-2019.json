@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_wiese_2019",
+  "title": "Die Wiese",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61910925",
+    "imdb": "tt10049110",
+    "tmdb": 592866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 93
+}

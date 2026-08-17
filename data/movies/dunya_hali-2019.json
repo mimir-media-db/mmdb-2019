@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dunya_hali_2019",
+  "title": "Dünya Hali",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79484926",
+    "imdb": "tt9116320",
+    "tmdb": 629583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24"
+}

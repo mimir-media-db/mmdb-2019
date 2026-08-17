@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ddr_die_entsorgte_republik_2019",
+  "title": "DDR – die entsorgte Republik",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117382500",
+    "imdb": "tt11058788",
+    "tmdb": 695253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

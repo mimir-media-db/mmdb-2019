@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_descendants_3_2019",
+  "title": "Descendants 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48967619",
+    "imdb": "tt8022928",
+    "tmdb": 506574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-02",
+  "runtime_minutes": 108
+}

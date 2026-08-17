@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_harbor_2019",
+  "title": "Dark Harbor",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66040044",
+    "imdb": "tt9099242",
+    "tmdb": 672271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-26"
+}

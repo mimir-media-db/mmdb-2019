@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirt_2019",
+  "title": "The Dirt",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635166",
+    "imdb": "tt0800325",
+    "tmdb": 327331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 108
+}

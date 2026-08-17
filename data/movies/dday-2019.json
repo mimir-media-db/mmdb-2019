@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dday_2019",
+  "title": "D-Day",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65933148",
+    "imdb": "tt10239930",
+    "tmdb": 609670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diva_of_finland_2019",
+  "title": "Diva of Finland",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70077789",
+    "imdb": "tt9242730",
+    "tmdb": 602696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_da_unten_im_himmel_2019",
+  "title": "Da unten im Himmel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77309133",
+    "imdb": "tt8610850"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_income_kids_2019",
+  "title": "Double Income, Kids",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98636328",
+    "imdb": "tt8961622",
+    "tmdb": 731922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-23",
+  "runtime_minutes": 94
+}

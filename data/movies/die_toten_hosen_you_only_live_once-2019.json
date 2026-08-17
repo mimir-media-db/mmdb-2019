@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_toten_hosen_you_only_live_once_2019",
+  "title": "Die Toten Hosen - You Only Live Once",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61785524",
+    "imdb": "tt8814806",
+    "tmdb": 576314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15",
+  "runtime_minutes": 106
+}

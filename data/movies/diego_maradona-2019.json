@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diego_maradona_2019",
+  "title": "Diego Maradona",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63457407",
+    "imdb": "tt5433114",
+    "tmdb": 536841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-14",
+  "runtime_minutes": 130
+}

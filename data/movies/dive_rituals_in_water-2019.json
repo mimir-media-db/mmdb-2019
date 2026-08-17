@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dive_rituals_in_water_2019",
+  "title": "Dive: Rituals in Water",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72921737",
+    "imdb": "tt10319078"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-28",
+  "runtime_minutes": 73
+}

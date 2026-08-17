@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dumbo_2019",
+  "title": "Dumbo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24284798",
+    "imdb": "tt3861390",
+    "tmdb": 329996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-27",
+  "runtime_minutes": 112
+}

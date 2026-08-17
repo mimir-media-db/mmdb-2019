@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_destination_wedding_2019",
+  "title": "Destination Wedding",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38463384",
+    "imdb": "tt6987770",
+    "tmdb": 489929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-10",
+  "runtime_minutes": 86
+}

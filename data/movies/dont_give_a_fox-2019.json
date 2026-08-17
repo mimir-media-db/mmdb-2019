@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_give_a_fox_2019",
+  "title": "Don't Give a Fox",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64052330",
+    "imdb": "tt9295640",
+    "tmdb": 590917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-23",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_world_2019",
+  "title": "Double World",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97487243",
+    "imdb": "tt10508838",
+    "tmdb": 611395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

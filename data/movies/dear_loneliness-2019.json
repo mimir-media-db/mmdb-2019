@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_loneliness_2019",
+  "title": "Dear Loneliness",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67933707",
+    "imdb": "tt12265346",
+    "tmdb": 629295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06"
+}

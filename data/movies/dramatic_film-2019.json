@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dramatic_film_2019",
+  "title": "A Dramatic Film",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111757362",
+    "imdb": "tt10793640",
+    "tmdb": 617102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 114
+}
