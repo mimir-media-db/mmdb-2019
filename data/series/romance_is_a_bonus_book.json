@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_is_a_bonus_book",
+  "title": "Romance Is a Bonus Book",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60174208",
+    "imdb": "tt9130542",
+    "tmdb": 85220
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

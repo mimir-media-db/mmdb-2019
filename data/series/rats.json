@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rats",
+  "title": "Rats",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102383455",
+    "imdb": "tt10720694",
+    "tmdb": 97547
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_reboot",
+  "title": "Reboot",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63926329"
+  },
+  "last_updated": "2026-08-17"
+}

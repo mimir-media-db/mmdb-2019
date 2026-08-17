@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ryans_mystery_playdate",
+  "title": "Ryan's Mystery Playdate",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q65121686",
+    "imdb": "tt9845168",
+    "tmdb": 88005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 117
+}

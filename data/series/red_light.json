@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_red_light",
+  "title": "Red Light",
+  "start_year": 2018,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65554008",
+    "imdb": "tt9866602",
+    "tmdb": 102842
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_radiation_house",
+  "title": "Radiation House",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q135915035",
+    "imdb": "tt9788526",
+    "tmdb": 88264
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

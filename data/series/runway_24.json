@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_runway_24",
+  "title": "Runway 24",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65247486",
+    "imdb": "tt10423152",
+    "tmdb": 91414
+  },
+  "last_updated": "2026-08-17"
+}

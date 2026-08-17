@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_royaha_karting_championship",
+  "title": "Royaha Karting Championship",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113375926",
+    "imdb": "tt15826370"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}

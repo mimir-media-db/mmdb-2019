@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_raising_dion",
+  "title": "Raising Dion",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q43401289",
+    "imdb": "tt7826108",
+    "tmdb": 93392
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}
