@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_age_2019",
+  "title": "Golden Age",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66281477",
+    "imdb": "tt11826302",
+    "tmdb": 594364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

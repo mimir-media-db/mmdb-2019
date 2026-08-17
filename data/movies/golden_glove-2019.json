@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_glove_2019",
+  "title": "The Golden Glove",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56054702",
+    "imdb": "tt7670212",
+    "tmdb": 505706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 110
+}

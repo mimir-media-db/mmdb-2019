@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goddess_of_fortune_2019",
+  "title": "The Goddess of Fortune",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79292339",
+    "imdb": "tt10256570",
+    "tmdb": 606952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 114
+}

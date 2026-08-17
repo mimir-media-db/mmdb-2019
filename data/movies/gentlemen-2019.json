@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentlemen_2019",
+  "title": "The Gentlemen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60614686",
+    "imdb": "tt8367814",
+    "tmdb": 522627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 113
+}

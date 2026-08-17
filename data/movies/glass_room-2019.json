@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_room_2019",
+  "title": "The Glass Room",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59257960",
+    "imdb": "tt8255890",
+    "tmdb": 498155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_left_behind_2019",
+  "title": "The Garden Left Behind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29469172",
+    "imdb": "tt3453008",
+    "tmdb": 552835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

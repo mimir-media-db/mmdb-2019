@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_of_love_sifar_2019",
+  "title": "A Gift of Love: Sifar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892656",
+    "imdb": "tt10465524"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

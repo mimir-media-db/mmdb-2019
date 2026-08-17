@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangs_of_madras_2019",
+  "title": "Gangs of Madras",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768304",
+    "imdb": "tt8983238",
+    "tmdb": 584030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
