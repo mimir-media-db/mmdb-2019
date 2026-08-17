@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_body_2019",
+  "title": "The Body",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85532356",
+    "imdb": "tt8130904",
+    "tmdb": 648316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

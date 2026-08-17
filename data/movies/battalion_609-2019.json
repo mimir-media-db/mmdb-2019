@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battalion_609_2019",
+  "title": "Battalion 609",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60685996",
+    "imdb": "tt9472208",
+    "tmdb": 576152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

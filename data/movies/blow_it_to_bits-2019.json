@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blow_it_to_bits_2019",
+  "title": "Blow It to Bits",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768589",
+    "imdb": "tt10228214",
+    "tmdb": 597099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

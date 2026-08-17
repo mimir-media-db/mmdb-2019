@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bento_harassment_2019",
+  "title": "Bento Harassment",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55540907",
+    "imdb": "tt9810090",
+    "tmdb": 514880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

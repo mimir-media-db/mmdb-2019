@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_ruby_2019",
+  "title": "Black Ruby",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57584314",
+    "imdb": "tt3499542",
+    "tmdb": 590767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

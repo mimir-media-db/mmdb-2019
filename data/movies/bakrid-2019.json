@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bakrid_2019",
+  "title": "Bakrid",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737972",
+    "imdb": "tt10731866",
+    "tmdb": 545238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

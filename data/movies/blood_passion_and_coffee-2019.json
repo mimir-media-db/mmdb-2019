@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_passion_and_coffee_2019",
+  "title": "Blood, Passion and Coffee",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893545",
+    "imdb": "tt9855170",
+    "tmdb": 637655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

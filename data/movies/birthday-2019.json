@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birthday_2019",
+  "title": "Birthday",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63145870",
+    "imdb": "tt10248334",
+    "tmdb": 574297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baristas_2019",
+  "title": "Baristas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83949329",
+    "imdb": "tt9695662",
+    "tmdb": 593599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beneath_us_2019",
+  "title": "Beneath Us",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366515",
+    "imdb": "tt5092484",
+    "tmdb": 590575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bodhai_yeri_budhi_maari_2019",
+  "title": "Bodhai Yeri Budhi Maari",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65070972",
+    "imdb": "tt9760682",
+    "tmdb": 613512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

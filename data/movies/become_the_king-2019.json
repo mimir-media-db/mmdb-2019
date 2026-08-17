@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_become_the_king_2019",
+  "title": "Become the King",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65273542",
+    "imdb": "tt10960116",
+    "tmdb": 620120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

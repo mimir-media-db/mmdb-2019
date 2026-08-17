@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhootchakra_pvt_ltd_2019",
+  "title": "Bhootchakra Pvt. Ltd.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65047969",
+    "imdb": "tt28349800",
+    "tmdb": 942389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

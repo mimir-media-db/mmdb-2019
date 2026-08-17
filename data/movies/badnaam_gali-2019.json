@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badnaam_gali_2019",
+  "title": "Badnaam Gali",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768634",
+    "imdb": "tt10318332",
+    "tmdb": 601469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buro_sadhu_2019",
+  "title": "Buro Sadhu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884932",
+    "imdb": "tt10636632",
+    "tmdb": 646463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
