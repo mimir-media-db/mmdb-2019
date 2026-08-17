@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_campanas_en_la_noche",
+  "title": "Campanas en la noche",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60619486",
+    "imdb": "tt10287238",
+    "tmdb": 85992
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

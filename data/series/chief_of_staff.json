@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chief_of_staff",
+  "title": "Chief of Staff",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q62272759",
+    "imdb": "tt10220476",
+    "tmdb": 89642
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

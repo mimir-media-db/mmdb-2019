@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_christmas_caroler_challenge",
+  "title": "The Christmas Caroler Challenge",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q105702043",
+    "imdb": "tt11534400"
+  },
+  "last_updated": "2026-08-17"
+}

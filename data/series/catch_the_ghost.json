@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_catch_the_ghost",
+  "title": "Catch the Ghost",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63981535",
+    "imdb": "tt10712926",
+    "tmdb": 94615
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chez_kromer",
+  "title": "Chez Krömer",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67330814",
+    "imdb": "tt10942384",
+    "tmdb": 93183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

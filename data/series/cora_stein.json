@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cora_stein",
+  "title": "Cora Stein",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q104873495",
+    "imdb": "tt10840164"
+  },
+  "last_updated": "2026-08-17"
+}

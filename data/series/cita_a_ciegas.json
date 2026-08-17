@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cita_a_ciegas",
+  "title": "Cita a ciegas",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64623707",
+    "imdb": "tt10440654",
+    "tmdb": 91241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 70
+}

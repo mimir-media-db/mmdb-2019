@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_catch22",
+  "title": "Catch-22",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48743233",
+    "imdb": "tt5056196",
+    "tmdb": 82744
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

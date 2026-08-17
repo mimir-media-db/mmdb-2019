@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chambers",
+  "title": "Chambers",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48814269",
+    "imdb": "tt7949204",
+    "tmdb": 80055
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

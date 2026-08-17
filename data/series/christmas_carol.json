@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_christmas_carol",
+  "title": "A Christmas Carol",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64481876",
+    "imdb": "tt7686464",
+    "tmdb": 321777
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

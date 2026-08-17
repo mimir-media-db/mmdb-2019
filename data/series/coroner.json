@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coroner",
+  "title": "Coroner",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q55608436",
+    "imdb": "tt8593252",
+    "tmdb": 85586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

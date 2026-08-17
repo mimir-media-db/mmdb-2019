@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cricket_fever_mumbai_indians",
+  "title": "Cricket Fever: Mumbai Indians",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61930031",
+    "imdb": "tt8531592",
+    "tmdb": 87070
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

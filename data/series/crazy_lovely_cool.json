@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crazy_lovely_cool",
+  "title": "Crazy Lovely, Cool",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86752531",
+    "imdb": "tt8528314",
+    "tmdb": 106649
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

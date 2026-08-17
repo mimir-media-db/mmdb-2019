@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cake",
+  "title": "Cake",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q83926533",
+    "imdb": "tt10768172",
+    "tmdb": 93035
+  },
+  "last_updated": "2026-08-17"
+}

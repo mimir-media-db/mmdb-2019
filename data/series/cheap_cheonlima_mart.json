@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cheap_cheonlima_mart",
+  "title": "Cheap Cheonlima Mart",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65269633",
+    "imdb": "tt10850864",
+    "tmdb": 92707
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
