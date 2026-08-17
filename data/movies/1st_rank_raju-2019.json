@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1st_rank_raju_2019",
+  "title": "1st Rank Raju",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65046639",
+    "imdb": "tt10540150",
+    "tmdb": 610266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-21"
+}

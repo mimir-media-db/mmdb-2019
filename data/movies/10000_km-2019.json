@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10000_km_2019",
+  "title": "10,000 km",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18340877",
+    "imdb": "tt3114132",
+    "tmdb": 253251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-25",
+  "runtime_minutes": 98
+}
