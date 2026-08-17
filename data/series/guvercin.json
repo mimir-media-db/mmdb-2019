@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_guvercin",
+  "title": "Güvercin",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q80163120",
+    "imdb": "tt11149738",
+    "tmdb": 95679
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gift_for_whom_you_hate",
+  "title": "A Gift For Whom You Hate",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q94694932",
+    "imdb": "tt12794966",
+    "tmdb": 95142
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

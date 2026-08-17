@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_go_live_your_way",
+  "title": "Go! Live Your Way",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60292960",
+    "imdb": "tt9654086",
+    "tmdb": 87024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

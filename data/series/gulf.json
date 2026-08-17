@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gulf",
+  "title": "The Gulf",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108686826",
+    "imdb": "tt9855482",
+    "tmdb": 92957
+  },
+  "last_updated": "2026-08-17"
+}

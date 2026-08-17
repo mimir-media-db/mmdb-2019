@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_of_clones",
+  "title": "Game of Clones",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q97170540",
+    "imdb": "tt9808680",
+    "tmdb": 77420
+  },
+  "last_updated": "2026-08-17"
+}

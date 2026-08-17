@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_australian_railway_journeys",
+  "title": "Great Australian Railway Journeys",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q83939893",
+    "imdb": "tt11141268",
+    "tmdb": 95758
+  },
+  "last_updated": "2026-08-17"
+}

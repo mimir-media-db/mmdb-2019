@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gosta",
+  "title": "Gösta",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q64829537",
+    "imdb": "tt8456154",
+    "tmdb": 90717
+  },
+  "last_updated": "2026-08-17"
+}

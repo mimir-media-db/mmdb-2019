@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gordon_ramsay_uncharted",
+  "title": "Gordon Ramsay: Uncharted",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65053600",
+    "imdb": "tt9165706",
+    "tmdb": 91405
+  },
+  "last_updated": "2026-08-17"
+}

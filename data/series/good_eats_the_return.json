@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_good_eats_the_return",
+  "title": "Good Eats: The Return",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96213614",
+    "imdb": "tt10771948"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_boy",
+  "title": "Golden Boy",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104857027",
+    "imdb": "tt10656928",
+    "tmdb": 91264
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_golden",
+  "title": "Golden",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135076572",
+    "imdb": "tt13902690",
+    "tmdb": 98564
+  },
+  "last_updated": "2026-08-17"
+}

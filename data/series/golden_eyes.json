@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_eyes",
+  "title": "The Golden Eyes",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48840673",
+    "imdb": "tt9859616",
+    "tmdb": 87133
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}
