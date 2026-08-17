@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_te_llevarias_a_una_isla_desierta_2019",
+  "title": "A quién te llevarías a una isla desierta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63183644",
+    "imdb": "tt8976832",
+    "tmdb": 586333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22",
+  "runtime_minutes": 93
+}

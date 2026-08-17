@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quand_on_crie_au_loup_2019",
+  "title": "Quand on crie au loup",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64549196",
+    "imdb": "tt8871394",
+    "tmdb": 550473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-03"
+}
