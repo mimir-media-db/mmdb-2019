@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_osomatsusan_the_movie_2019",
+  "title": "Osomatsusan the Movie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56175377",
+    "imdb": "tt8866460",
+    "tmdb": 559519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15"
+}

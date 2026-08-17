@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_hollywood_2019",
+  "title": "Once Upon a Time in Hollywood",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47300912",
+    "imdb": "tt7131622",
+    "tmdb": 466272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26",
+  "runtime_minutes": 161
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_observation_man_2019",
+  "title": "Observation Man",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840340",
+    "tmdb": 684501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-25"
+}

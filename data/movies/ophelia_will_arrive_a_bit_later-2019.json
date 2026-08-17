@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ophelia_will_arrive_a_bit_later_2019",
+  "title": "Ophelia will arrive a bit later",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108885063",
+    "imdb": "tt9853204"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 8
+}

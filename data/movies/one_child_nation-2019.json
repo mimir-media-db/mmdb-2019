@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_child_nation_2019",
+  "title": "One Child Nation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65972698",
+    "imdb": "tt8923482",
+    "tmdb": 566368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outsider_2019",
+  "title": "The Outsider",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97354041",
+    "imdb": "tt10303892",
+    "tmdb": 605347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

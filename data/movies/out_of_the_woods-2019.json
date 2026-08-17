@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_the_woods_2019",
+  "title": "Out Of The Woods",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600239",
+    "imdb": "tt5632370"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

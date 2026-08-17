@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_2019",
+  "title": "One Night",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65235533",
+    "imdb": "tt10101846",
+    "tmdb": 595112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-08",
+  "runtime_minutes": 123
+}

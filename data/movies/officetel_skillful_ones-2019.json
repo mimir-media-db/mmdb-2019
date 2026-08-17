@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_officetel_skillful_ones_2019",
+  "title": "Officetel - Skillful Ones",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840368",
+    "tmdb": 622668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ophelia_2019",
+  "title": "Ophelia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30597804",
+    "imdb": "tt5690810",
+    "tmdb": 428836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28",
+  "runtime_minutes": 114
+}
