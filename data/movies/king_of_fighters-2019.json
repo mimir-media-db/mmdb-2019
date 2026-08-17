@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_fighters_2019",
+  "title": "The king of fighters",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85973751",
+    "tmdb": 655381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

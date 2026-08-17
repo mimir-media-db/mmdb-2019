@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_newly_rich_2019",
+  "title": "Newly Rich",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61366110",
+    "imdb": "tt9420624",
+    "tmdb": 554733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 99
+}

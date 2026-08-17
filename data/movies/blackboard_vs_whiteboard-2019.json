@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blackboard_vs_whiteboard_2019",
+  "title": "Blackboard vs Whiteboard",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768526",
+    "imdb": "tt9089992",
+    "tmdb": 594163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

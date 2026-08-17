@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_special_labor_inspector",
+  "title": "Special Labor Inspector",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61360149",
+    "imdb": "tt9894162",
+    "tmdb": 87980
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_planets",
+  "title": "The Planets",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64705249",
+    "imdb": "tt10394800",
+    "tmdb": 89667
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

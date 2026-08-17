@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_only_2019",
+  "title": "Only",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62082686",
+    "imdb": "tt3984356",
+    "tmdb": 597233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

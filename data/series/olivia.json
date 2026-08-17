@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_olivia",
+  "title": "Olivia",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q68646129",
+    "imdb": "tt9758080",
+    "tmdb": 93690
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

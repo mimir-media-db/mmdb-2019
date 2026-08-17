@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_are_you_proud_2019",
+  "title": "Are You Proud?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366175",
+    "imdb": "tt10269016",
+    "tmdb": 604134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

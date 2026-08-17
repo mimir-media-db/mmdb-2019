@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maison_de_police",
+  "title": "Maison de Police",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60986887",
+    "imdb": "tt10028556",
+    "tmdb": 86473
+  },
+  "last_updated": "2026-08-17"
+}

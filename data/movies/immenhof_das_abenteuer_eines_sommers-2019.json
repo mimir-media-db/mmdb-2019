@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_immenhof_das_abenteuer_eines_sommers_2019",
+  "title": "Immenhof - Das Abenteuer eines Sommers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59103661",
+    "imdb": "tt4493588",
+    "tmdb": 555877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

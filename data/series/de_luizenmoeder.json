@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_luizenmoeder",
+  "title": "De Luizenmoeder",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q62606818",
+    "imdb": "tt9573106",
+    "tmdb": 89564
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

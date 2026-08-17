@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_is_2019",
+  "title": "is",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71974068",
+    "imdb": "tt9646240",
+    "tmdb": 636698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

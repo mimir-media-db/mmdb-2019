@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vertu_des_imponderables_2019",
+  "title": "La Vertu des impondérables",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85853733",
+    "imdb": "tt10356734",
+    "tmdb": 715313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

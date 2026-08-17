@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_supervized_2019",
+  "title": "Supervized",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76482527",
+    "imdb": "tt7302054",
+    "tmdb": 605048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

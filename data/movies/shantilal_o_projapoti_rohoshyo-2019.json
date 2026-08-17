@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shantilal_o_projapoti_rohoshyo_2019",
+  "title": "Shantilal O Projapoti Rohoshyo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65053395",
+    "imdb": "tt10574498",
+    "tmdb": 624480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leke",
+  "title": "Leke",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85972600",
+    "imdb": "tt10147676",
+    "tmdb": 88521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

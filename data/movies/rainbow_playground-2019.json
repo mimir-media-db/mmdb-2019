@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_playground_2019",
+  "title": "Rainbow Playground",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998787",
+    "imdb": "tt11135834",
+    "tmdb": 602625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

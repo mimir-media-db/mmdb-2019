@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_cruise",
+  "title": "Girls Cruise",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65045455",
+    "imdb": "tt10466426",
+    "tmdb": 91166
+  },
+  "last_updated": "2026-08-17"
+}

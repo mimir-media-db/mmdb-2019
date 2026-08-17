@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_une_autre_histoire",
+  "title": "Une autre histoire",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65147630",
+    "imdb": "tt12017938",
+    "tmdb": 85490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 83
+}

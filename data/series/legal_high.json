@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legal_high",
+  "title": "Legal High",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q58348029",
+    "imdb": "tt9537270",
+    "tmdb": 85701
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

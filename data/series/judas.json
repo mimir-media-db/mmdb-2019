@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_judas",
+  "title": "Judas",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60498866",
+    "imdb": "tt9537450",
+    "tmdb": 85508
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

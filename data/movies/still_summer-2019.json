@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_still_summer_2019",
+  "title": "Still Summer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999173",
+    "tmdb": 959710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

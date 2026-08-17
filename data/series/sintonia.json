@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sintonia",
+  "title": "Sintonia",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60747236",
+    "imdb": "tt8165086",
+    "tmdb": 78074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gorilla_2019",
+  "title": "Gorilla",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737552",
+    "imdb": "tt8011348",
+    "tmdb": 505677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

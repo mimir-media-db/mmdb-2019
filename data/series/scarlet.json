@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_scarlet",
+  "title": "Scarlet",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q59391099",
+    "imdb": "tt13063096",
+    "tmdb": 94333
+  },
+  "last_updated": "2026-08-17"
+}

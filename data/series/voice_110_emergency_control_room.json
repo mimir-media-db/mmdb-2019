@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_110_emergency_control_room",
+  "title": "Voice: 110 Emergency Control Room",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97187808",
+    "imdb": "tt10344670",
+    "tmdb": 92852
+  },
+  "last_updated": "2026-08-17"
+}

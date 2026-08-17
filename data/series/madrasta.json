@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_madrasta",
+  "title": "Madrasta",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q70039205",
+    "imdb": "tt11075188",
+    "tmdb": 219211
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

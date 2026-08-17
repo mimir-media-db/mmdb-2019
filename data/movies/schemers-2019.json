@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schemers_2019",
+  "title": "Schemers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64950496",
+    "imdb": "tt6107796",
+    "tmdb": 605900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

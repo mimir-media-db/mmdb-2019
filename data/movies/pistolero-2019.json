@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pistolero_2019",
+  "title": "Pistolero",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76985782",
+    "imdb": "tt4903334",
+    "tmdb": 633149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

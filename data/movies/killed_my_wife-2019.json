@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killed_my_wife_2019",
+  "title": "Killed My Wife",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999228",
+    "imdb": "tt11454162",
+    "tmdb": 588297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

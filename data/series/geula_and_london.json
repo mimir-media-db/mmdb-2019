@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_geula_and_london",
+  "title": "Geula and London",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65250414",
+    "imdb": "tt12004592"
+  },
+  "last_updated": "2026-08-17"
+}

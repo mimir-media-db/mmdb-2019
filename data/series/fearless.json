@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fearless",
+  "title": "The Fearless",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60994114",
+    "imdb": "tt10969666",
+    "tmdb": 93011
+  },
+  "last_updated": "2026-08-17"
+}

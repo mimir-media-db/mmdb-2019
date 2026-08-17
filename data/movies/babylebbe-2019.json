@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babylebbe_2019",
+  "title": "Babylebbe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126322",
+    "imdb": "tt12131642",
+    "tmdb": 666097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 19
+}

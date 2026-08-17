@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_kinder_der_toten_2019",
+  "title": "Die Kinder der Toten",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60690641",
+    "imdb": "tt9130810",
+    "tmdb": 576034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

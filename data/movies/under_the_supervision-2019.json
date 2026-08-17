@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_supervision_2019",
+  "title": "Under the Supervision",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61062839",
+    "imdb": "tt12451792",
+    "tmdb": 706145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

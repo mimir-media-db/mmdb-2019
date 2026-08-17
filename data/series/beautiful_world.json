@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_world",
+  "title": "Beautiful World",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61360220",
+    "imdb": "tt9863724",
+    "tmdb": 87405
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

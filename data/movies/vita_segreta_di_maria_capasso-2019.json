@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vita_segreta_di_maria_capasso_2019",
+  "title": "Vita segreta di Maria Capasso",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86663355",
+    "imdb": "tt10555976",
+    "tmdb": 605257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_best_chicken",
+  "title": "Best Chicken",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60040976",
+    "imdb": "tt9426382",
+    "tmdb": 85415
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_house_divided",
+  "title": "A House Divided",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q96371281",
+    "imdb": "tt10437218",
+    "tmdb": 24594
+  },
+  "last_updated": "2026-08-17"
+}

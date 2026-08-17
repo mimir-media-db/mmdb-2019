@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_intangible_2019",
+  "title": "Lo intangible",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79777487",
+    "imdb": "tt11582822"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 63
+}

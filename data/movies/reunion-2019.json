@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_2019",
+  "title": "Reunion",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82082929",
+    "imdb": "tt10790396",
+    "tmdb": 645807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

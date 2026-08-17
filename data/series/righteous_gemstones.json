@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_righteous_gemstones",
+  "title": "The Righteous Gemstones",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60529631",
+    "imdb": "tt8634332",
+    "tmdb": 82782
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 27
+}

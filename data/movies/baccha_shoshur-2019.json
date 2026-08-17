@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baccha_shoshur_2019",
+  "title": "Baccha Shoshur",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768155",
+    "imdb": "tt9680180",
+    "tmdb": 581623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

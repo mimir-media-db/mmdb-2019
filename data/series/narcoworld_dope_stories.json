@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_narcoworld_dope_stories",
+  "title": "Narcoworld: Dope Stories",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q78131787",
+    "imdb": "tt11215112",
+    "tmdb": 95661
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

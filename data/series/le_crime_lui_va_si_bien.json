@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_crime_lui_va_si_bien",
+  "title": "Le crime lui va si bien",
+  "start_year": 2019,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q109042761",
+    "imdb": "tt13761678",
+    "tmdb": 117125
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

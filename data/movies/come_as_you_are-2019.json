@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_as_you_are_2019",
+  "title": "Come As You Are",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64005355",
+    "imdb": "tt6722726",
+    "tmdb": 576568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

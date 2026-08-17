@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saak_2019",
+  "title": "Saak",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85799054",
+    "imdb": "tt9612164",
+    "tmdb": 641676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

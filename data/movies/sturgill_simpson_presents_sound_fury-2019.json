@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sturgill_simpson_presents_sound_fury_2019",
+  "title": "Sturgill Simpson Presents Sound & Fury",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70213684",
+    "imdb": "tt10682000",
+    "tmdb": 624989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 41
+}

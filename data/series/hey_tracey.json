@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hey_tracey",
+  "title": "Hey Tracey!",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q124435123",
+    "imdb": "tt10451168"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

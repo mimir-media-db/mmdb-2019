@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amsterdam_vice_2019",
+  "title": "Amsterdam Vice",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64021812",
+    "imdb": "tt8747308",
+    "tmdb": 545925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

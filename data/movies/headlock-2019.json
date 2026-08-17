@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_headlock_2019",
+  "title": "Headlock",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131937",
+    "imdb": "tt3813094",
+    "tmdb": 336007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_love_and_war",
+  "title": "Queen: Love and War",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q74824806",
+    "imdb": "tt11377864",
+    "tmdb": 95109
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

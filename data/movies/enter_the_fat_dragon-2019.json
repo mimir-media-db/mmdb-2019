@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enter_the_fat_dragon_2019",
+  "title": "Enter the Fat Dragon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55610927",
+    "imdb": "tt7335600",
+    "tmdb": 503917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

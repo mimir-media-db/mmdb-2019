@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aewol_written_on_the_wind_2019",
+  "title": "Aewol - Written on the Wind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999036",
+    "imdb": "tt13802742",
+    "tmdb": 624584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

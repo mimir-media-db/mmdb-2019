@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_do_i_exist_a_riddle_2019",
+  "title": "Do I exist: A riddle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68681331",
+    "imdb": "tt10465994"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

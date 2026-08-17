@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gattimela",
+  "title": "Gattimela",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96379117",
+    "imdb": "tt10127726",
+    "tmdb": 99684
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_in_room_301",
+  "title": "Man in Room 301",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q92721388",
+    "imdb": "tt10588740",
+    "tmdb": 99612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

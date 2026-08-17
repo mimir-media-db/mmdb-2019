@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fyre_fraud_2019",
+  "title": "Fyre Fraud",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738582",
+    "imdb": "tt7843600",
+    "tmdb": 575190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

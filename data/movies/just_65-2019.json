@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_65_2019",
+  "title": "Just 6.5",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56365881",
+    "imdb": "tt9817070",
+    "tmdb": 583794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 131
+}

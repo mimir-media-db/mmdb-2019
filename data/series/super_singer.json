@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_super_singer",
+  "title": "Super Singer",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112724518"
+  },
+  "last_updated": "2026-08-17"
+}

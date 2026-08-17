@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mercado_central",
+  "title": "Mercado central",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q67442409",
+    "imdb": "tt10371028",
+    "tmdb": 93989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 310
+}

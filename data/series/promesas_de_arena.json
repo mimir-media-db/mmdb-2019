@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_promesas_de_arena",
+  "title": "Promesas de arena",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q71981733",
+    "imdb": "tt9165676",
+    "tmdb": 95343
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

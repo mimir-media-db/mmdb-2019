@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gogol",
+  "title": "Gogol",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55158653",
+    "imdb": "tt6532868",
+    "tmdb": 88557
+  },
+  "last_updated": "2026-08-17"
+}

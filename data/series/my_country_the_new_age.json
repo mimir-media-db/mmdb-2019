@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_country_the_new_age",
+  "title": "My Country: The New Age",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63282795",
+    "imdb": "tt10850888",
+    "tmdb": 93490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

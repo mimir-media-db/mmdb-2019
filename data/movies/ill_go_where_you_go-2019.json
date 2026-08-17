@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_go_where_you_go_2019",
+  "title": "I'll Go Where You Go",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68091381",
+    "imdb": "tt10533078",
+    "tmdb": 589985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

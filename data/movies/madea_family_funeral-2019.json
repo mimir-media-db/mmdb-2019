@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madea_family_funeral_2019",
+  "title": "A Madea Family Funeral",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55436190",
+    "imdb": "tt7054636",
+    "tmdb": 464504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

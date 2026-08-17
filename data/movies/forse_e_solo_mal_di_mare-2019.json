@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forse_e_solo_mal_di_mare_2019",
+  "title": "Forse è solo mal di mare",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65127726",
+    "imdb": "tt8479990",
+    "tmdb": 595720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}

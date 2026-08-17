@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_my_river_2019",
+  "title": "To My River",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65311473",
+    "imdb": "tt9520700",
+    "tmdb": 528379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

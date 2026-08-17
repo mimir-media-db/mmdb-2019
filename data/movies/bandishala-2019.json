@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bandishala_2019",
+  "title": "Bandishala",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894295",
+    "imdb": "tt10340968",
+    "tmdb": 620954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

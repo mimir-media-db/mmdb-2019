@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_usurpadora",
+  "title": "La usurpadora",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65162571",
+    "imdb": "tt10709178",
+    "tmdb": 92433
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

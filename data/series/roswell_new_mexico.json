@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_roswell_new_mexico",
+  "title": "Roswell, New Mexico",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q53216892",
+    "imdb": "tt7588054",
+    "tmdb": 82001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

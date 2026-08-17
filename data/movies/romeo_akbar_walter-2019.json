@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romeo_akbar_walter_2019",
+  "title": "Romeo Akbar Walter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768011",
+    "imdb": "tt8550208",
+    "tmdb": 585862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

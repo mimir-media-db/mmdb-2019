@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_where_have_my_skirts_gone",
+  "title": "Where Have My Skirts Gone?",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64006590",
+    "imdb": "tt10005384",
+    "tmdb": 115323
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

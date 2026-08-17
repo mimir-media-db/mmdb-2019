@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_power_of_legacy",
+  "title": "Power of Legacy",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62564745",
+    "imdb": "tt10089436"
+  },
+  "last_updated": "2026-08-17"
+}

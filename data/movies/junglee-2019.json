@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_junglee_2019",
+  "title": "Junglee",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274036",
+    "imdb": "tt7463730",
+    "tmdb": 560964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

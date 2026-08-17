@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prisioneira",
+  "title": "Prisioneira",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65166422",
+    "imdb": "tt10018730",
+    "tmdb": 156767
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 219
+}

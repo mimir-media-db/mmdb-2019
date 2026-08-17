@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sweet_lie",
+  "title": "My Sweet Lie",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q77424461",
+    "imdb": "tt10374050",
+    "tmdb": 90271
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 28
+}

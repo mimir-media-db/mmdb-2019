@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_family_food_fight",
+  "title": "Family Food Fight",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65046106",
+    "imdb": "tt8509962",
+    "tmdb": 92255
+  },
+  "last_updated": "2026-08-17"
+}

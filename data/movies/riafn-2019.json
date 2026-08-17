@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riafn_2019",
+  "title": "Riafn",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88103096",
+    "imdb": "tt10299378",
+    "tmdb": 595401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 30
+}

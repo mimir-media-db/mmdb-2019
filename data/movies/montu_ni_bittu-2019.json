@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_montu_ni_bittu_2019",
+  "title": "Montu Ni Bittu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77890237",
+    "imdb": "tt10713826",
+    "tmdb": 689194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandam_amada_2019",
+  "title": "Pandam Amada",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894979",
+    "imdb": "tt11665772",
+    "tmdb": 980548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

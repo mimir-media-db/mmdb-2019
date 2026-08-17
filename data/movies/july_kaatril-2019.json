@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_july_kaatril_2019",
+  "title": "July Kaatril",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768407",
+    "imdb": "tt9905796",
+    "tmdb": 588280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

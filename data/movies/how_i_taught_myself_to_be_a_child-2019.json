@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_taught_myself_to_be_a_child_2019",
+  "title": "How I taught myself to be a child",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61657535",
+    "imdb": "tt9806222",
+    "tmdb": 591350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 140
+}

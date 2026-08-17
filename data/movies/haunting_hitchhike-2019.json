@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_hitchhike_2019",
+  "title": "A Haunting Hitchhike",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65325565",
+    "imdb": "tt8154034",
+    "tmdb": 489300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

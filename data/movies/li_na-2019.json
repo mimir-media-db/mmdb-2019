@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_li_na_2019",
+  "title": "Li Na",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53555185",
+    "imdb": "tt9150572",
+    "tmdb": 639451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

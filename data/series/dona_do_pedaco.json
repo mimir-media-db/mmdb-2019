@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dona_do_pedaco",
+  "title": "A Dona do Pedaço",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60041070",
+    "imdb": "tt10382912",
+    "tmdb": 90234
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 161
+}

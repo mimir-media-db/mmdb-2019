@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resistance_fighters_the_global_antibiotics_crisis_2019",
+  "title": "Resistance Fighters – The Global Antibiotics Crisis",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84414588",
+    "imdb": "tt9786002",
+    "tmdb": 589809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 99
+}

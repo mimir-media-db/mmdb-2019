@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_racheltjie_de_beer_2019",
+  "title": "The Story of Racheltjie De Beer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15921315",
+    "imdb": "tt2188925",
+    "tmdb": 624631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

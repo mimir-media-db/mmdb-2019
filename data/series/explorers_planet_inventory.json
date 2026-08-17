@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_explorers_planet_inventory",
+  "title": "The Explorers - Planet Inventory",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113626815",
+    "imdb": "tt8943336"
+  },
+  "last_updated": "2026-08-17"
+}

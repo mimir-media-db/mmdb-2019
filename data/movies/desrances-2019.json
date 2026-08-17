@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desrances_2019",
+  "title": "Desrances",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63106271",
+    "imdb": "tt8705658",
+    "tmdb": 627067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_trot",
+  "title": "Miss Trot",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61101010"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

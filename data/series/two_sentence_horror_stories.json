@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_two_sentence_horror_stories",
+  "title": "Two Sentence Horror Stories",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65054526",
+    "imdb": "tt6873926",
+    "tmdb": 90961
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

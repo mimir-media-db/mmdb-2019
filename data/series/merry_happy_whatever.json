@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_merry_happy_whatever",
+  "title": "Merry Happy Whatever",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62378411",
+    "imdb": "tt9770286",
+    "tmdb": 94587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

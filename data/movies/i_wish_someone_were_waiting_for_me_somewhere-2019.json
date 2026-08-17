@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_wish_someone_were_waiting_for_me_somewhere_2019",
+  "title": "I Wish Someone Were Waiting for Me Somewhere",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64007200",
+    "imdb": "tt9151382",
+    "tmdb": 613336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

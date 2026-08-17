@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_boys_2019",
+  "title": "Old Boys",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77711492",
+    "imdb": "tt5724948",
+    "tmdb": 498301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

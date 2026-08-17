@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pili_pala",
+  "title": "Pili Pala",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q97353539",
+    "imdb": "tt10161138",
+    "tmdb": 229547
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

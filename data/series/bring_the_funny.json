@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bring_the_funny",
+  "title": "Bring the Funny",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65118918",
+    "imdb": "tt9777918",
+    "tmdb": 90985
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

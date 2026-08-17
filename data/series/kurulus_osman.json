@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kurulus_osman",
+  "title": "Kuruluş: Osman",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64878719",
+    "imdb": "tt11093718",
+    "tmdb": 95603
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 177
+}

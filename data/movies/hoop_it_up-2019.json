@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hoop_it_up_2019",
+  "title": "Hoop It up",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65264406",
+    "tmdb": 494488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

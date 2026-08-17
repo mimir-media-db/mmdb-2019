@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yongjiu_grocery_store",
+  "title": "Yong-Jiu Grocery Store",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q51884642",
+    "imdb": "tt11127098",
+    "tmdb": 93060
+  },
+  "last_updated": "2026-08-17"
+}

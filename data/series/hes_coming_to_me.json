@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hes_coming_to_me",
+  "title": "He's Coming To Me",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61872430",
+    "imdb": "tt10610752",
+    "tmdb": 87493
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

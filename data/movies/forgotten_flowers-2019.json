@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forgotten_flowers_2019",
+  "title": "Forgotten Flowers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56073176",
+    "imdb": "tt8399104",
+    "tmdb": 622733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

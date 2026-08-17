@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lancaster_skies_2019",
+  "title": "Lancaster Skies",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61664947",
+    "imdb": "tt3486080",
+    "tmdb": 517517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

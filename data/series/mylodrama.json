@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mylodrama",
+  "title": "Mylodrama",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q86680921",
+    "imdb": "tt11095572",
+    "tmdb": 87126
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

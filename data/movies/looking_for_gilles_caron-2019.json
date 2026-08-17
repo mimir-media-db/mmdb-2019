@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_gilles_caron_2019",
+  "title": "Looking for Gilles Caron",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86726240",
+    "imdb": "tt11050964",
+    "tmdb": 656573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}

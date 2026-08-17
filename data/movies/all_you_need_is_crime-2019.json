@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_you_need_is_crime_2019",
+  "title": "All You Need Is Crime",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60500172",
+    "imdb": "tt7475206",
+    "tmdb": 563907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}

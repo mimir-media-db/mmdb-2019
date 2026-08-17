@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ten_years_late",
+  "title": "Ten Years Late",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55074798",
+    "imdb": "tt8052538",
+    "tmdb": 93892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 45
+}

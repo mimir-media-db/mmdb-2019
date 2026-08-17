@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hyperdrive",
+  "title": "Hyperdrive",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66685933",
+    "imdb": "tt8911552",
+    "tmdb": 91766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

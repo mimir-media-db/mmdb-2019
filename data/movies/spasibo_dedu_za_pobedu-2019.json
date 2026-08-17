@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spasibo_dedu_za_pobedu_2019",
+  "title": "Spasibo dedu za pobedu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60853439",
+    "imdb": "tt10308674",
+    "tmdb": 576984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

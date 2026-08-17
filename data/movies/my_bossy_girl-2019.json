@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_bossy_girl_2019",
+  "title": "My Bossy Girl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72544251",
+    "imdb": "tt11381218",
+    "tmdb": 640793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

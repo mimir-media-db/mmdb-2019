@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nirahua_chalal_london_2019",
+  "title": "Nirahua Chalal London",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56280780",
+    "imdb": "tt11011868",
+    "tmdb": 1495136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

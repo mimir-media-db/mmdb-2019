@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_man_most_wanted_2019",
+  "title": "Inside Man: Most Wanted",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63986488",
+    "imdb": "tt7832848",
+    "tmdb": 619278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brigada_costa_del_sol",
+  "title": "Brigada Costa del Sol",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63440669",
+    "imdb": "tt8476166",
+    "tmdb": 89171
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

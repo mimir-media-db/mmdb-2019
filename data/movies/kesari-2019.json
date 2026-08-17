@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kesari_2019",
+  "title": "Kesari",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47090463",
+    "imdb": "tt6264938",
+    "tmdb": 498448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 150
+}

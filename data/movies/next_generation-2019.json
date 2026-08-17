@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_next_generation_2019",
+  "title": "Next Generation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83892454",
+    "imdb": "tt11601440"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

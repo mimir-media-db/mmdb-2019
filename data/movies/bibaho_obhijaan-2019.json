@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bibaho_obhijaan_2019",
+  "title": "Bibaho Obhijaan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64770632",
+    "imdb": "tt9461494",
+    "tmdb": 617491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

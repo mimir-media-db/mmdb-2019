@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_azzaima",
+  "title": "Azzaima",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64678890",
+    "imdb": "tt12278346"
+  },
+  "last_updated": "2026-08-17"
+}

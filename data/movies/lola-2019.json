@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lola_2019",
+  "title": "Lola",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77397035",
+    "imdb": "tt8356178",
+    "tmdb": 617299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

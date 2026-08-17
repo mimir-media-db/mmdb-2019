@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_happiness_2019",
+  "title": "A Journey Of Happiness",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60693674",
+    "imdb": "tt9609726",
+    "tmdb": 579794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

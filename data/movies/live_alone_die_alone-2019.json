@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_live_alone_die_alone_2019",
+  "title": "Live Alone, Die Alone",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65243154",
+    "tmdb": 648134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

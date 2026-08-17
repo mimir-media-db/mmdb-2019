@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gong_show",
+  "title": "The Gong Show",
+  "start_year": 2019,
+  "end_year": 1989,
+  "external_ids": {
+    "wikidata": "Q3290131",
+    "imdb": "tt0133303",
+    "tmdb": 9910
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spinster_2019",
+  "title": "Spinster",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55633702",
+    "imdb": "tt8452136",
+    "tmdb": 528630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

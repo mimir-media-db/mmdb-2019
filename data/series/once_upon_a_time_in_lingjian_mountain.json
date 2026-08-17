@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_once_upon_a_time_in_lingjian_mountain",
+  "title": "Once Upon A Time In Lingjian Mountain",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q77855142",
+    "imdb": "tt11261994",
+    "tmdb": 95380
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

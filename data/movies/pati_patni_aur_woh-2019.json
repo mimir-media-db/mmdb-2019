@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pati_patni_aur_woh_2019",
+  "title": "Pati Patni Aur Woh",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63093209",
+    "imdb": "tt9680136",
+    "tmdb": 590350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

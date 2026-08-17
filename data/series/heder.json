@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_heder",
+  "title": "Heder",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65065351",
+    "imdb": "tt9318602",
+    "tmdb": 93027
+  },
+  "last_updated": "2026-08-17"
+}

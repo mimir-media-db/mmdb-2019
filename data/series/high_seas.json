@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_seas",
+  "title": "High Seas",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q59591953",
+    "imdb": "tt8961508",
+    "tmdb": 88239
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 8
+}

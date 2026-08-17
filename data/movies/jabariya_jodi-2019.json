@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jabariya_jodi_2019",
+  "title": "Jabariya Jodi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56277377",
+    "imdb": "tt8785426",
+    "tmdb": 543693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

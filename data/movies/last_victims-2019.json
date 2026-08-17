@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_victims_2019",
+  "title": "The Last Victims",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61450776",
+    "imdb": "tt4727422",
+    "tmdb": 745298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

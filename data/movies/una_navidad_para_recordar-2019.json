@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_navidad_para_recordar_2019",
+  "title": "Una Navidad para recordar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67408579",
+    "imdb": "tt10527634",
+    "tmdb": 680706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

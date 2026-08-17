@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selah_and_the_spades_2019",
+  "title": "Selah and the Spades",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63450284",
+    "imdb": "tt8759834",
+    "tmdb": 543727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

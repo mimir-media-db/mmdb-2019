@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rook",
+  "title": "The Rook",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55635519",
+    "imdb": "tt7395992",
+    "tmdb": 79272
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

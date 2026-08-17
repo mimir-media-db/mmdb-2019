@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_quien_es_la_mascara_programa_de_television_mexicano",
+  "title": "¿Quién es la máscara? (programa de televisión mexicano)",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65160215",
+    "imdb": "tt10912522",
+    "tmdb": 93597
+  },
+  "last_updated": "2026-08-17"
+}

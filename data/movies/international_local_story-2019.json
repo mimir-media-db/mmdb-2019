@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_international_local_story_2019",
+  "title": "An International Local Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737770",
+    "imdb": "tt9399712",
+    "tmdb": 599029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

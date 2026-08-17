@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natpe_thunai_2019",
+  "title": "Natpe Thunai",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725764",
+    "imdb": "tt9615020",
+    "tmdb": 590548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

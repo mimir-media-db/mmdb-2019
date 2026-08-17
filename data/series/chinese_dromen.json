@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chinese_dromen",
+  "title": "Chinese dromen",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q131694106",
+    "imdb": "tt10642382",
+    "tmdb": 120246
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

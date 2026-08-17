@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_non_mentire",
+  "title": "Non mentire",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61987397",
+    "imdb": "tt8712566",
+    "tmdb": 100571
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

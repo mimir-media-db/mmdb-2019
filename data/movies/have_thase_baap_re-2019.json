@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_have_thase_baap_re_2019",
+  "title": "Have Thase Baap Re",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738288",
+    "imdb": "tt9283084",
+    "tmdb": 1597163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

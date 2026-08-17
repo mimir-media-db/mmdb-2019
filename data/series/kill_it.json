@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kill_it",
+  "title": "Kill It",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61360178",
+    "imdb": "tt9772814",
+    "tmdb": 87185
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aalukku_paathi_5050_2019",
+  "title": "Aalukku Paathi 50/50",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049193",
+    "imdb": "tt10650688",
+    "tmdb": 493102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_monk_2019",
+  "title": "The Incredible Monk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998758",
+    "imdb": "tt10218782",
+    "tmdb": 540884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

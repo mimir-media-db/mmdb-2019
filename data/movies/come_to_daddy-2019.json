@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_to_daddy_2019",
+  "title": "Come to Daddy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62083687",
+    "imdb": "tt8816194",
+    "tmdb": 586592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}

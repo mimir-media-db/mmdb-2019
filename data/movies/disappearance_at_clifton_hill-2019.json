@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disappearance_at_clifton_hill_2019",
+  "title": "Disappearance at Clifton Hill",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66123727",
+    "imdb": "tt5919756",
+    "tmdb": 598577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

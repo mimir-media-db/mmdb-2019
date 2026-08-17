@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_squad_2019",
+  "title": "Red Squad",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60311359",
+    "imdb": "tt2103237"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

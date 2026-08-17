@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_graceful_family",
+  "title": "Graceful Family",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65277880",
+    "imdb": "tt10815362",
+    "tmdb": 91902
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

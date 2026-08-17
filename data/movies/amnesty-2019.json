@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amnesty_2019",
+  "title": "Amnesty",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83828354",
+    "imdb": "tt9351112",
+    "tmdb": 630937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 130
+}

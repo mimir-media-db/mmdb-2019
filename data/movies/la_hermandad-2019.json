@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_hermandad_2019",
+  "title": "La Hermandad",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65923193",
+    "imdb": "tt11573372"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

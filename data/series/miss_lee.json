@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_lee",
+  "title": "Miss Lee",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66085187",
+    "imdb": "tt10869308",
+    "tmdb": 93040
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_with_love_the_series",
+  "title": "With Love: The Series",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q84049098"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

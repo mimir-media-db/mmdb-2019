@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gracious_revenge",
+  "title": "Gracious Revenge",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q72716649",
+    "imdb": "tt11133628",
+    "tmdb": 94952
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 103
+}

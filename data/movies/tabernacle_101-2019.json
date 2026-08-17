@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tabernacle_101_2019",
+  "title": "Tabernacle 101",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66839790",
+    "imdb": "tt5265980",
+    "tmdb": 627322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

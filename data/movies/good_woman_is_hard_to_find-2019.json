@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_woman_is_hard_to_find_2019",
+  "title": "A Good Woman Is Hard to Find",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46604721",
+    "imdb": "tt6624144",
+    "tmdb": 500656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vwars",
+  "title": "V-Wars",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q52381510",
+    "imdb": "tt7403736",
+    "tmdb": 81559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

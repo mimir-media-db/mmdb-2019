@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_garfield_originals",
+  "title": "Garfield Originals",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60965545",
+    "imdb": "tt12084604",
+    "tmdb": 123342
+  },
+  "last_updated": "2026-08-17"
+}

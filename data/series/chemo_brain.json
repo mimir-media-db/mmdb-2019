@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chemo_brain",
+  "title": "Chemo Brain",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q83629903",
+    "imdb": "tt11097716",
+    "tmdb": 96401
+  },
+  "last_updated": "2026-08-17"
+}

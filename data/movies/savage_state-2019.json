@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_savage_state_2019",
+  "title": "Savage State",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87329512",
+    "imdb": "tt8770976",
+    "tmdb": 582919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 118
+}

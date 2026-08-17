@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panda_vs_aliens_2019",
+  "title": "Panda vs. Aliens",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58814723",
+    "imdb": "tt5990174",
+    "tmdb": 756806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

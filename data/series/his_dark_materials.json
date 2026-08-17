@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_his_dark_materials",
+  "title": "His Dark Materials",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q56195117",
+    "imdb": "tt5607976",
+    "tmdb": 68507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

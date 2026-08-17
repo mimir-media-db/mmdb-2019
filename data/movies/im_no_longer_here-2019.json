@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_no_longer_here_2019",
+  "title": "I'm No Longer Here",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95856810",
+    "imdb": "tt4323594",
+    "tmdb": 582927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 112
+}

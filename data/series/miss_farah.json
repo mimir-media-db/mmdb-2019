@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_farah",
+  "title": "Miss Farah",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q79477706",
+    "imdb": "tt12485636",
+    "tmdb": 98059
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 110
+}

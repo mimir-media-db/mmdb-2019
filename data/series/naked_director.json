@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_naked_director",
+  "title": "The Naked Director",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65059862",
+    "imdb": "tt10477528",
+    "tmdb": 90955
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

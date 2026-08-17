@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oldtimers_2019",
+  "title": "Old-Timers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83827417",
+    "imdb": "tt9436632",
+    "tmdb": 619374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

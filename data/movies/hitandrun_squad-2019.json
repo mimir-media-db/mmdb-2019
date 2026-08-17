@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitandrun_squad_2019",
+  "title": "Hit-and-Run Squad",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60054842",
+    "imdb": "tt8119844",
+    "tmdb": 568320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

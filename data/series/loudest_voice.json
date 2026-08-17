@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_loudest_voice",
+  "title": "The Loudest Voice",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56281064",
+    "imdb": "tt6821044",
+    "tmdb": 80443
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

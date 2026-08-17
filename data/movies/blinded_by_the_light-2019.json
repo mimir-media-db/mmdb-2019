@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blinded_by_the_light_2019",
+  "title": "Blinded by the Light",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738658",
+    "imdb": "tt8266310",
+    "tmdb": 534259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 118
+}

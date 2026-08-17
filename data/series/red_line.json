@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_red_line",
+  "title": "The Red Line",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55074635",
+    "imdb": "tt7985646"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_the_sins",
+  "title": "All the Sins",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56402612",
+    "imdb": "tt8475274",
+    "tmdb": 88227
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_green_door",
+  "title": "Green Door",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55708527",
+    "imdb": "tt9817290",
+    "tmdb": 87663
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

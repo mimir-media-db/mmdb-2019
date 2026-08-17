@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gando",
+  "title": "Gando",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65196090",
+    "imdb": "tt13557628",
+    "tmdb": 90710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 67
+}

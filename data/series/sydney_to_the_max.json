@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sydney_to_the_max",
+  "title": "Sydney to the Max",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q59351553",
+    "imdb": "tt8959856",
+    "tmdb": 84915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 63
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_exit",
+  "title": "Exit",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q69569438",
+    "imdb": "tt9612102",
+    "tmdb": 94137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

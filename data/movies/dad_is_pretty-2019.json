@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dad_is_pretty_2019",
+  "title": "Dad is Pretty",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999154",
+    "imdb": "tt9538710",
+    "tmdb": 596755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arsenal_military_academy",
+  "title": "Arsenal Military Academy",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q66309248",
+    "imdb": "tt11024384",
+    "tmdb": 92648
+  },
+  "last_updated": "2026-08-17"
+}

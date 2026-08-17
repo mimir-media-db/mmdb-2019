@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_market_raja_mbbs_2019",
+  "title": "Market Raja MBBS",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884256",
+    "imdb": "tt11064472",
+    "tmdb": 602287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rev_roll",
+  "title": "Rev & Roll",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q70753542",
+    "imdb": "tt9741332",
+    "tmdb": 99729
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

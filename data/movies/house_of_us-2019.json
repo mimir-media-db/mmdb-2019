@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_us_2019",
+  "title": "The House of Us",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998785",
+    "imdb": "tt10713818",
+    "tmdb": 575720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phulmania_2019",
+  "title": "Phulmania",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77890179",
+    "imdb": "tt10816478",
+    "tmdb": 773735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

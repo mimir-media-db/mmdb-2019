@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_only_beautiful",
+  "title": "Only Beautiful",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q67932809",
+    "imdb": "tt13199740",
+    "tmdb": 134871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

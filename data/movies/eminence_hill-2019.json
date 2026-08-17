@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eminence_hill_2019",
+  "title": "Eminence Hill",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73536650",
+    "imdb": "tt9135272",
+    "tmdb": 589885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

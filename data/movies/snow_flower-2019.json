@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_flower_2019",
+  "title": "Snow Flower",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65292328",
+    "imdb": "tt8866450",
+    "tmdb": 546765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

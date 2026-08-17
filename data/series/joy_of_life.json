@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_joy_of_life",
+  "title": "Joy of Life",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65056669",
+    "imdb": "tt11273352",
+    "tmdb": 95842
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 46
+}

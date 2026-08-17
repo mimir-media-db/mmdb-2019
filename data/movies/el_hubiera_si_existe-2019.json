@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hubiera_si_existe_2019",
+  "title": "El hubiera sí existe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894034",
+    "imdb": "tt6992642",
+    "tmdb": 467980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

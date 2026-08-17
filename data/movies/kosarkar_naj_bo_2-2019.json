@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kosarkar_naj_bo_2_2019",
+  "title": "Kosarkar Naj Bo 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75233405",
+    "imdb": "tt11023762",
+    "tmdb": 755389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 79
+}

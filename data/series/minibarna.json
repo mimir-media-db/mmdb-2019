@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_minibarna",
+  "title": "Minibarna",
+  "start_year": 2018,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q126431268",
+    "imdb": "tt11429572"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 28
+}

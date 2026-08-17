@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_backdoor_mexican_tv_series",
+  "title": "Backdoor (Mexican TV series)",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135980454",
+    "imdb": "tt11603842",
+    "tmdb": 105392
+  },
+  "last_updated": "2026-08-17"
+}

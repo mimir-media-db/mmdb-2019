@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_conversations_with_a_killer_the_ted_bundy_tapes",
+  "title": "Conversations with a Killer: The Ted Bundy Tapes",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61209170",
+    "imdb": "tt9425132",
+    "tmdb": 85833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

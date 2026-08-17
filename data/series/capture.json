@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_capture",
+  "title": "The Capture",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67298293",
+    "imdb": "tt8201186",
+    "tmdb": 93166
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cityscape_2019",
+  "title": "Cityscape",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85752623",
+    "imdb": "tt10206892",
+    "tmdb": 575424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tritiya_adhyay_2019",
+  "title": "Tritiya Adhyay",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77885693",
+    "imdb": "tt8427178",
+    "tmdb": 581632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

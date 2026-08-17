@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_mummy_di_2019",
+  "title": "Jai Mummy Di",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768303",
+    "imdb": "tt9817760",
+    "tmdb": 655459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

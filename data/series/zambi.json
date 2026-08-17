@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zambi",
+  "title": "Zambi",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60990452",
+    "imdb": "tt10499128",
+    "tmdb": 86172
+  },
+  "last_updated": "2026-08-17"
+}

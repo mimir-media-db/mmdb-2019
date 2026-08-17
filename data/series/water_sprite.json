@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_water_sprite",
+  "title": "Water Sprite",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62664161",
+    "imdb": "tt8526712",
+    "tmdb": 87970
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

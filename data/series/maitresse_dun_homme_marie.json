@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_maitresse_dun_homme_marie",
+  "title": "Maîtresse d'un homme marié",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64547918",
+    "imdb": "tt25994322",
+    "tmdb": 312497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

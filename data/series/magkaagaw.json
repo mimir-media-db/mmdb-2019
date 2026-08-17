@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magkaagaw",
+  "title": "Magkaagaw",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q71816126",
+    "imdb": "tt11150566",
+    "tmdb": 219410
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 160
+}

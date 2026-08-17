@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gumm_in_the_middle_of_nowhere_2019",
+  "title": "Gumm: In the Middle of Nowhere",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768156",
+    "imdb": "tt8442346",
+    "tmdb": 575010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

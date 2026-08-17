@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pinned",
+  "title": "The Pinned",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65950099",
+    "imdb": "tt26738929",
+    "tmdb": 301857
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_le_boy",
+  "title": "Le Boy",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63774201",
+    "imdb": "tt12210614"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 90
+}

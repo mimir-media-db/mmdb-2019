@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_little_super_girl",
+  "title": "Little Super Girl",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q133762301",
+    "imdb": "tt25400310"
+  },
+  "last_updated": "2026-08-17"
+}

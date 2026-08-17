@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_with_the_birds_2019",
+  "title": "Dancing with the Birds",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73025844",
+    "imdb": "tt11101698",
+    "tmdb": 634541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 51
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beast_no_more_2019",
+  "title": "Beast No More",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48773776",
+    "imdb": "tt4634402",
+    "tmdb": 510457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

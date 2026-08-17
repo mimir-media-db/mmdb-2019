@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_film_adventure_2019",
+  "title": "Film Adventure",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999296",
+    "imdb": "tt10410560",
+    "tmdb": 608325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

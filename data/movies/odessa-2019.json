@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odessa_2019",
+  "title": "Odessa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57592644",
+    "imdb": "tt10140922",
+    "tmdb": 575359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 130
+}

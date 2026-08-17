@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ringo",
+  "title": "Ringo",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q50384719",
+    "imdb": "tt9104300",
+    "tmdb": 87956
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 82
+}

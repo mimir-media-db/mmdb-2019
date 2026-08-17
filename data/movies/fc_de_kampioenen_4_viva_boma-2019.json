@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fc_de_kampioenen_4_viva_boma_2019",
+  "title": "F.C. De Kampioenen 4: Viva Boma",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65463474",
+    "imdb": "tt8438910",
+    "tmdb": 613674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

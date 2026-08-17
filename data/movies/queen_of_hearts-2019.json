@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_hearts_2019",
+  "title": "Queen of Hearts",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55766341",
+    "imdb": "tt8378126",
+    "tmdb": 519465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 128
+}

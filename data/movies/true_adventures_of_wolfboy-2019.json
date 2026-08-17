@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_adventures_of_wolfboy_2019",
+  "title": "The True Adventures of Wolfboy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048330",
+    "imdb": "tt7262384",
+    "tmdb": 509932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

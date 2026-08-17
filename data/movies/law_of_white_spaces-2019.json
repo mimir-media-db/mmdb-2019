@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_law_of_white_spaces_2019",
+  "title": "The Law of White Spaces",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86660681",
+    "imdb": "tt10752046"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clever_crook_2019",
+  "title": "A Clever Crook",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60851826",
+    "imdb": "tt7458798",
+    "tmdb": 552982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_gods_2019",
+  "title": "Valley of the Gods",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63349305",
+    "imdb": "tt4523530",
+    "tmdb": 331044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pony_with_a_broken_wing_2019",
+  "title": "Pony with a Broken Wing",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65247833",
+    "imdb": "tt5757874",
+    "tmdb": 567939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

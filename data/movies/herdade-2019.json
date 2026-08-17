@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herdade_2019",
+  "title": "A Herdade",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67174102",
+    "imdb": "tt8439860",
+    "tmdb": 617776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 166
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dogdugun_ev_kaderindir",
+  "title": "Doğduğun Ev Kaderindir",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q85969867",
+    "imdb": "tt11100380",
+    "tmdb": 96775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

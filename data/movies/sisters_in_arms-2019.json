@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_arms_2019",
+  "title": "Sisters in Arms",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69059006",
+    "imdb": "tt7858472",
+    "tmdb": 618326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

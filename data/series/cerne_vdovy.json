@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cerne_vdovy",
+  "title": "Černé vdovy",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61740876",
+    "imdb": "tt7318514",
+    "tmdb": 86935
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

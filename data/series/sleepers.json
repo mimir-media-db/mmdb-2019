@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sleepers",
+  "title": "The Sleepers",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61412022",
+    "imdb": "tt8679520",
+    "tmdb": 92391
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

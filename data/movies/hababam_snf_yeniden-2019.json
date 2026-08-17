@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hababam_snf_yeniden_2019",
+  "title": "Hababam Sınıfı Yeniden",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077231",
+    "imdb": "tt8941422",
+    "tmdb": 594170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

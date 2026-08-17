@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_dinoworld",
+  "title": "Amazing Dinoworld",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q86732167",
+    "tmdb": 109546
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 2
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_babel",
+  "title": "Babel",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61017351",
+    "imdb": "tt9467014",
+    "tmdb": 85541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

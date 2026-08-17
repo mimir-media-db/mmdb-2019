@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaddish_2019",
+  "title": "Kaddish",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84569046",
+    "imdb": "tt9643286",
+    "tmdb": 640303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

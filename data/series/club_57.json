@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_club_57",
+  "title": "Club 57",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56850435",
+    "imdb": "tt9174732",
+    "tmdb": 98754
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 120
+}

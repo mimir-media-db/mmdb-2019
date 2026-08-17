@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_basketball_or_nothing",
+  "title": "Basketball or Nothing",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q66363993",
+    "imdb": "tt10698408",
+    "tmdb": 91794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

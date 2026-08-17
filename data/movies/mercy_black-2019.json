@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mercy_black_2019",
+  "title": "Mercy Black",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63228658",
+    "imdb": "tt8758086",
+    "tmdb": 590164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_until_i_meet_septembers_love_2019",
+  "title": "Until I Meet September's Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65248371",
+    "imdb": "tt9303120",
+    "tmdb": 578663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

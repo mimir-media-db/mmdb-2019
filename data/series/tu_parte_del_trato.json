@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_parte_del_trato",
+  "title": "Tu parte del trato",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65159234",
+    "imdb": "tt10616310",
+    "tmdb": 95409
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

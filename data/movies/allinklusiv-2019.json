@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_allinklusiv_2019",
+  "title": "ALL-INklusiv",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61474030",
+    "imdb": "tt9721990"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

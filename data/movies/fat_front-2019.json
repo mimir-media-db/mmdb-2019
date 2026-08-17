@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_front_2019",
+  "title": "Fat Front",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76450206",
+    "imdb": "tt11152006",
+    "tmdb": 631948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 87
+}

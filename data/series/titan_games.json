@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_titan_games",
+  "title": "The Titan Games",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q54621578",
+    "imdb": "tt7967262",
+    "tmdb": 85487
+  },
+  "last_updated": "2026-08-17"
+}

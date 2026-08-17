@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_encore",
+  "title": "Encore!",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q75726531",
+    "imdb": "tt7759016",
+    "tmdb": 95432
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_setsuyaku_rock",
+  "title": "Setsuyaku Rock",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65277974",
+    "imdb": "tt10497536",
+    "tmdb": 86740
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calum_von_moger_unbroken_2019",
+  "title": "Calum Von Moger: Unbroken",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66686268",
+    "imdb": "tt10308686",
+    "tmdb": 597237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

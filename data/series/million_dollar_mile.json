@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_million_dollar_mile",
+  "title": "Million Dollar Mile",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56276813",
+    "imdb": "tt8808802",
+    "tmdb": 87991
+  },
+  "last_updated": "2026-08-17"
+}

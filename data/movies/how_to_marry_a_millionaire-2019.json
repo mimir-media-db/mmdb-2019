@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_marry_a_millionaire_2019",
+  "title": "How to Marry A Millionaire",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q78353123",
+    "imdb": "tt10800286",
+    "tmdb": 641997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

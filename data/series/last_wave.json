@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_wave",
+  "title": "The Last Wave",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60846335",
+    "imdb": "tt8844798",
+    "tmdb": 87776
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

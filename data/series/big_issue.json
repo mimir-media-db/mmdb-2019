@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_issue",
+  "title": "Big Issue",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60310462",
+    "imdb": "tt9772798",
+    "tmdb": 87188
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

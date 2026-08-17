@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_the_mountain_2019",
+  "title": "Up the Mountain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86674037",
+    "imdb": "tt10384908",
+    "tmdb": 612655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

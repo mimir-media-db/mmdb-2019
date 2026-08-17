@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creators_the_past_2019",
+  "title": "Creators: The Past",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18844655",
+    "imdb": "tt4124980",
+    "tmdb": 466994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

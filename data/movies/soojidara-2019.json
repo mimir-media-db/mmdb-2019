@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soojidara_2019",
+  "title": "Soojidara",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768602",
+    "imdb": "tt7569812",
+    "tmdb": 744158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

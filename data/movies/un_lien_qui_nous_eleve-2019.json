@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_lien_qui_nous_eleve_2019",
+  "title": "Un lien qui nous élève",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76400222",
+    "imdb": "tt10016638",
+    "tmdb": 582023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

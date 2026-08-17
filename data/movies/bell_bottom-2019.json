@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bell_bottom_2019",
+  "title": "Bell Bottom",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768329",
+    "imdb": "tt9430780",
+    "tmdb": 584786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

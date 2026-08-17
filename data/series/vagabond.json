@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vagabond",
+  "title": "Vagabond",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55695457",
+    "imdb": "tt8523042",
+    "tmdb": 92983
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

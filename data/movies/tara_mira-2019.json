@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tara_mira_2019",
+  "title": "Tara Mira",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892633",
+    "imdb": "tt9537342",
+    "tmdb": 638108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

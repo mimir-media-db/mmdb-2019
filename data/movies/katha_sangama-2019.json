@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katha_sangama_2019",
+  "title": "Katha Sangama",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61794835",
+    "imdb": "tt7315232",
+    "tmdb": 651719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

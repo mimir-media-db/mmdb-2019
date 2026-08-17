@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_iglesias",
+  "title": "Mr. Iglesias",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q54958943",
+    "imdb": "tt8403536",
+    "tmdb": 88378
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

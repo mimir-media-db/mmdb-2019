@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brief_story_from_the_green_planet_2019",
+  "title": "Brief Story from the Green Planet",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61775741",
+    "imdb": "tt9648372",
+    "tmdb": 577102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 75
+}

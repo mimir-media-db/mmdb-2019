@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_movies_that_made_us",
+  "title": "The Movies That Made Us",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q77949688",
+    "imdb": "tt10681222",
+    "tmdb": 93219
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

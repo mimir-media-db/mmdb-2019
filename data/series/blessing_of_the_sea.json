@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blessing_of_the_sea",
+  "title": "Blessing of the Sea",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60413875",
+    "imdb": "tt9632426",
+    "tmdb": 85413
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 121
+}

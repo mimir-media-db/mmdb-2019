@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tokusatsu_gagaga",
+  "title": "Tokusatsu Gagaga",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136646364",
+    "imdb": "tt8980374",
+    "tmdb": 85517
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

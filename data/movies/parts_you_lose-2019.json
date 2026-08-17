@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parts_you_lose_2019",
+  "title": "The Parts You Lose",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500699",
+    "imdb": "tt4827922",
+    "tmdb": 492613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

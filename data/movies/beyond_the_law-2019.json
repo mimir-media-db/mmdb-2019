@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_law_2019",
+  "title": "Beyond the Law",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86754927",
+    "imdb": "tt11161374",
+    "tmdb": 650272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 89
+}

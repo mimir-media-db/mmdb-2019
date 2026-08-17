@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tammys_always_dying_2019",
+  "title": "Tammy's Always Dying",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66068139",
+    "imdb": "tt9386648",
+    "tmdb": 619638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 85
+}

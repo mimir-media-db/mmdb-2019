@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_love_and_lies_2019",
+  "title": "Of Love and Lies",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66831826",
+    "imdb": "tt9767556",
+    "tmdb": 589181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bluff_city_law",
+  "title": "Bluff City Law",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65068471",
+    "imdb": "tt10312776",
+    "tmdb": 86968
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

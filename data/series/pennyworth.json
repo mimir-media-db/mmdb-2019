@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pennyworth",
+  "title": "Pennyworth",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q57695644",
+    "imdb": "tt8425532",
+    "tmdb": 79588
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

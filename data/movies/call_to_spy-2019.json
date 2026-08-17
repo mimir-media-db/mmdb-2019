@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_to_spy_2019",
+  "title": "A Call to Spy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64239786",
+    "imdb": "tt7698468",
+    "tmdb": 589612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

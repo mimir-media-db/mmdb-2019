@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mastermind_2019",
+  "title": "Mastermind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065503",
+    "imdb": "tt11968836",
+    "tmdb": 618868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

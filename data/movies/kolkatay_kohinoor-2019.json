@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolkatay_kohinoor_2019",
+  "title": "Kolkatay Kohinoor",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411496",
+    "imdb": "tt8427252",
+    "tmdb": 590159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

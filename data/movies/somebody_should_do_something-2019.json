@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somebody_should_do_something_2019",
+  "title": "Somebody Should Do Something",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65231176",
+    "imdb": "tt8529066",
+    "tmdb": 547893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

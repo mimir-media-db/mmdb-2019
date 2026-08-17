@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_i_want_a_sun_in_my_pocket_2019",
+  "title": "I Want a Sun in My Pocket",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77964284"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 4
+}

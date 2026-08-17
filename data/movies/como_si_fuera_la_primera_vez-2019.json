@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_como_si_fuera_la_primera_vez_2019",
+  "title": "Como si fuera la primera vez",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83783377",
+    "imdb": "tt7766166",
+    "tmdb": 555790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

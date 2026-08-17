@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_up_2019",
+  "title": "Straight Up",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85851989",
+    "imdb": "tt8855960",
+    "tmdb": 604031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_ordinary_summer_2019",
+  "title": "An Almost Ordinary Summer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60978888",
+    "imdb": "tt9185542",
+    "tmdb": 575568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

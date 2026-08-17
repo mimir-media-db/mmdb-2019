@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_son_que_me_toquen_bailo_2019",
+  "title": "Al son que me toquen bailo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77282172",
+    "imdb": "tt12043600",
+    "tmdb": 660061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

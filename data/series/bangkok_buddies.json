@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bangkok_buddies",
+  "title": "Bangkok Buddies",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q104855468",
+    "imdb": "tt11513508",
+    "tmdb": 95968
+  },
+  "last_updated": "2026-08-17"
+}

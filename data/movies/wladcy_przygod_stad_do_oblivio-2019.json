@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wladcy_przygod_stad_do_oblivio_2019",
+  "title": "Wladcy przygód. Stad do Oblivio",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86667790",
+    "imdb": "tt7368004",
+    "tmdb": 591648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 101
+}

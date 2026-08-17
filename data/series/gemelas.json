@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_gemelas",
+  "title": "Gemelas",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q61904823"
+  },
+  "last_updated": "2026-08-17"
+}

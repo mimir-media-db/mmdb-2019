@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adoring_2019",
+  "title": "Adoring",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889924",
+    "imdb": "tt10203982",
+    "tmdb": 626616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mythomaniac",
+  "title": "Mythomaniac",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q71299096",
+    "imdb": "tt10677432",
+    "tmdb": 87778
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chicken_curry_law_2019",
+  "title": "Chicken Curry Law",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884313",
+    "imdb": "tt7189494",
+    "tmdb": 621692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

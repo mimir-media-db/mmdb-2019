@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_women_of_the_night",
+  "title": "Women of the Night",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q81048043",
+    "imdb": "tt7785420",
+    "tmdb": 81180
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

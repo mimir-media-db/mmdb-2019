@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_girl_2019",
+  "title": "An Easy Girl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63792653",
+    "imdb": "tt9632590",
+    "tmdb": 575479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

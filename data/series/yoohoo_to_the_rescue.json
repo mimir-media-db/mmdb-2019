@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yoohoo_to_the_rescue",
+  "title": "YooHoo to the Rescue",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39072223",
+    "imdb": "tt9817288",
+    "tmdb": 87848
+  },
+  "last_updated": "2026-08-17"
+}

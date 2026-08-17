@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sugar_rush_christmas",
+  "title": "Sugar Rush Christmas",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q76009661",
+    "imdb": "tt11168116",
+    "tmdb": 95953
+  },
+  "last_updated": "2026-08-17"
+}

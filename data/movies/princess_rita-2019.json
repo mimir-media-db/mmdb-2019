@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_rita_2019",
+  "title": "Princess Rita",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61991735",
+    "imdb": "tt9543554",
+    "tmdb": 596957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

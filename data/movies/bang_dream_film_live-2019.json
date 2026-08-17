@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bang_dream_film_live_2019",
+  "title": "Bang Dream! Film Live",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999112",
+    "imdb": "tt11056458",
+    "tmdb": 613199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

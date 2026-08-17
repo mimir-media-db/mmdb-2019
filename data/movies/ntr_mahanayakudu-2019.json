@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ntr_mahanayakudu_2019",
+  "title": "N.T.R: Mahanayakudu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737550",
+    "imdb": "tt9077528",
+    "tmdb": 676542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

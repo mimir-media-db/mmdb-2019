@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moon_and_me",
+  "title": "Moon and Me",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q111915869",
+    "imdb": "tt9714534",
+    "tmdb": 87334
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

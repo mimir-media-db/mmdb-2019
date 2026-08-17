@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_bill",
+  "title": "Wild Bill",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65046959",
+    "imdb": "tt9118930",
+    "tmdb": 83074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

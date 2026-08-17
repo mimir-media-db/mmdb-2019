@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carmilla_2019",
+  "title": "Carmilla",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48780911",
+    "imdb": "tt7280218",
+    "tmdb": 475908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

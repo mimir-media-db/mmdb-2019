@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_5e_rang",
+  "title": "5e rang",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65158719",
+    "imdb": "tt10591756",
+    "tmdb": 85680
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 131
+}

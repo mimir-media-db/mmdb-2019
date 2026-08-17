@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddha_in_africa_2019",
+  "title": "Buddha in Africa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69551961",
+    "imdb": "tt10323416",
+    "tmdb": 594330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 110
+}

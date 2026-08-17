@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uyare_2019",
+  "title": "Uyare",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63281707",
+    "imdb": "tt9271408",
+    "tmdb": 594712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

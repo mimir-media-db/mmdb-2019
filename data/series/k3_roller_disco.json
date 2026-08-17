@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_k3_roller_disco",
+  "title": "K3 Roller Disco",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62023069",
+    "imdb": "tt8914112",
+    "tmdb": 84976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

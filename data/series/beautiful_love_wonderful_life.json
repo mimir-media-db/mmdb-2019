@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_love_wonderful_life",
+  "title": "Beautiful Love, Wonderful Life",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65258090",
+    "imdb": "tt11133556",
+    "tmdb": 94083
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

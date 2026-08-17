@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_second_2019",
+  "title": "One Second",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60686176",
+    "imdb": "tt8959680",
+    "tmdb": 575089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 104
+}

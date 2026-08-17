@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calm_with_horses_2019",
+  "title": "Calm with Horses",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85309679",
+    "imdb": "tt4460792",
+    "tmdb": 574396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

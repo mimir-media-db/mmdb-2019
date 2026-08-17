@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meiji_tokyo_renka_2019",
+  "title": "Meiji Tokyo Renka",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738285",
+    "imdb": "tt10449640",
+    "tmdb": 754912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_be_melodramatic",
+  "title": "Be Melodramatic",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63264267",
+    "imdb": "tt10559276",
+    "tmdb": 90720
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

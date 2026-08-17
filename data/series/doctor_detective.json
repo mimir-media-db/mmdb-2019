@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_detective",
+  "title": "Doctor Detective",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61360762",
+    "imdb": "tt10473780",
+    "tmdb": 90335
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_mundo_de_mateo",
+  "title": "El mundo de Mateo",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q61813620",
+    "imdb": "tt9910184",
+    "tmdb": 92479
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

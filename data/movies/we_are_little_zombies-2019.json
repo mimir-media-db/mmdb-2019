@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_little_zombies_2019",
+  "title": "We Are Little Zombies",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63770970",
+    "imdb": "tt9358120",
+    "tmdb": 565357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mane_maratakkide_2019",
+  "title": "Mane Maratakkide",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77896733",
+    "imdb": "tt11235044",
+    "tmdb": 719665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

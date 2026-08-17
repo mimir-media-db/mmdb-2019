@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lamore_strappato",
+  "title": "L'amore strappato",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63524674",
+    "imdb": "tt9741726",
+    "tmdb": 89501
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

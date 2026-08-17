@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_extreme_crisis_2019",
+  "title": "Extreme Crisis",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71436287",
+    "imdb": "tt10797712"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

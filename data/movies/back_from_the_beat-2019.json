@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_from_the_beat_2019",
+  "title": "Back from the Beat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240121",
+    "imdb": "tt8564158",
+    "tmdb": 528447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

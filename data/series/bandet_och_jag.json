@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bandet_och_jag",
+  "title": "Bandet och jag",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q81652714",
+    "imdb": "tt9707186",
+    "tmdb": 85955
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

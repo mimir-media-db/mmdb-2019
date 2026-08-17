@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doom_patrol",
+  "title": "Doom Patrol",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q55952118",
+    "imdb": "tt8416494",
+    "tmdb": 79501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 46
+}

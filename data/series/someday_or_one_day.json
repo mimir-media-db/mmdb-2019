@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_someday_or_one_day",
+  "title": "Someday or One Day",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65056818",
+    "imdb": "tt11262762",
+    "tmdb": 95717
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

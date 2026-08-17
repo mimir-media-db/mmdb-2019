@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foxtrot_six_2019",
+  "title": "Foxtrot Six",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61366050",
+    "imdb": "tt8948208",
+    "tmdb": 491854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

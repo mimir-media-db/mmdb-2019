@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extra_ordinary_2019",
+  "title": "Extra Ordinary",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65562126",
+    "imdb": "tt8233874",
+    "tmdb": 538227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

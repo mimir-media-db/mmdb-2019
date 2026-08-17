@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hep_yek_3_2019",
+  "title": "Hep Yek 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62307303",
+    "imdb": "tt6426234",
+    "tmdb": 477312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

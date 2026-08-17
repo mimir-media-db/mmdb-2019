@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaaviyyan_2019",
+  "title": "Kaaviyyan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905500",
+    "imdb": "tt7225434",
+    "tmdb": 484582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

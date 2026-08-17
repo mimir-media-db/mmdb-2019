@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_fake_2019",
+  "title": "Santa Fake",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84010813",
+    "imdb": "tt6201302",
+    "tmdb": 636502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

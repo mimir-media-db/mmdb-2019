@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_south_side",
+  "title": "South Side",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65053760",
+    "imdb": "tt9272514",
+    "tmdb": 91502
+  },
+  "last_updated": "2026-08-17"
+}

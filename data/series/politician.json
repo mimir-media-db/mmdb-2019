@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_politician",
+  "title": "The Politician",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47814191",
+    "imdb": "tt7971476",
+    "tmdb": 83127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

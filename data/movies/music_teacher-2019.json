@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_teacher_2019",
+  "title": "Music Teacher",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63247987",
+    "imdb": "tt3257794",
+    "tmdb": 596178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

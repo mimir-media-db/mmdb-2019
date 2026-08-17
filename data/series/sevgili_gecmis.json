@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sevgili_gecmis",
+  "title": "Sevgili Geçmiş",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q72246956",
+    "imdb": "tt11006992",
+    "tmdb": 94935
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

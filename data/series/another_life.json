@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_another_life",
+  "title": "Another Life",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55604025",
+    "imdb": "tt8369840",
+    "tmdb": 79130
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

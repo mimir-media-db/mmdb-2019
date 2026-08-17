@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ephemerals_to_remember_2019",
+  "title": "Ephemerals to Remember",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999325",
+    "tmdb": 523292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

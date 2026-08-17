@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_moon_was_full_2019",
+  "title": "When the Moon Was Full",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065757",
+    "imdb": "tt9817018",
+    "tmdb": 583790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

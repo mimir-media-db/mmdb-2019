@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_another_me",
+  "title": "Another Me",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55707612",
+    "imdb": "tt8911520",
+    "tmdb": 91412
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 53
+}

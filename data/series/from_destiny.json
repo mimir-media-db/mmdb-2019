@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_from_destiny",
+  "title": "From Destiny",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85967069",
+    "imdb": "tt19897990",
+    "tmdb": 330152
+  },
+  "last_updated": "2026-08-17"
+}

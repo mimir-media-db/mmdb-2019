@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ossans_love_love_or_dead_2019",
+  "title": "Ossan's Love: Love or Dead",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61057605",
+    "imdb": "tt10594884",
+    "tmdb": 617134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 114
+}

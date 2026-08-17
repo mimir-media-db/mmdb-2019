@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_the_pictures_2019",
+  "title": "Talking the Pictures",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85870706",
+    "imdb": "tt11147106",
+    "tmdb": 554796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 127
+}

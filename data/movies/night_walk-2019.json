@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_walk_2019",
+  "title": "Night Walk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83950837",
+    "imdb": "tt4205896",
+    "tmdb": 594399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

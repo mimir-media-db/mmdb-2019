@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jusquici_tout_va_bien_2019",
+  "title": "Jusqu'ici tout va bien",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60853534",
+    "imdb": "tt7882250",
+    "tmdb": 547388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

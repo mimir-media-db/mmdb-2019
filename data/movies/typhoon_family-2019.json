@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_typhoon_family_2019",
+  "title": "Typhoon Family",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67189867",
+    "imdb": "tt9647798",
+    "tmdb": 692724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

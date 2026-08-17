@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_you_cant_expense_this",
+  "title": "You Can't Expense This!",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q140478674",
+    "imdb": "tt11286302",
+    "tmdb": 91618
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

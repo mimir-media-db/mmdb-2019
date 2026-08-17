@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riot_girls_2019",
+  "title": "Riot Girls",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86753427",
+    "imdb": "tt6049106",
+    "tmdb": 482034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

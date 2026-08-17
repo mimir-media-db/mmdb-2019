@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deepness_of_the_fry_2019",
+  "title": "Deepness of the Fry",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126336",
+    "imdb": "tt11219434",
+    "tmdb": 582741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 4
+}

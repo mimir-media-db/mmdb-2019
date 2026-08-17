@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nadiyas_time_to_eat",
+  "title": "Nadiya's Time to Eat",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95473343",
+    "imdb": "tt9846284",
+    "tmdb": 91274
+  },
+  "last_updated": "2026-08-17"
+}

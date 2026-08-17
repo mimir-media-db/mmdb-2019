@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aruanas",
+  "title": "Aruanas",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60633794",
+    "imdb": "tt9856336",
+    "tmdb": 90822
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

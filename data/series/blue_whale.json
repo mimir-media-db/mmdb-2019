@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_whale",
+  "title": "Blue Whale",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61063635",
+    "imdb": "tt9595170",
+    "tmdb": 86290
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

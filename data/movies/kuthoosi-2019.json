@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuthoosi_2019",
+  "title": "Kuthoosi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768086",
+    "imdb": "tt9615026",
+    "tmdb": 577757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

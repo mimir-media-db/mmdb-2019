@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arashis_diary_voyage",
+  "title": "Arashi's Diary: Voyage",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q91850851",
+    "imdb": "tt11434874",
+    "tmdb": 102355
+  },
+  "last_updated": "2026-08-17"
+}

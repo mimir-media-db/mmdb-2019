@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_but_true_2019",
+  "title": "Strange But True",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078731",
+    "imdb": "tt2866708",
+    "tmdb": 470897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pen15",
+  "title": "PEN15",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55080234",
+    "imdb": "tt8324422",
+    "tmdb": 85702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

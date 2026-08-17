@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_durj_2019",
+  "title": "Durj",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737634",
+    "imdb": "tt10650338",
+    "tmdb": 609642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

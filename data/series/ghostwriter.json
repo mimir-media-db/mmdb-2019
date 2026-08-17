@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghostwriter",
+  "title": "Ghostwriter",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105564057",
+    "imdb": "tt11004134",
+    "tmdb": 93520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

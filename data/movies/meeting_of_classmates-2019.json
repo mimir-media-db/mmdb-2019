@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meeting_of_classmates_2019",
+  "title": "Meeting of Classmates",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61332720",
+    "imdb": "tt9753764",
+    "tmdb": 579618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

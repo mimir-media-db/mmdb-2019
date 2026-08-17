@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_margamkali_2019",
+  "title": "Margamkali",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68532273",
+    "imdb": "tt10682506",
+    "tmdb": 620015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

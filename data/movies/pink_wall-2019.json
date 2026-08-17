@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_wall_2019",
+  "title": "Pink Wall",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62018339",
+    "imdb": "tt7759300",
+    "tmdb": 575940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

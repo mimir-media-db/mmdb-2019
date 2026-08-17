@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ajari_aku_islam_2019",
+  "title": "Ajari Aku Islam",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65210804",
+    "imdb": "tt10521234",
+    "tmdb": 634813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}

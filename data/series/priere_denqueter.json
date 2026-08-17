@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_priere_denqueter",
+  "title": "Prière d’enquêter",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97365895",
+    "imdb": "tt11725622",
+    "tmdb": 135716
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_cristina_2019",
+  "title": "This Is Cristina",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88669259",
+    "imdb": "tt8912128",
+    "tmdb": 554914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

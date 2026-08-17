@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_like_a_girl_2019",
+  "title": "Ride Like a Girl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70842752",
+    "imdb": "tt7600382",
+    "tmdb": 487291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 118
+}

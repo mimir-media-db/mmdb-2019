@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mummy_rebirth_2019",
+  "title": "The Mummy Rebirth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999051",
+    "imdb": "tt10378798",
+    "tmdb": 615916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

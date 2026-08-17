@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_soy_tu_mami_2019",
+  "title": "No soy tu mami",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64778924",
+    "imdb": "tt9584730",
+    "tmdb": 609175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

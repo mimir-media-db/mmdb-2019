@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pup_academy",
+  "title": "Pup Academy",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q66812872",
+    "imdb": "tt10302548",
+    "tmdb": 93265
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

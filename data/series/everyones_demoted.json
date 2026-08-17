@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_everyones_demoted",
+  "title": "Everyone's Demoted!!",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63254391",
+    "imdb": "tt9573742",
+    "tmdb": 89860
+  },
+  "last_updated": "2026-08-17"
+}

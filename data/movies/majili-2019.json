@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_majili_2019",
+  "title": "Majili",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738432",
+    "imdb": "tt8737614",
+    "tmdb": 571610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

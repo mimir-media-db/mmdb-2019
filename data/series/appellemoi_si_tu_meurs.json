@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_appellemoi_si_tu_meurs",
+  "title": "Appelle-moi si tu meurs",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65155945",
+    "imdb": "tt10198566",
+    "tmdb": 85905
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

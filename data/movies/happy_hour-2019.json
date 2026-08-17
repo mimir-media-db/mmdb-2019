@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_hour_2019",
+  "title": "Happy Hour",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63974974",
+    "imdb": "tt4188440",
+    "tmdb": 555768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 104
+}

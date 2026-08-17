@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_omens",
+  "title": "Good Omens",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q43377320",
+    "imdb": "tt1869454",
+    "tmdb": 71915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lake",
+  "title": "The Lake",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85621185",
+    "imdb": "tt10051464",
+    "tmdb": 97787
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

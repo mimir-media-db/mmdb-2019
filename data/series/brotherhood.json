@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brotherhood",
+  "title": "Brotherhood",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q73024460",
+    "imdb": "tt8905964",
+    "tmdb": 94696
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_joseon_survival_period",
+  "title": "Joseon Survival Period",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64417704",
+    "imdb": "tt10350612",
+    "tmdb": 90034
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

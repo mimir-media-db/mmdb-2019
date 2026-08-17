@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kantaar_2019",
+  "title": "Kantaar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60659332",
+    "imdb": "tt14111104"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

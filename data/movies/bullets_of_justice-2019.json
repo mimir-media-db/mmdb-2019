@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullets_of_justice_2019",
+  "title": "Bullets of Justice",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28646110",
+    "imdb": "tt6421398",
+    "tmdb": 613722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 76
+}

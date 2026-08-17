@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_russian_youth_2019",
+  "title": "A Russian Youth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62018037",
+    "imdb": "tt9681728",
+    "tmdb": 518975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 73
+}

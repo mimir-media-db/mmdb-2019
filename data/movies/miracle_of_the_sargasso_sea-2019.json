@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_of_the_sargasso_sea_2019",
+  "title": "The Miracle of the Sargasso Sea",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64585015",
+    "imdb": "tt7703070",
+    "tmdb": 550662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 121
+}

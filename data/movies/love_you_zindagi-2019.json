@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_zindagi_2019",
+  "title": "Love You Zindagi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738606",
+    "imdb": "tt9056578",
+    "tmdb": 705678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

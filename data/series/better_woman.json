@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_better_woman",
+  "title": "The Better Woman",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64978147",
+    "imdb": "tt10565648",
+    "tmdb": 219594
+  },
+  "last_updated": "2026-08-17"
+}

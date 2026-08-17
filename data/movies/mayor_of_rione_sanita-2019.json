@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayor_of_rione_sanita_2019",
+  "title": "The Mayor of Rione Sanità",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66362676",
+    "imdb": "tt9778888",
+    "tmdb": 608315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

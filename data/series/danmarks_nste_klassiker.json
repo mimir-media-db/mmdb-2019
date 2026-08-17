@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_danmarks_nste_klassiker",
+  "title": "Danmarks næste klassiker",
+  "start_year": 2019,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q64812406"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 30
+}

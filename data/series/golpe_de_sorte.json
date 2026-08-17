@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_golpe_de_sorte",
+  "title": "Golpe de Sorte",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q64840892",
+    "imdb": "tt10133388",
+    "tmdb": 89766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 238
+}

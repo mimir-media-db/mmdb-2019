@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spin_the_wheel",
+  "title": "Spin the Wheel",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56276016",
+    "imdb": "tt8888532",
+    "tmdb": 91372
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_quantum_2019",
+  "title": "Blood Quantum",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65679600",
+    "imdb": "tt7394674",
+    "tmdb": 592230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

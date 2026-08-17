@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_a_rock_and_a_hard_place_2019",
+  "title": "Between a Rock and a Hard Place",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126435",
+    "imdb": "tt10399278",
+    "tmdb": 629054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 19
+}

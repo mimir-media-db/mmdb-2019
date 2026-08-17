@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_me_to_prom_2019",
+  "title": "Take Me to Prom",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85804949",
+    "imdb": "tt8611240",
+    "tmdb": 728150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_team_bled",
+  "title": "Team Bled",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q108099525",
+    "imdb": "tt9507200",
+    "tmdb": 137423
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}

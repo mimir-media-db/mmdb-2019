@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_bruno",
+  "title": "It's Bruno!",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63919523",
+    "imdb": "tt10186846",
+    "tmdb": 89490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

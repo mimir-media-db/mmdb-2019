@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruta_madre_2019",
+  "title": "Ruta Madre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62018342",
+    "imdb": "tt4072296",
+    "tmdb": 615946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

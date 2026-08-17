@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huntress_rune_of_the_dead_2019",
+  "title": "The Huntress: Rune of the Dead",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63759206",
+    "imdb": "tt8284860",
+    "tmdb": 552322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 109
+}

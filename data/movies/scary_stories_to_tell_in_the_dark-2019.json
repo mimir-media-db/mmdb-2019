@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_stories_to_tell_in_the_dark_2019",
+  "title": "Scary Stories to Tell in the Dark",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274092",
+    "imdb": "tt3387520",
+    "tmdb": 417384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 111
+}

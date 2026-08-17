@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_i_hear_you",
+  "title": "I Hear You",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61057407",
+    "imdb": "tt10327440",
+    "tmdb": 87299
+  },
+  "last_updated": "2026-08-17"
+}

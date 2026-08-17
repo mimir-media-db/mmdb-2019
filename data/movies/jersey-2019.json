@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jersey_2019",
+  "title": "Jersey",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738016",
+    "imdb": "tt8948790",
+    "tmdb": 592898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

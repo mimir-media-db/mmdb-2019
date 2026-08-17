@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_preacher_2019",
+  "title": "The Fighting Preacher",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305419",
+    "imdb": "tt9075778",
+    "tmdb": 616464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

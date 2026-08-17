@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_champion_2019",
+  "title": "Champion",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738100",
+    "imdb": "tt8489916",
+    "tmdb": 655815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abou_leila_2019",
+  "title": "Abou Leila",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63352706",
+    "imdb": "tt9615278",
+    "tmdb": 596864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 135
+}

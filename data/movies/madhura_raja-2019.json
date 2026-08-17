@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhura_raja_2019",
+  "title": "Madhura Raja",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725741",
+    "imdb": "tt8326824",
+    "tmdb": 569104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

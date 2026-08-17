@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucifer_2019",
+  "title": "Lucifer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621418",
+    "imdb": "tt6067752",
+    "tmdb": 564701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

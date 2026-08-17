@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benyamin_2019",
+  "title": "Benyamin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065517",
+    "imdb": "tt12093990",
+    "tmdb": 714529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

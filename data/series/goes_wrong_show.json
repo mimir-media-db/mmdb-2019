@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_goes_wrong_show",
+  "title": "The Goes Wrong Show",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85623157",
+    "imdb": "tt9860664",
+    "tmdb": 96826
+  },
+  "last_updated": "2026-08-17"
+}

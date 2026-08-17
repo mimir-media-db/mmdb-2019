@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_close_2019",
+  "title": "Close",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39079200",
+    "imdb": "tt5316540",
+    "tmdb": 460321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

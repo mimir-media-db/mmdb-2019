@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thorati_2019",
+  "title": "Thorati",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893832",
+    "imdb": "tt10726952",
+    "tmdb": 618205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

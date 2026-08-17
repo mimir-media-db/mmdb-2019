@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_diggers",
+  "title": "Gold Diggers",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q60851027",
+    "imdb": "tt10199718",
+    "tmdb": 87525
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahira_2019",
+  "title": "Mahira",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56561472",
+    "imdb": "tt9109906",
+    "tmdb": 705017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

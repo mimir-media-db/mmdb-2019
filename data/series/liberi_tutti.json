@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_liberi_tutti",
+  "title": "Liberi tutti",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86668712",
+    "imdb": "tt11521684",
+    "tmdb": 96506
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

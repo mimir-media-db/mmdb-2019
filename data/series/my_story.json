@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_my_story",
+  "title": "My Story",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64678899"
+  },
+  "last_updated": "2026-08-17"
+}

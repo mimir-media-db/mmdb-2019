@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knight_and_the_princess_2019",
+  "title": "The Knight and the Princess",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85871163",
+    "imdb": "tt10963790",
+    "tmdb": 636344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_home_for_christmas",
+  "title": "Home for Christmas",
+  "start_year": 2019,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q78439085",
+    "imdb": "tt10069398",
+    "tmdb": 95612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

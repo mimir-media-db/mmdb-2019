@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shesh_theke_shuru_2019",
+  "title": "Shesh Theke Shuru",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63859758",
+    "imdb": "tt9081436",
+    "tmdb": 593674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

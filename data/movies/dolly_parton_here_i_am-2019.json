@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolly_parton_here_i_am_2019",
+  "title": "Dolly Parton: Here I Am",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81565954",
+    "imdb": "tt11497544",
+    "tmdb": 658092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

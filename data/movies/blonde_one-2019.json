@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blonde_one_2019",
+  "title": "The Blonde One",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67145838",
+    "imdb": "tt9789686",
+    "tmdb": 581791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 108
+}

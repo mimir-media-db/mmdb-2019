@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nongphadok_lakpa_atithi_2019",
+  "title": "Nongphadok Lakpa Atithi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894584",
+    "imdb": "tt11684490"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

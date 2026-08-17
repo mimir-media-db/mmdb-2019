@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bondi_vet_coast_to_coast",
+  "title": "Bondi Vet: Coast to Coast",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104203287",
+    "imdb": "tt11138302",
+    "tmdb": 120214
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_perazhagi_iso_2019",
+  "title": "Perazhagi ISO",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895678",
+    "imdb": "tt10644538"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

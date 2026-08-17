@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_town_anthology_2019",
+  "title": "Ghost Town Anthology",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60181090",
+    "imdb": "tt9068100",
+    "tmdb": 568790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

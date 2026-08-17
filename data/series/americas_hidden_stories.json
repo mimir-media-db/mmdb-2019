@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_hidden_stories",
+  "title": "America's Hidden Stories",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q130552774",
+    "imdb": "tt9169800",
+    "tmdb": 88347
+  },
+  "last_updated": "2026-08-17"
+}

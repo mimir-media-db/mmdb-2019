@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_keplers",
+  "title": "Kepler(s)",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65158422",
+    "imdb": "tt8548922",
+    "tmdb": 86798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

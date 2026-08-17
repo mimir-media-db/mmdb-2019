@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_art_of_architecture",
+  "title": "The Art of Architecture",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105828586",
+    "imdb": "tt2475406",
+    "tmdb": 94578
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tropiques_criminels",
+  "title": "Tropiques criminels",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65148680",
+    "imdb": "tt10688206",
+    "tmdb": 95705
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 56
+}

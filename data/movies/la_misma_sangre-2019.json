@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_misma_sangre_2019",
+  "title": "La Misma Sangre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60392213",
+    "imdb": "tt5687236",
+    "tmdb": 575771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

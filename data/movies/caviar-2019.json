@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caviar_2019",
+  "title": "Caviar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60584175",
+    "imdb": "tt9894894",
+    "tmdb": 571028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

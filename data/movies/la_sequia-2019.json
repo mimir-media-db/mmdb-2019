@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_sequia_2019",
+  "title": "La sequía",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85872805",
+    "imdb": "tt12416012",
+    "tmdb": 624336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

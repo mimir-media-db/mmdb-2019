@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dwelling_in_the_fuchun_mountains_2019",
+  "title": "Dwelling in the Fuchun Mountains",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63406127",
+    "imdb": "tt10219146",
+    "tmdb": 596881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 150
+}

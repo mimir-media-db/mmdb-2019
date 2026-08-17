@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_justo_antes_de_cristo",
+  "title": "Justo antes de Cristo",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q62683053",
+    "imdb": "tt9272462",
+    "tmdb": 88181
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

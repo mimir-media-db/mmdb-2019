@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_dias_de_la_ballena_2019",
+  "title": "Los días de la ballena",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65018402",
+    "imdb": "tt9200644",
+    "tmdb": 576723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_weli_pawuru_2019",
+  "title": "Weli Pawuru",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768527",
+    "imdb": "tt9511550"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

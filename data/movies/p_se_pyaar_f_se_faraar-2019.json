@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_p_se_pyaar_f_se_faraar_2019",
+  "title": "P Se Pyaar F Se Faraar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66809663",
+    "imdb": "tt10816510",
+    "tmdb": 641286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

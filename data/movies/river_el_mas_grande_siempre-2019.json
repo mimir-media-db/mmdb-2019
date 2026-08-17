@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_el_mas_grande_siempre_2019",
+  "title": "River, El Más Grande Siempre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63982184",
+    "imdb": "tt10319998",
+    "tmdb": 601781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

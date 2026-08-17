@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_me_a_million_2019",
+  "title": "Like Me a Million",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768489",
+    "imdb": "tt12253168",
+    "tmdb": 695745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

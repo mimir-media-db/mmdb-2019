@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_minutes_gone_2019",
+  "title": "10 Minutes Gone",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67679547",
+    "imdb": "tt8809652",
+    "tmdb": 552865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

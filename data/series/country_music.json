@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_country_music",
+  "title": "Country Music",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q81547396",
+    "imdb": "tt9708550",
+    "tmdb": 86558
+  },
+  "last_updated": "2026-08-17"
+}

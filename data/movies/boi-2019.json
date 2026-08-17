@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boi_2019",
+  "title": "Boi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64854640",
+    "imdb": "tt9010900",
+    "tmdb": 591789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

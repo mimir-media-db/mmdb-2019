@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_fishers_modern_murder_mysteries",
+  "title": "Ms Fisher's Modern Murder Mysteries",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60786121",
+    "imdb": "tt9224216",
+    "tmdb": 86847
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

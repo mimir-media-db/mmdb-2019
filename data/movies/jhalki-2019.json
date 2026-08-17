@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jhalki_2019",
+  "title": "Jhalki",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77885665",
+    "imdb": "tt7743400",
+    "tmdb": 619061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

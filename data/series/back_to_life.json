@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_back_to_life",
+  "title": "Back to Life",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65057612",
+    "imdb": "tt8594510",
+    "tmdb": 88510
+  },
+  "last_updated": "2026-08-17"
+}

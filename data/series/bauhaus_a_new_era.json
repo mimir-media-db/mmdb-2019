@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bauhaus_a_new_era",
+  "title": "Bauhaus – A New Era",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67204895",
+    "imdb": "tt10059744",
+    "tmdb": 92999
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sous_la_peau",
+  "title": "Sous la peau",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q88543745",
+    "imdb": "tt10009438",
+    "tmdb": 83669
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

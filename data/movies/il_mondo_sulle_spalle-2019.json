@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_mondo_sulle_spalle_2019",
+  "title": "Il mondo sulle spalle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63522927",
+    "imdb": "tt7735488",
+    "tmdb": 583218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

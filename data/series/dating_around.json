@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dating_around",
+  "title": "Dating Around",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q61742231",
+    "imdb": "tt9654080",
+    "tmdb": 86807
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

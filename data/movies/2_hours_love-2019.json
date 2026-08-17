@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_hours_love_2019",
+  "title": "2 Hours Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892622",
+    "imdb": "tt10452466",
+    "tmdb": 631934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

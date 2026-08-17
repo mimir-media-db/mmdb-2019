@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_indalos_2019",
+  "title": "Los indalos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76824452",
+    "imdb": "tt10749754",
+    "tmdb": 817082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 78
+}

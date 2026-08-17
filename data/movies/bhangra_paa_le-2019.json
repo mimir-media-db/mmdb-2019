@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhangra_paa_le_2019",
+  "title": "Bhangra Paa Le",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768405",
+    "imdb": "tt9766280",
+    "tmdb": 660056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

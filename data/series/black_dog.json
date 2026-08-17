@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_black_dog",
+  "title": "Black Dog",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q77390246",
+    "imdb": "tt11377920",
+    "tmdb": 95067
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

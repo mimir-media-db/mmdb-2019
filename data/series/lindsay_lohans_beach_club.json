@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lindsay_lohans_beach_club",
+  "title": "Lindsay Lohan's Beach Club",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60515821",
+    "imdb": "tt8961828",
+    "tmdb": 85622
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

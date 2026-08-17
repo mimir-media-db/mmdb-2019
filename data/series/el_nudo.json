@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_nudo",
+  "title": "El nudo",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q76278860",
+    "imdb": "tt10149980",
+    "tmdb": 93428
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

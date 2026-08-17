@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_with_the_hunted_2019",
+  "title": "Run with the Hunted",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85798175",
+    "imdb": "tt6345894",
+    "tmdb": 591774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

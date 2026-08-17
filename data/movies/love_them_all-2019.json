@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_them_all_2019",
+  "title": "Love Them All",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65131115",
+    "imdb": "tt10494922",
+    "tmdb": 577037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}
