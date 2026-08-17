@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birdcatchers_son_2019",
+  "title": "The Birdcatcher's Son",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73148825",
+    "imdb": "tt7552784",
+    "tmdb": 544274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05"
+}

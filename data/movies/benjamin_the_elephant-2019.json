@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benjamin_the_elephant_2019",
+  "title": "Benjamin the Elephant",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65466742",
+    "imdb": "tt6688324",
+    "tmdb": 454687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-01",
+  "runtime_minutes": 91
+}

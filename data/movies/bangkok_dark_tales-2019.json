@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_dark_tales_2019",
+  "title": "Bangkok Dark Tales",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130280200",
+    "imdb": "tt9783738",
+    "tmdb": 677156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-23",
+  "runtime_minutes": 151
+}

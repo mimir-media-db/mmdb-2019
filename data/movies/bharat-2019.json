@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharat_2019",
+  "title": "Bharat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674144",
+    "imdb": "tt7721800",
+    "tmdb": 569594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-04"
+}

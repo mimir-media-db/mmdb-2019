@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbarians_of_the_bay_2019",
+  "title": "Barbarians of the Bay",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77901234",
+    "imdb": "tt10576946",
+    "tmdb": 633698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-18",
+  "runtime_minutes": 115
+}

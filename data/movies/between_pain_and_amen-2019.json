@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_pain_and_amen_2019",
+  "title": "Between Pain and Amen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113114478",
+    "imdb": "tt10516484",
+    "tmdb": 716185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04",
+  "runtime_minutes": 125
+}

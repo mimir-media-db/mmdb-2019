@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bpm_beats_per_minute_2019",
+  "title": "BPM (Beats per Minute)",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29378617",
+    "imdb": "tt6135348",
+    "tmdb": 451945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-02",
+  "runtime_minutes": 140
+}

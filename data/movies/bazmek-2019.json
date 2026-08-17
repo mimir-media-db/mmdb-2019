@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bazmek_2019",
+  "title": "Bazmek",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66729066",
+    "imdb": "tt10679838",
+    "tmdb": 1157281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18",
+  "runtime_minutes": 82
+}

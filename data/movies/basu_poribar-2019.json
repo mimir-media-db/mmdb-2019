@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_basu_poribar_2019",
+  "title": "Basu Poribar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671567",
+    "imdb": "tt7994100",
+    "tmdb": 700463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_baghini_2019",
+  "title": "Baghini",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63170758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-13"
+}

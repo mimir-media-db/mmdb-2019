@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunker_of_blood_07_killjoys_carnage_caravan_2019",
+  "title": "Bunker of Blood 07: Killjoys Carnage Caravan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127694586",
+    "imdb": "tt10071462",
+    "tmdb": 648677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

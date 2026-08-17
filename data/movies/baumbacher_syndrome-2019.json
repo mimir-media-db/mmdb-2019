@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baumbacher_syndrome_2019",
+  "title": "Baumbacher Syndrome",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105695243",
+    "imdb": "tt9409448",
+    "tmdb": 582257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 85
+}

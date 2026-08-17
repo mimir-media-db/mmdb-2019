@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brooklyn_experience_2019",
+  "title": "Brooklyn experience",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108732478",
+    "imdb": "tt6941210",
+    "tmdb": 499171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_mirrors_2019",
+  "title": "Broken Mirrors",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97360151",
+    "imdb": "tt6723102",
+    "tmdb": 551644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 104
+}

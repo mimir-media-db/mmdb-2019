@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_love_picture_2019",
+  "title": "The Big Love Picture",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108064955",
+    "imdb": "tt10399550",
+    "tmdb": 622769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

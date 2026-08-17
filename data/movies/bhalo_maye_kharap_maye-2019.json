@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhalo_maye_kharap_maye_2019",
+  "title": "Bhalo Maye Kharap Maye",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67906191",
+    "imdb": "tt15399258"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13"
+}

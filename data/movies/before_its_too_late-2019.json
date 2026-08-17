@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_its_too_late_2019",
+  "title": "Before It's Too Late",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109838275",
+    "imdb": "tt9865452",
+    "tmdb": 642729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

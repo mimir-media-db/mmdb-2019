@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bentornato_presidente_2019",
+  "title": "Bentornato presidente",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61971595",
+    "imdb": "tt9281008",
+    "tmdb": 586764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_child_2019",
+  "title": "The Burning Child",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764349",
+    "imdb": "tt3783362",
+    "tmdb": 504872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-31",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_quantum_physics_a_nightlife_venture_2019",
+  "title": "By Quantum Physics: A Nightlife Venture",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72939059",
+    "imdb": "tt11022284",
+    "tmdb": 619166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-25",
+  "runtime_minutes": 120
+}

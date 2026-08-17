@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_we_explode_2019",
+  "title": "Before We Explode",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768683",
+    "imdb": "tt9825006",
+    "tmdb": 569496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-20",
+  "runtime_minutes": 108
+}

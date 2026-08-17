@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_badmom_2019",
+  "title": "Badmom",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108126408",
+    "imdb": "tt8904954",
+    "tmdb": 717015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 70
+}

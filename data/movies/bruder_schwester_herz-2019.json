@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bruder_schwester_herz_2019",
+  "title": "Bruder Schwester Herz",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67339638",
+    "imdb": "tt8782396",
+    "tmdb": 567424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10"
+}

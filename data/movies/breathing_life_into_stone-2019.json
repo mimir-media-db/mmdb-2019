@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breathing_life_into_stone_2019",
+  "title": "Breathing Life Into Stone",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63092577",
+    "imdb": "tt9464344",
+    "tmdb": 914022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-23",
+  "runtime_minutes": 82
+}

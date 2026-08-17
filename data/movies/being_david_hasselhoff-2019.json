@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_being_david_hasselhoff_2019",
+  "title": "Being David Hasselhoff",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98637278",
+    "imdb": "tt11601002",
+    "tmdb": 622436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

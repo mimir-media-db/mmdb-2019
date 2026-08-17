@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_cane_2019",
+  "title": "Burning Cane",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63441078",
+    "imdb": "tt7358154",
+    "tmdb": 586454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benjamin_2019",
+  "title": "Benjamin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96891483",
+    "imdb": "tt5740868",
+    "tmdb": 597202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

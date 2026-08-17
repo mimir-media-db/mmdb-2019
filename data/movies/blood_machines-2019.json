@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_machines_2019",
+  "title": "Blood Machines",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96679883",
+    "imdb": "tt6197070",
+    "tmdb": 536517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 50
+}

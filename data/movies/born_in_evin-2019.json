@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_evin_2019",
+  "title": "Born in Evin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61788482",
+    "imdb": "tt5838526",
+    "tmdb": 575840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-09",
+  "runtime_minutes": 98
+}

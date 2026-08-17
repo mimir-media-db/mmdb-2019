@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bamboo_theatre_2019",
+  "title": "Bamboo Theatre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97349063",
+    "imdb": "tt11080024",
+    "tmdb": 657147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-22"
+}

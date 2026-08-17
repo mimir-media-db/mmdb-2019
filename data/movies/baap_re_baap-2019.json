@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baap_re_baap_2019",
+  "title": "Baap Re Baap",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65091786",
+    "imdb": "tt9315112",
+    "tmdb": 826561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18"
+}

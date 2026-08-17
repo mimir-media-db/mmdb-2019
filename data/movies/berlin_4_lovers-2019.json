@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_4_lovers_2019",
+  "title": "Berlin 4 Lovers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67911473"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-15",
+  "runtime_minutes": 72
+}

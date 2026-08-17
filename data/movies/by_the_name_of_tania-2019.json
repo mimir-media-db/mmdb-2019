@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_name_of_tania_2019",
+  "title": "By the Name of Tania",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61751174",
+    "imdb": "tt9463454",
+    "tmdb": 575807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-10",
+  "runtime_minutes": 85
+}

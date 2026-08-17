@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brittany_runs_a_marathon_2019",
+  "title": "Brittany Runs a Marathon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151283",
+    "imdb": "tt7671064",
+    "tmdb": 529862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-28",
+  "runtime_minutes": 103
+}
