@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crawl_2019",
+  "title": "Crawl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56241205",
+    "imdb": "tt8364368",
+    "tmdb": 511987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-12",
+  "runtime_minutes": 87
+}

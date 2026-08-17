@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carmine_street_guitars_2019",
+  "title": "Carmine Street Guitars",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63398585",
+    "imdb": "tt7574126",
+    "tmdb": 539025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-24",
+  "runtime_minutes": 80
+}

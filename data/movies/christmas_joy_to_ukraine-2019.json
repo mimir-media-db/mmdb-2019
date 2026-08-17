@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_joy_to_ukraine_2019",
+  "title": "Christmas Joy to Ukraine",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802391",
+    "imdb": "tt11348784",
+    "tmdb": 648151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-13",
+  "runtime_minutes": 65
+}

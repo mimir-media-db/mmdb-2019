@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clement_alex_and_everyone_else_2019",
+  "title": "Clément, Alex, and Everyone Else",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106070106",
+    "imdb": "tt7684416",
+    "tmdb": 608956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 75
+}

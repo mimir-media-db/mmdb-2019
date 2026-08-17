@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_morten_and_the_spider_queen_2019",
+  "title": "Captain Morten and the Spider Queen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55596006",
+    "imdb": "tt2534642",
+    "tmdb": 512916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 79
+}

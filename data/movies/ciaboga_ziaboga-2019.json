@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ciaboga_ziaboga_2019",
+  "title": "Ciaboga. Ziaboga",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130746448",
+    "imdb": "tt10730518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-10",
+  "runtime_minutes": 74
+}

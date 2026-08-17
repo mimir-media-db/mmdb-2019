@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coda_life_with_music_2019",
+  "title": "CODA : Life With Music",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85753186",
+    "imdb": "tt7090140",
+    "tmdb": 528761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-23",
+  "runtime_minutes": 96
+}

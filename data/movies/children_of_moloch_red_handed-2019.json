@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_moloch_red_handed_2019",
+  "title": "Children of Moloch (Red Handed)",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135720383",
+    "imdb": "tt7632274",
+    "tmdb": 653070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 91
+}

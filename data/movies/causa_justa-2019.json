@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_causa_justa_2019",
+  "title": "Causa Justa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245334",
+    "imdb": "tt8019498",
+    "tmdb": 755378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaaghi_2019",
+  "title": "Chaaghi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110005",
+    "imdb": "tt5216604",
+    "tmdb": 672976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-28",
+  "runtime_minutes": 93
+}

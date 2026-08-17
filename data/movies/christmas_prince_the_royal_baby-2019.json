@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_prince_the_royal_baby_2019",
+  "title": "A Christmas Prince: The Royal Baby",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73534689",
+    "imdb": "tt10006006",
+    "tmdb": 587693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 85
+}

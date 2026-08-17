@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_change_of_gangster_2019",
+  "title": "Change of Gangster",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65053486",
+    "imdb": "tt7618402",
+    "tmdb": 596559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-19"
+}

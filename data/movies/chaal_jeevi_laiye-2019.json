@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaal_jeevi_laiye_2019",
+  "title": "Chaal Jeevi Laiye!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64413685",
+    "imdb": "tt9610262",
+    "tmdb": 582316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01"
+}

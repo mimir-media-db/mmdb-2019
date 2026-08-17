@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinta_itu_buta_2019",
+  "title": "Cinta Itu Buta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106201940",
+    "imdb": "tt10645298",
+    "tmdb": 616838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10"
+}

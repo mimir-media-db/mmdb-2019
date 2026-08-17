@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cordes_2019",
+  "title": "Cordes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113361003",
+    "imdb": "tt6117824",
+    "tmdb": 632251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 87
+}

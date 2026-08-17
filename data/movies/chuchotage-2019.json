@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chuchotage_2019",
+  "title": "Chuchotage",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60537973",
+    "imdb": "tt8089288",
+    "tmdb": 518471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-07"
+}

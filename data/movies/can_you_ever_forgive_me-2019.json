@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_can_you_ever_forgive_me_2019",
+  "title": "Can You Ever Forgive Me?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28860129",
+    "imdb": "tt4595882",
+    "tmdb": 401847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01",
+  "runtime_minutes": 107
+}

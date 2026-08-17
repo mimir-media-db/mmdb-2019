@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_paradiso_2019",
+  "title": "Cinema Paradiso",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q464032",
+    "imdb": "tt0095765",
+    "tmdb": 11216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-01",
+  "runtime_minutes": 155
+}

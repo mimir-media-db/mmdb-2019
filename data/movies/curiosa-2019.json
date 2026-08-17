@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curiosa_2019",
+  "title": "Curiosa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64691905",
+    "imdb": "tt7598076",
+    "tmdb": 487616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-03",
+  "runtime_minutes": 107
+}

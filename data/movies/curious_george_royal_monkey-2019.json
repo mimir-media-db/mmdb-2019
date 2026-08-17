@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curious_george_royal_monkey_2019",
+  "title": "Curious George: Royal Monkey",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93401280",
+    "imdb": "tt10510166",
+    "tmdb": 627093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

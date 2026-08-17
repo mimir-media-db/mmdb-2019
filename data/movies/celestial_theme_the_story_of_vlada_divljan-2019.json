@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_celestial_theme_the_story_of_vlada_divljan_2019",
+  "title": "Celestial Theme – The Story of Vlada Divljan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113697619",
+    "imdb": "tt6936238",
+    "tmdb": 601485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 108
+}

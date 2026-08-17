@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childs_play_2019",
+  "title": "Child's Play",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56697304",
+    "imdb": "tt8663516",
+    "tmdb": 533642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-19",
+  "runtime_minutes": 2
+}

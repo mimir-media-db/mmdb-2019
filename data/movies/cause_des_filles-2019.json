@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cause_des_filles_2019",
+  "title": "À cause des filles..?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59192679",
+    "imdb": "tt8903294",
+    "tmdb": 568406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-30"
+}

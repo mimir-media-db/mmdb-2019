@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_league_group_c_shakhtar_donetsk_vs_manchester_city_2019",
+  "title": "Champions League - Group C Shakhtar Donetsk vs Manchester City",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574091",
+    "imdb": "tt11011404"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-18",
+  "runtime_minutes": 90
+}

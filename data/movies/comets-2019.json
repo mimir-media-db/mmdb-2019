@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comets_2019",
+  "title": "Comets",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110913857",
+    "imdb": "tt10888630",
+    "tmdb": 621722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 70
+}
