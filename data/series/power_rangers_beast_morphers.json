@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_beast_morphers",
+  "title": "Power Rangers Beast Morphers",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q49117245",
+    "imdb": "tt8022978",
+    "tmdb": 325505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

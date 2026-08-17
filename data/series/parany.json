@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_parany",
+  "title": "Parany",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q106621950",
+    "imdb": "tt11502998",
+    "tmdb": 97203
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

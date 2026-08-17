@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_chef",
+  "title": "Planet Chef",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112132410"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

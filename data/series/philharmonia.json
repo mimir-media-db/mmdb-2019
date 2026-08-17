@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_philharmonia",
+  "title": "Philharmonia",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60853633",
+    "imdb": "tt7707100",
+    "tmdb": 85957
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_punk",
+  "title": "Punk",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60763089",
+    "imdb": "tt9419282",
+    "tmdb": 84929
+  },
+  "last_updated": "2026-08-17"
+}

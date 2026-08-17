@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prodigal_son",
+  "title": "Prodigal Son",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q63965736",
+    "imdb": "tt10327354",
+    "tmdb": 91875
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

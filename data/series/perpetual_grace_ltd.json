@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_perpetual_grace_ltd",
+  "title": "Perpetual Grace, LTD.",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56290672",
+    "imdb": "tt8912384",
+    "tmdb": 82695
+  },
+  "last_updated": "2026-08-17"
+}

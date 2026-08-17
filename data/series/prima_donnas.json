@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prima_donnas",
+  "title": "Prima Donnas",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66570568",
+    "imdb": "tt10826852",
+    "tmdb": 197860
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 311
+}
