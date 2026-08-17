@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_to_be_with_you",
+  "title": "To Be With You",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63856918",
+    "imdb": "tt10356886",
+    "tmdb": 90663
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

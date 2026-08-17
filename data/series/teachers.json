@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_teachers",
+  "title": "The Teachers",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q106775166",
+    "imdb": "tt12084250",
+    "tmdb": 92066
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

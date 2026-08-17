@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_traveller",
+  "title": "The Traveller",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86669535",
+    "imdb": "tt10410442",
+    "tmdb": 100548
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_transit_camps",
+  "title": "The Transit Camps",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q65252081",
+    "imdb": "tt10182452"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

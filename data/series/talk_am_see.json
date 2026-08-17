@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_talk_am_see",
+  "title": "Talk am See",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64495512",
+    "imdb": "tt11031520",
+    "tmdb": 108843
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

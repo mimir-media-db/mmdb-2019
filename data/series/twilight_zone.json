@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twilight_zone",
+  "title": "The Twilight Zone",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q57270033",
+    "imdb": "tt2583620",
+    "tmdb": 83135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

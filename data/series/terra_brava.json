@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_terra_brava",
+  "title": "Terra Brava",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q78514564",
+    "imdb": "tt10449902",
+    "tmdb": 94987
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 361
+}

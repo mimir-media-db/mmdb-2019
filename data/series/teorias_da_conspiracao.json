@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_teorias_da_conspiracao",
+  "title": "Teorias da Conspiração",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q48876889",
+    "imdb": "tt7562818",
+    "tmdb": 92550
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_transkids",
+  "title": "Transkids",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q109139762",
+    "imdb": "tt10745706",
+    "tmdb": 325458
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

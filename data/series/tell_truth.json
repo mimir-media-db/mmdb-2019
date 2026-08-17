@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tell_truth",
+  "title": "Tell Truth",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q116181020",
+    "imdb": "tt10595370",
+    "tmdb": 87843
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

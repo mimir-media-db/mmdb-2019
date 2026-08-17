@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trackers",
+  "title": "Trackers",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q85810369",
+    "imdb": "tt9074360",
+    "tmdb": 94923
+  },
+  "last_updated": "2026-08-17"
+}

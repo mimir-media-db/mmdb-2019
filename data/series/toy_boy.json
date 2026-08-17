@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_toy_boy",
+  "title": "Toy Boy",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q64991343",
+    "imdb": "tt8693266",
+    "tmdb": 87763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

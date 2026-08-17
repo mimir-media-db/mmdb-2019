@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_traitors",
+  "title": "Traitors",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q62659310",
+    "imdb": "tt7371896",
+    "tmdb": 86733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

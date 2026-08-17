@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_thunder",
+  "title": "The Thunder",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56272407",
+    "imdb": "tt10322972",
+    "tmdb": 89216
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}
