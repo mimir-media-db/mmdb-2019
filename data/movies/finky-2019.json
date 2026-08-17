@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finky_2019",
+  "title": "Finky",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72374486",
+    "imdb": "tt10098472",
+    "tmdb": 652335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

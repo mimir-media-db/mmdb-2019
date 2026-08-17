@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fisch_lernt_fliegen_2019",
+  "title": "Fisch lernt fliegen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76753314",
+    "imdb": "tt9843292",
+    "tmdb": 575850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

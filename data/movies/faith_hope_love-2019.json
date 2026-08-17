@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faith_hope_love_2019",
+  "title": "Faith, Hope & Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83809036",
+    "imdb": "tt8310924",
+    "tmdb": 581998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

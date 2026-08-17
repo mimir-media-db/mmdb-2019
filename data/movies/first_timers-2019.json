@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_timers_2019",
+  "title": "First Timers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28474782",
+    "imdb": "tt3531762",
+    "tmdb": 402468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

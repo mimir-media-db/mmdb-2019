@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_zero_to_i_love_you_2019",
+  "title": "From Zero to I Love You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64338105",
+    "imdb": "tt3110634",
+    "tmdb": 580374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

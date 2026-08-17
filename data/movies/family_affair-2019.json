@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_affair_2019",
+  "title": "Family Affair",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240842",
+    "imdb": "tt11428084",
+    "tmdb": 602519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

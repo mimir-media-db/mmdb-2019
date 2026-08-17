@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_supper_2019",
+  "title": "The First Supper",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65270781",
+    "imdb": "tt10633612",
+    "tmdb": 619603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
