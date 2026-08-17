@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_years_away_from_home",
+  "title": "The Years Away From Home",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65197830",
+    "imdb": "tt10224596",
+    "tmdb": 88676
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

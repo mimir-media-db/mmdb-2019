@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_yksin_kotona_suomi",
+  "title": "Yksin kotona Suomi",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67602417",
+    "imdb": "tt10940152"
+  },
+  "last_updated": "2026-08-17"
+}

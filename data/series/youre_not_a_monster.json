@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_youre_not_a_monster",
+  "title": "You're Not a Monster",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q79589046",
+    "imdb": "tt9154158",
+    "tmdb": 91571
+  },
+  "last_updated": "2026-08-17"
+}

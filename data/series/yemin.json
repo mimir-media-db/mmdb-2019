@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yemin",
+  "title": "Yemin",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8052158",
+    "imdb": "tt9826628",
+    "tmdb": 7723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 448
+}

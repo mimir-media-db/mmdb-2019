@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_you_vs_wild",
+  "title": "You vs. Wild",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q63097586",
+    "imdb": "tt10044952",
+    "tmdb": 87712
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

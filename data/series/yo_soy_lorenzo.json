@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yo_soy_lorenzo",
+  "title": "Yo soy Lorenzo",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65159450",
+    "imdb": "tt11856814",
+    "tmdb": 93077
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 148
+}
