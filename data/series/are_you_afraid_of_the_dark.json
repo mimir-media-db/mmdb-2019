@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_afraid_of_the_dark",
+  "title": "Are You Afraid of the Dark?",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107208800",
+    "imdb": "tt10473306",
+    "tmdb": 93693
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

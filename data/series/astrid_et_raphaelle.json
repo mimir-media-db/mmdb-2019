@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_astrid_et_raphaelle",
+  "title": "Astrid et Raphaëlle",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63375169",
+    "imdb": "tt11950864",
+    "tmdb": 88384
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 49
+}

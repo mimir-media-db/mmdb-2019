@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alcasser_murders",
+  "title": "The Alcasser Murders",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65048140",
+    "imdb": "tt8033244",
+    "tmdb": 90274
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

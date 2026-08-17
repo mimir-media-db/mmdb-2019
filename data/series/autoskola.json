@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_autoskola",
+  "title": "Autoskola",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q61355920",
+    "imdb": "tt9531274",
+    "tmdb": 88353
+  },
+  "last_updated": "2026-08-17"
+}

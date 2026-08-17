@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_artist",
+  "title": "Artist",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65202533",
+    "tmdb": 109228
+  },
+  "last_updated": "2026-08-17"
+}

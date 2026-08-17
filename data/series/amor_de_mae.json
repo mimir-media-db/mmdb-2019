@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_de_mae",
+  "title": "Amor de Mãe",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q61749997",
+    "imdb": "tt10839702",
+    "tmdb": 95885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_al_madi_la_yamout",
+  "title": "Al Madi La Yamout",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64029806",
+    "imdb": "tt14954694",
+    "tmdb": 216821
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apache_the_life_of_carlos_tevez",
+  "title": "Apache: The Life of Carlos Tevez",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85742175",
+    "imdb": "tt10715172",
+    "tmdb": 92443
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

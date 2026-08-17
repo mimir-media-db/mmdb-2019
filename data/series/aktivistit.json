@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aktivistit",
+  "title": "Aktivistit",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q61314860",
+    "imdb": "tt9609164",
+    "tmdb": 87006
+  },
+  "last_updated": "2026-08-17"
+}

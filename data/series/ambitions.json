@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ambitions",
+  "title": "Ambitions",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60753252",
+    "imdb": "tt9319680",
+    "tmdb": 90399
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}
