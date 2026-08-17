@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_365_days_also_known_as_a_year_2019",
+  "title": "365 Days, Also Known as a Year",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575482",
+    "imdb": "tt10376772",
+    "tmdb": 784781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-27",
+  "runtime_minutes": 99
+}
