@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jezabel",
+  "title": "Jezabel",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q62428602",
+    "imdb": "tt10056824",
+    "tmdb": 90180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

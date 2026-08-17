@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jams",
+  "title": "Jams",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60840752",
+    "imdb": "tt10293798",
+    "tmdb": 102114
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 75
+}

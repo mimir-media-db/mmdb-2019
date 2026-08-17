@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_jerry",
+  "title": "Judge Jerry",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q60755491",
+    "imdb": "tt9343736",
+    "tmdb": 93364
+  },
+  "last_updated": "2026-08-17"
+}

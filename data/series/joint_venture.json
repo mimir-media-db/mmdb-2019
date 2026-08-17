@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joint_venture",
+  "title": "Joint Venture",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65045613",
+    "imdb": "tt10756754",
+    "tmdb": 91907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

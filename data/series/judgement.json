@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_judgement",
+  "title": "Judgement",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q60853734",
+    "imdb": "tt11151344",
+    "tmdb": 85708
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
