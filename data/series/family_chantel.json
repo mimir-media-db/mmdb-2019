@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_family_chantel",
+  "title": "The Family Chantel",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104859456",
+    "imdb": "tt10584792",
+    "tmdb": 91169
+  },
+  "last_updated": "2026-08-17"
+}

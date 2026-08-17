@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_for_sarah",
+  "title": "For Sarah",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65488814",
+    "imdb": "tt11022110",
+    "tmdb": 93735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_flipante_noa",
+  "title": "Flipante Noa",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q98026353",
+    "imdb": "tt9070290",
+    "tmdb": 146409
+  },
+  "last_updated": "2026-08-17"
+}

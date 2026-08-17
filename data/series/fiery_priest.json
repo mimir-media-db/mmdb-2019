@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fiery_priest",
+  "title": "The Fiery Priest",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q58483854",
+    "imdb": "tt9674954",
+    "tmdb": 86830
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

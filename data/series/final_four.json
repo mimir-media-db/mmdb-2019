@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_final_four",
+  "title": "The Final Four",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64876160"
+  },
+  "last_updated": "2026-08-17"
+}

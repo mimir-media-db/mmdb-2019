@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_formula_mesti",
+  "title": "Formula mesti",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q86672416",
+    "imdb": "tt11128352",
+    "tmdb": 94746
+  },
+  "last_updated": "2026-08-17"
+}

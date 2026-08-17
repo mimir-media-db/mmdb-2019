@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_formula_1_drive_to_survive",
+  "title": "Formula 1: Drive to Survive",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62002541",
+    "imdb": "tt8289930",
+    "tmdb": 87083
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 80
+}

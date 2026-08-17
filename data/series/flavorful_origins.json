@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flavorful_origins",
+  "title": "Flavorful Origins",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61742265",
+    "imdb": "tt9708598",
+    "tmdb": 86742
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

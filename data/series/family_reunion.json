@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_family_reunion",
+  "title": "Family Reunion",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q64825475",
+    "imdb": "tt9153270",
+    "tmdb": 87093
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}
