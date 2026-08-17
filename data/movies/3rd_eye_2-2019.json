@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3rd_eye_2_2019",
+  "title": "The 3rd Eye 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61366100",
+    "imdb": "tt8890582",
+    "tmdb": 573106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_from_hell_2019",
+  "title": "3 from Hell",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51591908",
+    "imdb": "tt8134742",
+    "tmdb": 489064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 115
+}

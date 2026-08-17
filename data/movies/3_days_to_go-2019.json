@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_days_to_go_2019",
+  "title": "3 Days to Go",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76655581",
+    "imdb": "tt9170142",
+    "tmdb": 576782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

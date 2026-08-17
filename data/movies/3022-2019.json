@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3022_2019",
+  "title": "3022",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79977466",
+    "imdb": "tt9465600",
+    "tmdb": 640882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
