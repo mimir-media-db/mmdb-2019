@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_600_the_soldiers_story_2019",
+  "title": "The 600 The Soldiers' Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139413411",
+    "imdb": "tt11393362",
+    "tmdb": 663378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
