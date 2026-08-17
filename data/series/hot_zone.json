@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_zone",
+  "title": "The Hot Zone",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55635296",
+    "imdb": "tt4131818",
+    "tmdb": 86799
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

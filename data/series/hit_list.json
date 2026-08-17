@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_list",
+  "title": "The Hit List",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60754392",
+    "imdb": "tt9319818",
+    "tmdb": 119306
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

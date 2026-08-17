@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heirs_of_the_night",
+  "title": "Heirs of the Night",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64513656",
+    "imdb": "tt8347410",
+    "tmdb": 93842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

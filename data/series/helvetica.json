@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helvetica",
+  "title": "Helvetica",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q74447745",
+    "imdb": "tt8765292",
+    "tmdb": 95240
+  },
+  "last_updated": "2026-08-17"
+}

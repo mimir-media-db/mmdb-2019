@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_again",
+  "title": "Hello Again!",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60744462",
+    "imdb": "tt11323558",
+    "tmdb": 87398
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

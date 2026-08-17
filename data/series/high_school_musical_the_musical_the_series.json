@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_school_musical_the_musical_the_series",
+  "title": "High School Musical: The Musical: The Series",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q61816815",
+    "imdb": "tt8510382",
+    "tmdb": 85801
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

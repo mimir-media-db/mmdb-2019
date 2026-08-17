@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_her_private_life",
+  "title": "Her Private Life",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61360109",
+    "imdb": "tt9899340",
+    "tmdb": 87553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

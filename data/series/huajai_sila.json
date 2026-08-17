@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_huajai_sila",
+  "title": "Huajai Sila",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q13023442",
+    "imdb": "tt13846080",
+    "tmdb": 53651
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 27
+}

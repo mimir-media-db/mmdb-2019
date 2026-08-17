@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hong_kong_west_side_stories",
+  "title": "Hong Kong West Side Stories",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63688079",
+    "imdb": "tt10282734",
+    "tmdb": 88964
+  },
+  "last_updated": "2026-08-17"
+}

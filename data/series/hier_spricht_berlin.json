@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hier_spricht_berlin",
+  "title": "Hier spricht Berlin",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q69504219"
+  },
+  "last_updated": "2026-08-17"
+}

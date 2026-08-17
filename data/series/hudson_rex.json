@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hudson_rex",
+  "title": "Hudson & Rex",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60748235",
+    "imdb": "tt9111220",
+    "tmdb": 87940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 122
+}

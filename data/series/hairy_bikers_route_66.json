@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hairy_bikers_route_66",
+  "title": "Hairy Bikers: Route 66",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85765473",
+    "imdb": "tt10952558",
+    "tmdb": 94089
+  },
+  "last_updated": "2026-08-17"
+}

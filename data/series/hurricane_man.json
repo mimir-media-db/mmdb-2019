@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hurricane_man",
+  "title": "Hurricane Man",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q98686854",
+    "imdb": "tt10075244",
+    "tmdb": 93491
+  },
+  "last_updated": "2026-08-17"
+}
