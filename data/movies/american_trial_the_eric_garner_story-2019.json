@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_trial_the_eric_garner_story_2019",
+  "title": "American Trial: The Eric Garner Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66729612",
+    "imdb": "tt6814746",
+    "tmdb": 629745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

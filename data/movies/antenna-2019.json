@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antenna_2019",
+  "title": "The Antenna",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76749306",
+    "imdb": "tt8997180",
+    "tmdb": 621737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 115
+}

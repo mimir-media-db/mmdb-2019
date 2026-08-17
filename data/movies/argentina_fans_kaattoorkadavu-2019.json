@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_argentina_fans_kaattoorkadavu_2019",
+  "title": "Argentina Fans Kaattoorkadavu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63966825",
+    "imdb": "tt8806546",
+    "tmdb": 582134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

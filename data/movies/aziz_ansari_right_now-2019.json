@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aziz_ansari_right_now_2019",
+  "title": "Aziz Ansari: Right Now",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032648",
+    "imdb": "tt10575038",
+    "tmdb": 613999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_again_once_again_2019",
+  "title": "Again Once Again",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64432688",
+    "imdb": "tt9641238",
+    "tmdb": 575804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

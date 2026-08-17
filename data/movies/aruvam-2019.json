@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aruvam_2019",
+  "title": "Aruvam",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768102",
+    "imdb": "tt10334624",
+    "tmdb": 607693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

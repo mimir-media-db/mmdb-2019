@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_selfdefense_2019",
+  "title": "The Art of Self-Defense",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44613088",
+    "imdb": "tt7339248",
+    "tmdb": 480001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 104
+}

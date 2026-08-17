@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aiuta_my_promise_to_nakuhito_2019",
+  "title": "Aiuta: My Promise to Nakuhito",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60988562",
+    "imdb": "tt9019312",
+    "tmdb": 553622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

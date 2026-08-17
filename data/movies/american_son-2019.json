@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_son_2019",
+  "title": "American Son",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67207197",
+    "imdb": "tt9664078",
+    "tmdb": 622963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

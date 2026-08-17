@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anukta_2019",
+  "title": "Anukta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411282",
+    "imdb": "tt8426772",
+    "tmdb": 579402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ahaa_re_2019",
+  "title": "Ahaa Re",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63118909",
+    "imdb": "tt9834062",
+    "tmdb": 585972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

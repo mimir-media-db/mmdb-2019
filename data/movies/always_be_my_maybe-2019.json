@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_always_be_my_maybe_2019",
+  "title": "Always Be My Maybe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55603751",
+    "imdb": "tt7374948",
+    "tmdb": 513576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}
