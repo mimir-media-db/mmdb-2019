@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jacqueline_i_am_coming_2019",
+  "title": "Jacqueline I Am Coming",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893758",
+    "imdb": "tt6597160",
+    "tmdb": 994391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

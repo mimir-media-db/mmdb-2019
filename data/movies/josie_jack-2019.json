@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_josie_jack_2019",
+  "title": "Josie & Jack",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84011881",
+    "imdb": "tt8789416",
+    "tmdb": 643852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

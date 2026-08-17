@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_javiers_passion_2019",
+  "title": "Javier's Passion",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72586066",
+    "imdb": "tt9057938",
+    "tmdb": 666646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

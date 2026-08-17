@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jada_2019",
+  "title": "Jada",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738650",
+    "imdb": "tt9769714",
+    "tmdb": 624124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

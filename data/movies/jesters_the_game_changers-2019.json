@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jesters_the_game_changers_2019",
+  "title": "Jesters: The Game Changers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998633",
+    "imdb": "tt10892530",
+    "tmdb": 571608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

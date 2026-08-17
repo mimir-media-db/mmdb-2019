@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jordan_river_anderson_the_messenger_2019",
+  "title": "Jordan River Anderson, the Messenger",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305413",
+    "imdb": "tt10851300",
+    "tmdb": 619637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

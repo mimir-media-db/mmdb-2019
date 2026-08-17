@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jusqua_la_lie_2019",
+  "title": "Jusqu'à la lie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86680264",
+    "imdb": "tt8206958",
+    "tmdb": 636057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
