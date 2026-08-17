@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_twenties_2019",
+  "title": "Golden Twenties",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65929335",
+    "imdb": "tt8354304",
+    "tmdb": 608602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 91
+}

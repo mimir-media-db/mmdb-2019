@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gilli_bambaram_goli_2019",
+  "title": "Gilli Bambaram Goli",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532979",
+    "imdb": "tt10370088"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15"
+}

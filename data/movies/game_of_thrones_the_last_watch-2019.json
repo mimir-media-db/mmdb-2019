@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_game_of_thrones_the_last_watch_2019",
+  "title": "Game of Thrones: The Last Watch",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64140835",
+    "imdb": "tt10090796",
+    "tmdb": 591278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-26",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glorious_days_2019",
+  "title": "Glorious Days",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65208073",
+    "imdb": "tt10656240",
+    "tmdb": 602177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03",
+  "runtime_minutes": 119
+}

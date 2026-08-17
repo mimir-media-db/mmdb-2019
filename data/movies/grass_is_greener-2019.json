@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grass_is_greener_2019",
+  "title": "Grass is Greener",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63247781",
+    "imdb": "tt10050782",
+    "tmdb": 589871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-20",
+  "runtime_minutes": 97
+}

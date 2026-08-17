@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_und_panzer_das_finale_part_2_2019",
+  "title": "Girls und Panzer das Finale: Part 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97237281",
+    "imdb": "tt7834494",
+    "tmdb": 496891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-15",
+  "runtime_minutes": 54
+}

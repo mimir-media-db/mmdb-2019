@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_wealth_2019",
+  "title": "Generation Wealth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56524191",
+    "imdb": "tt5268348",
+    "tmdb": 493014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-31",
+  "runtime_minutes": 105
+}

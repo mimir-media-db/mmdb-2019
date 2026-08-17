@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_morning_son_2019",
+  "title": "Good Morning Son",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65057392",
+    "imdb": "tt9046516",
+    "tmdb": 588516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 81
+}

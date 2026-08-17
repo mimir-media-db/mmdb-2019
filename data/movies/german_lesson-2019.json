@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_german_lesson_2019",
+  "title": "The German Lesson",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67339333",
+    "imdb": "tt7785866",
+    "tmdb": 500245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-28",
+  "runtime_minutes": 125
+}

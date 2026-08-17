@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_greywoods_plot_2019",
+  "title": "Greywood's Plot",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115778674",
+    "imdb": "tt5915626",
+    "tmdb": 667297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18"
+}

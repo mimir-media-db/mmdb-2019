@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_godzilla_king_of_the_monsters_2019",
+  "title": "Godzilla: King of the Monsters",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17501972",
+    "imdb": "tt3741700",
+    "tmdb": 373571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-13",
+  "runtime_minutes": 132
+}

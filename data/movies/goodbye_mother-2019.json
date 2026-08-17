@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_mother_2019",
+  "title": "Goodbye Mother",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97326247",
+    "imdb": "tt10641972",
+    "tmdb": 623897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-14",
+  "runtime_minutes": 106
+}

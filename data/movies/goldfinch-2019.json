@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goldfinch_2019",
+  "title": "The Goldfinch",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672402",
+    "imdb": "tt3864056",
+    "tmdb": 472674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13",
+  "runtime_minutes": 149
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golan_swimmingpool_2019",
+  "title": "The Golan Swimmingpool",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52577872",
+    "imdb": "tt8800040",
+    "tmdb": 518123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-21",
+  "runtime_minutes": 93
+}

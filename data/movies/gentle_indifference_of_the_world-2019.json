@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentle_indifference_of_the_world_2019",
+  "title": "The Gentle Indifference of the World",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53998079",
+    "imdb": "tt8269378",
+    "tmdb": 520273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-21",
+  "runtime_minutes": 99
+}

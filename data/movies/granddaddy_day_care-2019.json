@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_granddaddy_day_care_2019",
+  "title": "Grand-Daddy Day Care",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96379836",
+    "imdb": "tt8749922",
+    "tmdb": 577647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

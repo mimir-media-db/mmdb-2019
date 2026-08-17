@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogol_doc_2019",
+  "title": "Gogol Doc",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575600",
+    "imdb": "tt8800134",
+    "tmdb": 914415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11",
+  "runtime_minutes": 66
+}
