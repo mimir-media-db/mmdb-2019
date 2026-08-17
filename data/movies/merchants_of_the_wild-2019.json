@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_merchants_of_the_wild_2019",
+  "title": "Merchants of the Wild",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114766504"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-22"
+}

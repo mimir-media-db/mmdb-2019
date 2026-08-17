@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muna_2019",
+  "title": "Muna",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93729445",
+    "imdb": "tt10264732",
+    "tmdb": 736730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 113
+}

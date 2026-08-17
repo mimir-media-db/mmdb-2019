@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_in_cell_no_7_2019",
+  "title": "Miracle in Cell No. 7",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73804850",
+    "imdb": "tt10431500",
+    "tmdb": 637920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 134
+}

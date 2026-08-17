@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_waves_the_art_of_cinematic_sound_2019",
+  "title": "Making Waves: The Art of Cinematic Sound",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66361169",
+    "imdb": "tt3856408",
+    "tmdb": 595841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-29",
+  "runtime_minutes": 94
+}

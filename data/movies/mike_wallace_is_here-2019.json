@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mike_wallace_is_here_2019",
+  "title": "Mike Wallace Is Here",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764386",
+    "imdb": "tt9353436",
+    "tmdb": 566366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-27"
+}

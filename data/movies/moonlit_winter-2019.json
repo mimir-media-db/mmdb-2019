@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moonlit_winter_2019",
+  "title": "Moonlit Winter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71362990",
+    "imdb": "tt11311974",
+    "tmdb": 578209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14",
+  "runtime_minutes": 105
+}

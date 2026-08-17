@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_2019",
+  "title": "Missing",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80996569",
+    "imdb": "tt12043620",
+    "tmdb": 639443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14"
+}

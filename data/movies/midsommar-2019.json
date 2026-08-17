@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midsommar_2019",
+  "title": "Midsommar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55907451",
+    "imdb": "tt8772262",
+    "tmdb": 530385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-03",
+  "runtime_minutes": 147
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malvinas_heroes_con_nombre_2019",
+  "title": "Malvinas: Héroes con nombre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135789037",
+    "imdb": "tt32427602",
+    "tmdb": 1293587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 55
+}

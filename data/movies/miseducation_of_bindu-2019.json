@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miseducation_of_bindu_2019",
+  "title": "The MisEducation of Bindu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97354777",
+    "imdb": "tt7955022",
+    "tmdb": 629787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-01"
+}

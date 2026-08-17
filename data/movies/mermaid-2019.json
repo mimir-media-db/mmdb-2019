@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mermaid_2019",
+  "title": "Mermaid",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110164347",
+    "imdb": "tt9051942",
+    "tmdb": 637675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 76
+}

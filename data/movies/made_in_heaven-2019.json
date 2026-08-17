@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_heaven_2019",
+  "title": "Made in Heaven",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102297432",
+    "imdb": "tt14605638",
+    "tmdb": 632707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-15",
+  "runtime_minutes": 116
+}

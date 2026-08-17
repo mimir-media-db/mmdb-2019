@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manoharam_2019",
+  "title": "Manoharam",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81405782",
+    "imdb": "tt9906644",
+    "tmdb": 635903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-27"
+}

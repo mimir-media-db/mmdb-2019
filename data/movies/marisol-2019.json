@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marisol_2019",
+  "title": "Marisol",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66430758",
+    "imdb": "tt7601268",
+    "tmdb": 643416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-23"
+}

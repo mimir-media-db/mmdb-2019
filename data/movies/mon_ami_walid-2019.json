@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mon_ami_walid_2019",
+  "title": "Mon ami Walid",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116177256",
+    "imdb": "tt9866344",
+    "tmdb": 562278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-13",
+  "runtime_minutes": 76
+}

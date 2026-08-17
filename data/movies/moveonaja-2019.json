@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moveonaja_2019",
+  "title": "MoveOnAja",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106907768",
+    "imdb": "tt10687474",
+    "tmdb": 617198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-22"
+}

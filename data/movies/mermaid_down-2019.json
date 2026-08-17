@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mermaid_down_2019",
+  "title": "Mermaid Down",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77327007",
+    "imdb": "tt3584496",
+    "tmdb": 504631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-15",
+  "runtime_minutes": 91
+}

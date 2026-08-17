@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madame_2019",
+  "title": "Madame",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64808972",
+    "imdb": "tt9408232",
+    "tmdb": 594152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-12",
+  "runtime_minutes": 94
+}

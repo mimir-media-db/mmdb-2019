@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mulher_do_meu_marido_2019",
+  "title": "A Mulher do Meu Marido",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106542251",
+    "imdb": "tt7524558",
+    "tmdb": 623086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 95
+}

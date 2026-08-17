@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miszmasz_czyli_kogel_mogel_3_2019",
+  "title": "Miszmasz czyli Kogel Mogel 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60855823",
+    "imdb": "tt9249432",
+    "tmdb": 569905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 95
+}

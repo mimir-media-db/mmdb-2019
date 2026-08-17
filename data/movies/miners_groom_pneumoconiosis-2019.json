@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miners_groom_pneumoconiosis_2019",
+  "title": "Miners, Groom, Pneumoconiosis",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97347066",
+    "imdb": "tt12048430",
+    "tmdb": 687932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-01"
+}

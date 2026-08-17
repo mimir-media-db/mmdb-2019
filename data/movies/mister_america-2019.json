@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mister_america_2019",
+  "title": "Mister America",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65923224",
+    "imdb": "tt10579992",
+    "tmdb": 612502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04"
+}

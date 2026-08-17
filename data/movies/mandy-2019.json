@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mandy_2019",
+  "title": "Mandy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47486507",
+    "imdb": "tt6998518",
+    "tmdb": 460885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-06",
+  "runtime_minutes": 121
+}

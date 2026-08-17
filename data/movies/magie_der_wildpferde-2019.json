@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magie_der_wildpferde_2019",
+  "title": "Magie der Wildpferde",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63431998",
+    "imdb": "tt10229930",
+    "tmdb": 599993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-06",
+  "runtime_minutes": 98
+}

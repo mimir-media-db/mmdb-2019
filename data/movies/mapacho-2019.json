@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mapacho_2019",
+  "title": "Mapacho",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97036383",
+    "imdb": "tt9764112",
+    "tmdb": 721716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-07",
+  "runtime_minutes": 89
+}

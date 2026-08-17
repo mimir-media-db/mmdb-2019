@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_of_the_land_2019",
+  "title": "Mothers of the Land",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532347",
+    "imdb": "tt9658780",
+    "tmdb": 598000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 74
+}

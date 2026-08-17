@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_m8_when_death_rescues_life_2019",
+  "title": "M-8 - When Death Rescues Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106546635",
+    "imdb": "tt11321572",
+    "tmdb": 651906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

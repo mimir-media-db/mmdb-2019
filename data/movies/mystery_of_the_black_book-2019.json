@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_the_black_book_2019",
+  "title": "The Mystery Of The Black Book",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97941315",
+    "imdb": "tt11529596",
+    "tmdb": 651365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_moms_friend_6_2019",
+  "title": "Mom's Friend 6",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840279",
+    "tmdb": 652572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madelines_madeline_2019",
+  "title": "Madeline's Madeline",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50649674",
+    "imdb": "tt6101602",
+    "tmdb": 468735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03"
+}

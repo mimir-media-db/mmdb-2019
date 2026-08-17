@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_makuko_2019",
+  "title": "Makuko",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116177150",
+    "imdb": "tt9529752",
+    "tmdb": 551384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15",
+  "runtime_minutes": 108
+}

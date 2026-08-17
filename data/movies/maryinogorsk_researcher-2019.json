@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maryinogorsk_researcher_2019",
+  "title": "Maryinogorsk researcher",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69876492",
+    "imdb": "tt11212886"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-02",
+  "runtime_minutes": 130
+}

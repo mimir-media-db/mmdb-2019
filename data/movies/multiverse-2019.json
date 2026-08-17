@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_multiverse_2019",
+  "title": "Multiverse",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112874910",
+    "imdb": "tt8953768",
+    "tmdb": 660833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}
