@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_till_death_azaleas_wrath_2019",
+  "title": "Till Death: Azalea's Wrath",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66614560",
+    "imdb": "tt10883274",
+    "tmdb": 656926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-08"
+}

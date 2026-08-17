@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_ghoul_s_2019",
+  "title": "Tokyo Ghoul S",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65073479",
+    "imdb": "tt9179260",
+    "tmdb": 549787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-11"
+}

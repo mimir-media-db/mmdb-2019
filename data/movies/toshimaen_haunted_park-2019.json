@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toshimaen_haunted_park_2019",
+  "title": "Toshimaen: Haunted Park",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97338679",
+    "imdb": "tt9137056",
+    "tmdb": 585774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-10"
+}

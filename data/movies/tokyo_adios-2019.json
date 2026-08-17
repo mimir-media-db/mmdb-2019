@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_adios_2019",
+  "title": "Tokyo Adios",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85881162",
+    "imdb": "tt11230270",
+    "tmdb": 666395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11"
+}

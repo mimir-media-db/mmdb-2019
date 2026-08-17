@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_money_2019",
+  "title": "Talking Money",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56876059",
+    "imdb": "tt10153630",
+    "tmdb": 518124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28"
+}

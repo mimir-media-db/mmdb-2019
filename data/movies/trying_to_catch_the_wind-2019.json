@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_trying_to_catch_the_wind_2019",
+  "title": "Trying to Catch the Wind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643482",
+    "imdb": "tt10474568"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

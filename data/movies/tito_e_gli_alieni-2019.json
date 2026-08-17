@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tito_e_gli_alieni_2019",
+  "title": "Tito e gli alieni",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47089813",
+    "imdb": "tt7677228",
+    "tmdb": 485346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_ones_for_the_ladies_2019",
+  "title": "This One's For The Ladies",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58905735",
+    "imdb": "tt7947150",
+    "tmdb": 502134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

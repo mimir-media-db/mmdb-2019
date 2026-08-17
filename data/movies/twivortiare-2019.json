@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twivortiare_2019",
+  "title": "Twivortiare",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89376929",
+    "imdb": "tt10551450",
+    "tmdb": 611058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twin_murders_the_silence_of_the_white_city_2019",
+  "title": "Twin Murders: The Silence of the White City",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65563148",
+    "imdb": "tt8393332",
+    "tmdb": 542917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25",
+  "runtime_minutes": 110
+}

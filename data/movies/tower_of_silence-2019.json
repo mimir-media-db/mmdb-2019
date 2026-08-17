@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tower_of_silence_2019",
+  "title": "Tower of Silence",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122852744",
+    "imdb": "tt4600300",
+    "tmdb": 646168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-03",
+  "runtime_minutes": 107
+}

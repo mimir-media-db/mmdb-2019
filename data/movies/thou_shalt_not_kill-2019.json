@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thou_shalt_not_kill_2019",
+  "title": "Thou Shalt Not Kill",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138508964",
+    "imdb": "tt9135772",
+    "tmdb": 584057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26"
+}

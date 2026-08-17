@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trade_your_love_2019",
+  "title": "Trade Your Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61100194",
+    "imdb": "tt9735232",
+    "tmdb": 574840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thinking_like_a_mountain_2019",
+  "title": "Thinking like a Mountain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66057820",
+    "imdb": "tt8470094",
+    "tmdb": 688364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-16",
+  "runtime_minutes": 91
+}

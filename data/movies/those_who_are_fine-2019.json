@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_are_fine_2019",
+  "title": "Those who are fine",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47539464",
+    "imdb": "tt7189324",
+    "tmdb": 467384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18",
+  "runtime_minutes": 71
+}

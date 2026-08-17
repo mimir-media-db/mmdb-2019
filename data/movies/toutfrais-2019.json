@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_toutfrais_2019",
+  "title": "Tout-Frais",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100999670",
+    "imdb": "tt9303518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

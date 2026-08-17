@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_takatak_2019",
+  "title": "Takatak",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96707604",
+    "imdb": "tt10340618",
+    "tmdb": 614712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_summers_2019",
+  "title": "Three Summers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66588063",
+    "imdb": "tt10785310",
+    "tmdb": 622971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-01",
+  "runtime_minutes": 94
+}
