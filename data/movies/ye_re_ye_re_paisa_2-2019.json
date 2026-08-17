@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ye_re_ye_re_paisa_2_2019",
+  "title": "Ye Re Ye Re Paisa 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884982",
+    "imdb": "tt8983182",
+    "tmdb": 622409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-09"
+}

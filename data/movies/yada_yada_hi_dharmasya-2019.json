@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yada_yada_hi_dharmasya_2019",
+  "title": "Yada Yada Hi Dharmasya",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130707096",
+    "imdb": "tt19876156"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29"
+}
