@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_l_word_generation_q",
+  "title": "The L Word: Generation Q",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q76568609",
+    "imdb": "tt7661384",
+    "tmdb": 89630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}

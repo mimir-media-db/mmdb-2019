@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_sauvages",
+  "title": "Les Sauvages",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q69304625",
+    "imdb": "tt10371844",
+    "tmdb": 92390
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

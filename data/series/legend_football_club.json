@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_football_club",
+  "title": "LEGEND FOOTBALL CLUB",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65248888",
+    "tmdb": 90534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 82
+}

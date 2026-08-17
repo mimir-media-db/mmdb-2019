@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_caza",
+  "title": "La caza",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62476705",
+    "imdb": "tt8787372",
+    "tmdb": 87919
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

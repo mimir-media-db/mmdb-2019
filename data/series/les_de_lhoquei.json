@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_de_lhoquei",
+  "title": "Les de l'hoquei",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q63364258",
+    "imdb": "tt9486226",
+    "tmdb": 90129
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

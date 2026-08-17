@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_le_grand_bazar",
+  "title": "Le Grand Bazar",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65123740",
+    "imdb": "tt10545872",
+    "tmdb": 87779
+  },
+  "last_updated": "2026-08-17"
+}

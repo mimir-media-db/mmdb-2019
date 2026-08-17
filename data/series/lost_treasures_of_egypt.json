@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_treasures_of_egypt",
+  "title": "Lost Treasures of Egypt",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110442913",
+    "imdb": "tt10115054",
+    "tmdb": 87994
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 48
+}

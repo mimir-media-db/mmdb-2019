@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_and_destiny",
+  "title": "Love and Destiny",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65090962",
+    "imdb": "tt10340368",
+    "tmdb": 90819
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

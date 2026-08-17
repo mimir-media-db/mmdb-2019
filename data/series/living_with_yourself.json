@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_living_with_yourself",
+  "title": "Living with Yourself",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56277286",
+    "imdb": "tt8880894",
+    "tmdb": 81532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_bogues_de_la_vie",
+  "title": "Les bogues de la vie",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q86732528",
+    "imdb": "tt9293534",
+    "tmdb": 88034
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

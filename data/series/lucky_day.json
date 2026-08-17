@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lucky_day",
+  "title": "Lucky Day",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q76763494",
+    "imdb": "tt10855740",
+    "tmdb": 96995
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_linka_miniseries",
+  "title": "Linka (miniseries)",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64355231",
+    "imdb": "tt10329454",
+    "tmdb": 93200
+  },
+  "last_updated": "2026-08-17"
+}

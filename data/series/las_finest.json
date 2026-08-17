@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_finest",
+  "title": "L.A.'s Finest",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q55616350",
+    "imdb": "tt7555294",
+    "tmdb": 85385
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

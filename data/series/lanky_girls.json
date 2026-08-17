@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lanky_girls",
+  "title": "Lanky Girls",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q86673036",
+    "imdb": "tt13290612",
+    "tmdb": 94006
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 59
+}

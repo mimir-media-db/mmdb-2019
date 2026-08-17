@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_leverage",
+  "title": "Leverage",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65247352",
+    "imdb": "tt11018496",
+    "tmdb": 94510
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

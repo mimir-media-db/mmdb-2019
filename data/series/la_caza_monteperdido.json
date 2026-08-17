@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_caza_monteperdido",
+  "title": "La caza. Monteperdido",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q105639415",
+    "imdb": "tt8787372",
+    "tmdb": 87919
+  },
+  "last_updated": "2026-08-17"
+}

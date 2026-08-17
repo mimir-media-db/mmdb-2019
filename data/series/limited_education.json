@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_limited_education",
+  "title": "Limited Education",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64522784",
+    "imdb": "tt16236420",
+    "tmdb": 108049
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

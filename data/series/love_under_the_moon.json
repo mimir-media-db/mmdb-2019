@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_under_the_moon",
+  "title": "Love Under The Moon",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67934028",
+    "imdb": "tt10833696",
+    "tmdb": 92646
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

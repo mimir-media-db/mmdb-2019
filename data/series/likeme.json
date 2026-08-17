@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_likeme",
+  "title": "#LikeMe",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q63256875",
+    "imdb": "tt8736020",
+    "tmdb": 96246
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 62
+}
