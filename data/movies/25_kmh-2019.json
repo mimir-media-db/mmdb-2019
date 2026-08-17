@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_25_kmh_2019",
+  "title": "25 km/h",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57443391",
+    "imdb": "tt7225386",
+    "tmdb": 480736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-25"
+}

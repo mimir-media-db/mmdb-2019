@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_28_days_2019",
+  "title": "28 days",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126490077"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
