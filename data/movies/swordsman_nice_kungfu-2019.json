@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swordsman_nice_kungfu_2019",
+  "title": "Swordsman Nice Kungfu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597954",
+    "imdb": "tt9725262",
+    "tmdb": 580292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-02"
+}

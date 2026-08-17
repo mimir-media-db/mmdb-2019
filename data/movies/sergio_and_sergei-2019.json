@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sergio_and_sergei_2019",
+  "title": "Sergio and Sergei",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52158771",
+    "imdb": "tt6131208",
+    "tmdb": 473352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-27",
+  "runtime_minutes": 93
+}

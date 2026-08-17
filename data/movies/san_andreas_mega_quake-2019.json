@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_san_andreas_mega_quake_2019",
+  "title": "San Andreas Mega Quake",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67954208",
+    "imdb": "tt10309088",
+    "tmdb": 609024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-03"
+}

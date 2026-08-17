@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sherdil_2019",
+  "title": "Sherdil",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65087575",
+    "imdb": "tt9129166",
+    "tmdb": 589210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22"
+}

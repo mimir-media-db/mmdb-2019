@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shining_star_the_birth_of_new_lunaqueen_2019",
+  "title": "Shining Star: The Birth of New Luna-Queen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998639",
+    "imdb": "tt10530128",
+    "tmdb": 610737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18"
+}

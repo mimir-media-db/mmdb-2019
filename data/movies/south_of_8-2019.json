@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_of_8_2019",
+  "title": "South of 8",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27536704",
+    "imdb": "tt4062756",
+    "tmdb": 402434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-03",
+  "runtime_minutes": 91
+}

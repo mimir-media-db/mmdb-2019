@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_she_said_he_said_2019",
+  "title": "She Said, He Said",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106543910",
+    "imdb": "tt9660006",
+    "tmdb": 574547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03"
+}

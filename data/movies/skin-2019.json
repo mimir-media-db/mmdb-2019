@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skin_2019",
+  "title": "Skin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109321219",
+    "imdb": "tt10268708",
+    "tmdb": 719889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 70
+}

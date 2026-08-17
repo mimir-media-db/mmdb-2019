@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sangili_2019",
+  "title": "Sangili",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738645",
+    "imdb": "tt7799456",
+    "tmdb": 1050898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18"
+}

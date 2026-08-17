@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sixties_2019",
+  "title": "Sixties",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573928",
+    "imdb": "tt21970458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-13",
+  "runtime_minutes": 67
+}

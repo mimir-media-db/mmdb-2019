@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supernova_2019",
+  "title": "Supernova",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99194706",
+    "imdb": "tt10666454",
+    "tmdb": 632455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeds_2019",
+  "title": "Seeds",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122972166",
+    "imdb": "tt4599584",
+    "tmdb": 349064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

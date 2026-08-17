@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_streaker_2019",
+  "title": "Streaker",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40539406",
+    "imdb": "tt6743942",
+    "tmdb": 463743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-28",
+  "runtime_minutes": 98
+}

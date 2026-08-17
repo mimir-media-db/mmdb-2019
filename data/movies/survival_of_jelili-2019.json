@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_survival_of_jelili_2019",
+  "title": "Survival of Jelili",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107104640",
+    "imdb": "tt15149094",
+    "tmdb": 1467952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

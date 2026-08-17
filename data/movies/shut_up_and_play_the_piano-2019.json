@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shut_up_and_play_the_piano_2019",
+  "title": "Shut Up And Play The Piano",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56487366",
+    "imdb": "tt7929406",
+    "tmdb": 500848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 85
+}

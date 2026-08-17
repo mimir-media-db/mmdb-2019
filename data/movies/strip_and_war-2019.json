@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strip_and_war_2019",
+  "title": "Strip and war",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108337785",
+    "imdb": "tt8753730",
+    "tmdb": 598285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 68
+}

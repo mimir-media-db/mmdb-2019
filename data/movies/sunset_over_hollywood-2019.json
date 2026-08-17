@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunset_over_hollywood_2019",
+  "title": "Sunset over Hollywood",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63201884",
+    "imdb": "tt9617590",
+    "tmdb": 576701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-23",
+  "runtime_minutes": 101
+}

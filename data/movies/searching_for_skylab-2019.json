@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_for_skylab_2019",
+  "title": "Searching for Skylab",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62076007",
+    "imdb": "tt8786120",
+    "tmdb": 649349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-01"
+}

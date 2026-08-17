@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_symphony_of_uncertainty_2019",
+  "title": "The Symphony of Uncertainty",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69465124",
+    "imdb": "tt7389870",
+    "tmdb": 572599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 95
+}

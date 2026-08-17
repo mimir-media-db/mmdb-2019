@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schmucklos_2019",
+  "title": "Schmucklos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75740087",
+    "imdb": "tt10500650",
+    "tmdb": 637811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-21"
+}

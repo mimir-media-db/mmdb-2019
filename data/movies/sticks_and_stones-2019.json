@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sticks_and_stones_2019",
+  "title": "Sticks and Stones",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109596638",
+    "imdb": "tt8520512",
+    "tmdb": 782183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-23"
+}

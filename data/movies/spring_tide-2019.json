@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_tide_2019",
+  "title": "Spring Tide",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100770342",
+    "imdb": "tt10428252",
+    "tmdb": 623760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-18",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_of_the_marsh_2019",
+  "title": "The Silence of the Marsh",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91715234",
+    "imdb": "tt8743032",
+    "tmdb": 632931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 87
+}

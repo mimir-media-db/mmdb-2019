@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shooting_the_mafia_2019",
+  "title": "Shooting the Mafia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64052989",
+    "imdb": "tt9358256",
+    "tmdb": 566220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 94
+}

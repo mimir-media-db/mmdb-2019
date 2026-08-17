@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singham_2019",
+  "title": "Singham",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85801296",
+    "imdb": "tt8983210",
+    "tmdb": 625675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-09",
+  "runtime_minutes": 141
+}

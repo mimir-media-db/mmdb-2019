@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_video_2019",
+  "title": "Sister's Video",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840409",
+    "tmdb": 729146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28"
+}

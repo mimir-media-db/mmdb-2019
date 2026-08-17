@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salvador_dali_in_search_of_immortality_2019",
+  "title": "Salvador Dalí: In Search of Immortality",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104777659",
+    "imdb": "tt9088588",
+    "tmdb": 546085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 110
+}

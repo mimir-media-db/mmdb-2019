@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strike_2019",
+  "title": "Strike",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104923485",
+    "imdb": "tt8483272",
+    "tmdb": 573438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-06",
+  "runtime_minutes": 100
+}

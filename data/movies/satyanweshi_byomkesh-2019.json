@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_satyanweshi_byomkesh_2019",
+  "title": "Satyanweshi Byomkesh",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889831",
+    "imdb": "tt10902596",
+    "tmdb": 636649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-02"
+}

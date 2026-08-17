@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_system_k_2019",
+  "title": "System K",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726266",
+    "imdb": "tt9787732",
+    "tmdb": 577100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 94
+}

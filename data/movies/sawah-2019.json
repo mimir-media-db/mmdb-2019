@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sawah_2019",
+  "title": "Sawah",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61873134",
+    "imdb": "tt4300754",
+    "tmdb": 589518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-20",
+  "runtime_minutes": 86
+}

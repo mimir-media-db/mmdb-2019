@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sequin_in_a_blue_room_2019",
+  "title": "Sequin in a Blue Room",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107068760",
+    "imdb": "tt8258510",
+    "tmdb": 600770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 83
+}

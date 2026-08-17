@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sand_and_fire_2019",
+  "title": "Sand and Fire",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67619255",
+    "imdb": "tt7724494",
+    "tmdb": 622748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-18",
+  "runtime_minutes": 116
+}

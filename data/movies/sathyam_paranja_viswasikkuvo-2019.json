@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sathyam_paranja_viswasikkuvo_2019",
+  "title": "Sathyam Paranja Viswasikkuvo?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65562342",
+    "imdb": "tt9396112",
+    "tmdb": 616458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-12"
+}
