@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bless_this_mess",
+  "title": "Bless This Mess",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60529642",
+    "imdb": "tt9418572",
+    "tmdb": 86129
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

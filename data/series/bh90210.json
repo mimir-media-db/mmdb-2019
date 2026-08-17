@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bh90210",
+  "title": "BH90210",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64210970",
+    "imdb": "tt8179162",
+    "tmdb": 89235
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_match",
+  "title": "Beauty Match",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30314684",
+    "tmdb": 81800
+  },
+  "last_updated": "2026-08-17"
+}

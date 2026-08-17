@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bai_mai_tee_plid_plew",
+  "title": "Bai Mai Tee Plid Plew",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65160977",
+    "imdb": "tt26659843",
+    "tmdb": 90275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

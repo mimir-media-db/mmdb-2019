@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_babysitter_gin",
+  "title": "Babysitter Gin",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140546421",
+    "imdb": "tt10556126",
+    "tmdb": 91450
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_badal_alhadouta_talata",
+  "title": "Badal Alhadouta Talata",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64678905",
+    "imdb": "tt10546050",
+    "tmdb": 201373
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

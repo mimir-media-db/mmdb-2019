@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_balthazar",
+  "title": "Balthazar",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60846569",
+    "imdb": "tt9293466",
+    "tmdb": 84234
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 30
+}

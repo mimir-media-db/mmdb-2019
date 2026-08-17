@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_vip",
+  "title": "Big Brother VIP",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48734656",
+    "imdb": "tt16293406"
+  },
+  "last_updated": "2026-08-17"
+}

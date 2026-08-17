@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_black_lady_sketch_show",
+  "title": "A Black Lady Sketch Show",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65047178",
+    "imdb": "tt9698520",
+    "tmdb": 90877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

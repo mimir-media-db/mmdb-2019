@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bauerfeind_die_show_zur_frau",
+  "title": "Bauerfeind – Die Show zur Frau",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61742596",
+    "imdb": "tt13380398",
+    "tmdb": 118435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 62
+}

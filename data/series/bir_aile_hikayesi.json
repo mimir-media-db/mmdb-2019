@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bir_aile_hikayesi",
+  "title": "Bir Aile Hikayesi",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65220150",
+    "imdb": "tt9808672",
+    "tmdb": 87467
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}
