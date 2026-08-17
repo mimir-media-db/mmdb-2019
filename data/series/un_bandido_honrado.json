@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_un_bandido_honrado",
+  "title": "Un bandido honrado",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64437984",
+    "imdb": "tt9328616",
+    "tmdb": 94150
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 63
+}

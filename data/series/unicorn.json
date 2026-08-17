@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unicorn",
+  "title": "The Unicorn",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q65070436",
+    "imdb": "tt10329028",
+    "tmdb": 89611
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

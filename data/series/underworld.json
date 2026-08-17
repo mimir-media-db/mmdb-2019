@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_underworld",
+  "title": "Underworld",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61482136",
+    "imdb": "tt9784004",
+    "tmdb": 87059
+  },
+  "last_updated": "2026-08-17"
+}
