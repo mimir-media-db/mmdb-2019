@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_43_story_2019",
+  "title": "4.3 Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65230497",
+    "imdb": "tt10453014",
+    "tmdb": 585295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
