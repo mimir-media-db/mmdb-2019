@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_hitler_stole_pink_rabbit_2019",
+  "title": "When Hitler Stole Pink Rabbit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62567908",
+    "imdb": "tt9106672",
+    "tmdb": 581518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-08"
+}

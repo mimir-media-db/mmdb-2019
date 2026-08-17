@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_womans_work_the_nfls_cheerleader_problem_2019",
+  "title": "A Woman's Work: The NFL's Cheerleader Problem",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105043566",
+    "imdb": "tt10011264",
+    "tmdb": 586531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

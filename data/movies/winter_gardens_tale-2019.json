@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_gardens_tale_2019",
+  "title": "The Winter Garden's Tale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575495",
+    "imdb": "tt9879060",
+    "tmdb": 635143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 75
+}

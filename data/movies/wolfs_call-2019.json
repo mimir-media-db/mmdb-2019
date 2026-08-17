@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfs_call_2019",
+  "title": "The Wolf's Call",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60852120",
+    "imdb": "tt7458762",
+    "tmdb": 484468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-20",
+  "runtime_minutes": 116
+}

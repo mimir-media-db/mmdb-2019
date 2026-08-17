@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_way_i_love_you_2019",
+  "title": "The Way I Love You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61366202",
+    "imdb": "tt9537064",
+    "tmdb": 573104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-07"
+}

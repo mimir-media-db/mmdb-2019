@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_look_good_in_death_2019",
+  "title": "We Look Good in Death",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97663719",
+    "imdb": "tt10428380",
+    "tmdb": 594491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 77
+}

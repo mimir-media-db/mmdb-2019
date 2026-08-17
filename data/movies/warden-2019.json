@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_warden_2019",
+  "title": "The Warden",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065512",
+    "imdb": "tt8522820",
+    "tmdb": 574467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_we_belong_2019",
+  "title": "Where We Belong",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113230593",
+    "imdb": "tt9731426",
+    "tmdb": 575820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 78
+}

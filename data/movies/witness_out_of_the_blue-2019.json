@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_out_of_the_blue_2019",
+  "title": "A Witness out of the Blue",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55694980",
+    "imdb": "tt11076480",
+    "tmdb": 629919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-12",
+  "runtime_minutes": 105
+}

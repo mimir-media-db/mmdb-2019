@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_west_of_hell_2019",
+  "title": "West of Hell",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105905510",
+    "imdb": "tt4287470",
+    "tmdb": 533938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-21",
+  "runtime_minutes": 80
+}

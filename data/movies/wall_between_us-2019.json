@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wall_between_us_2019",
+  "title": "The Wall Between Us",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67401228",
+    "imdb": "tt10814118",
+    "tmdb": 628587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03",
+  "runtime_minutes": 110
+}

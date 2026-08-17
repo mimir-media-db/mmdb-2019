@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisper_4_2019",
+  "title": "Whisper 4",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50418584",
+    "imdb": "tt9182284",
+    "tmdb": 550755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-28",
+  "runtime_minutes": 102
+}

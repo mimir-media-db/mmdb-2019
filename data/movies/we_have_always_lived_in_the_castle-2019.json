@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_have_always_lived_in_the_castle_2019",
+  "title": "We Have Always Lived in the Castle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958378",
+    "imdb": "tt5952138",
+    "tmdb": 411144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03",
+  "runtime_minutes": 90
+}

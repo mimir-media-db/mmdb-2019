@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_is_kyra_2019",
+  "title": "Where Is Kyra?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22079346",
+    "imdb": "tt5198670",
+    "tmdb": 385955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27",
+  "runtime_minutes": 98
+}

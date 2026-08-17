@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_2019",
+  "title": "Wolf",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61077197",
+    "imdb": "tt8197998",
+    "tmdb": 568490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24"
+}

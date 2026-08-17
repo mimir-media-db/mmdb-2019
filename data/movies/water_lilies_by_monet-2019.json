@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_lilies_by_monet_2019",
+  "title": "Water Lilies by Monet",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124650181",
+    "imdb": "tt9094980",
+    "tmdb": 563774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 90
+}

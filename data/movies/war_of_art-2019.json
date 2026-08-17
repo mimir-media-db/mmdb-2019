@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_of_art_2019",
+  "title": "War of Art",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63432702",
+    "imdb": "tt10045136",
+    "tmdb": 590219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-27",
+  "runtime_minutes": 102
+}

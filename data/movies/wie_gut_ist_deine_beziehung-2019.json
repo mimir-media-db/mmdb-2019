@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wie_gut_ist_deine_beziehung_2019",
+  "title": "Wie gut ist deine Beziehung?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61782143",
+    "imdb": "tt8187178",
+    "tmdb": 523461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-24",
+  "runtime_minutes": 111
+}

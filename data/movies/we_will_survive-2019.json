@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_survive_2019",
+  "title": "We Will Survive",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137602175",
+    "imdb": "tt10276098",
+    "tmdb": 769613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
