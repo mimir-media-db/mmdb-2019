@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_internet_ou_la_revolution_du_partage_2019",
+  "title": "Internet ou la révolution du partage",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61353569",
+    "imdb": "tt10295216",
+    "tmdb": 739250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inseparable_bros_2019",
+  "title": "Inseparable Bros",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63761605",
+    "imdb": "tt10237612",
+    "tmdb": 571787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 114
+}

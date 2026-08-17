@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_irandam_ulagaporin_kadaisi_gundu_2019",
+  "title": "Irandam Ulagaporin Kadaisi Gundu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892885",
+    "imdb": "tt10996896",
+    "tmdb": 653852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

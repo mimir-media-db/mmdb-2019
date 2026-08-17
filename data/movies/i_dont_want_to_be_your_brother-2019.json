@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dont_want_to_be_your_brother_2019",
+  "title": "I Don’t Want to Be Your Brother",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63226765",
+    "imdb": "tt9145050",
+    "tmdb": 529927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impetigore_2019",
+  "title": "Impetigore",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65212218",
+    "imdb": "tt9000302",
+    "tmdb": 572468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

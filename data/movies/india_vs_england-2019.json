@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_india_vs_england_2019",
+  "title": "India vs England",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77901222",
+    "imdb": "tt11470272",
+    "tmdb": 666349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

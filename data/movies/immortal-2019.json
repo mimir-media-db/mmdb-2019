@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immortal_2019",
+  "title": "The Immortal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498602",
+    "imdb": "tt9048786",
+    "tmdb": 599845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 116
+}

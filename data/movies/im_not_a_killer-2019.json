@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_not_a_killer_2019",
+  "title": "I'm Not A Killer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63728986",
+    "imdb": "tt8271188",
+    "tmdb": 592877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

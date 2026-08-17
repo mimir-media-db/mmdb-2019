@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_ragazzi_dello_zecchino_doro_2019",
+  "title": "I ragazzi dello Zecchino d'Oro",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73495046",
+    "imdb": "tt10256526",
+    "tmdb": 644883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

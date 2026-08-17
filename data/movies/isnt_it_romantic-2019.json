@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isnt_it_romantic_2019",
+  "title": "Isn't It Romantic",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32942298",
+    "imdb": "tt2452244",
+    "tmdb": 449563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 89
+}
