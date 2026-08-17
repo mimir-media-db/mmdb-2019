@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eine_ganz_heie_nummer_20_2019",
+  "title": "Eine ganz heiße Nummer 2.0",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67338673",
+    "imdb": "tt9185162",
+    "tmdb": 589350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_love_2019",
+  "title": "Easy Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67910812",
+    "imdb": "tt9118092",
+    "tmdb": 575823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 92
+}

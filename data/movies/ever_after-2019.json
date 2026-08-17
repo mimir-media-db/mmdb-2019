@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ever_after_2019",
+  "title": "Ever After",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56526557",
+    "imdb": "tt7224520",
+    "tmdb": 485358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-22",
+  "runtime_minutes": 90
+}

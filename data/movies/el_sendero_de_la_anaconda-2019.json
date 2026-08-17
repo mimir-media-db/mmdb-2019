@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sendero_de_la_anaconda_2019",
+  "title": "El sendero de la anaconda",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64973719",
+    "imdb": "tt10577906",
+    "tmdb": 614698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_egon_schiele_death_and_the_maiden_2019",
+  "title": "Egon Schiele: Death and the Maiden",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26821644",
+    "imdb": "tt4558396",
+    "tmdb": 416574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-02",
+  "runtime_minutes": 110
+}

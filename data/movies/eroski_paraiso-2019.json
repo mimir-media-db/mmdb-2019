@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eroski_paraiso_2019",
+  "title": "Eroski Paraíso",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85967042",
+    "imdb": "tt11496286",
+    "tmdb": 659555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-24",
+  "runtime_minutes": 75
+}

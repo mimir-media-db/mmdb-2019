@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escuela_monte_2019",
+  "title": "Escuela Monte",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108614936",
+    "imdb": "tt7814306",
+    "tmdb": 1088596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

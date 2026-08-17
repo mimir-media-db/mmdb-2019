@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eftihia_2019",
+  "title": "Eftihia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80448840",
+    "imdb": "tt10710246",
+    "tmdb": 654387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-19",
+  "runtime_minutes": 123
+}

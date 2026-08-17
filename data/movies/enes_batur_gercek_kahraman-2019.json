@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enes_batur_gercek_kahraman_2019",
+  "title": "Enes Batur Gerçek Kahraman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64485345",
+    "imdb": "tt10263320",
+    "tmdb": 607971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-13"
+}

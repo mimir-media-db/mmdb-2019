@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_sitting_still_2019",
+  "title": "An Elephant Sitting Still",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56874855",
+    "imdb": "tt8020896",
+    "tmdb": 499556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-08",
+  "runtime_minutes": 230
+}

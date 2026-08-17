@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eastern_memories_2019",
+  "title": "Eastern Memories",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113402234",
+    "imdb": "tt7228086",
+    "tmdb": 522853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-18",
+  "runtime_minutes": 86
+}

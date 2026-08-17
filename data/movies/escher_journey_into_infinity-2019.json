@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escher_journey_into_infinity_2019",
+  "title": "Escher: Journey Into Infinity",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67141957",
+    "imdb": "tt8297550",
+    "tmdb": 512690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 81
+}

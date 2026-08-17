@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ellidde_illi_tanaka_2019",
+  "title": "Ellidde Illi Tanaka",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65050211",
+    "imdb": "tt11091644",
+    "tmdb": 687706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11"
+}

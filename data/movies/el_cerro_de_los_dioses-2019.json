@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cerro_de_los_dioses_2019",
+  "title": "El Cerro de los Dioses",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111686242",
+    "imdb": "tt8176280",
+    "tmdb": 646286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emiles_boat_2019",
+  "title": "Emile's Boat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220348",
+    "imdb": "tt0054669",
+    "tmdb": 41507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-14",
+  "runtime_minutes": 98
+}

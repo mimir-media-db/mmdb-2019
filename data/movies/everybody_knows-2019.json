@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_knows_2019",
+  "title": "Everybody Knows",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37816911",
+    "imdb": "tt4964788",
+    "tmdb": 401545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 132
+}
