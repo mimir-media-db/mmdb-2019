@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kolcsonlakas_2019",
+  "title": "Kölcsönlakás",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61002332",
+    "imdb": "tt9015746",
+    "tmdb": 567224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14",
+  "runtime_minutes": 95
+}

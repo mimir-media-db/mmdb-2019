@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karki_manta_dani_2019",
+  "title": "Karki Manta Dani",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112227419",
+    "imdb": "tt21285646",
+    "tmdb": 1436402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-07"
+}

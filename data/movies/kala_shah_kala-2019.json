@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kala_shah_kala_2019",
+  "title": "Kala Shah Kala",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550889",
+    "imdb": "tt8850698",
+    "tmdb": 582315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_therapy_2019",
+  "title": "Killer Therapy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122216594",
+    "imdb": "tt9029572",
+    "tmdb": 610010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kodathi_samaksham_balan_vakeel_2019",
+  "title": "Kodathi Samaksham Balan Vakeel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63437738",
+    "imdb": "tt8962472",
+    "tmdb": 581640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-21"
+}

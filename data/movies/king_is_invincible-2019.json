@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_is_invincible_2019",
+  "title": "The King Is Invincible",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85989259",
+    "imdb": "tt12724988",
+    "tmdb": 628755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-28"
+}

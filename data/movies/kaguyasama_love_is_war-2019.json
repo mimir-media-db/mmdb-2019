@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaguyasama_love_is_war_2019",
+  "title": "Kaguya-sama: Love Is War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65076104",
+    "imdb": "tt9816396",
+    "tmdb": 617402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06",
+  "runtime_minutes": 120
+}

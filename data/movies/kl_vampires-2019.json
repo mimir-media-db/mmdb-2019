@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kl_vampires_2019",
+  "title": "KL Vampires",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85986675",
+    "imdb": "tt11289254",
+    "tmdb": 643690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14"
+}

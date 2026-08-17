@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krows_transformation_2019",
+  "title": "Krow's TRANSformation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119846209",
+    "imdb": "tt8009452",
+    "tmdb": 583153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kia_and_cosmos_2019",
+  "title": "Kia and Cosmos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889536",
+    "imdb": "tt8539818",
+    "tmdb": 577441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29",
+  "runtime_minutes": 123
+}

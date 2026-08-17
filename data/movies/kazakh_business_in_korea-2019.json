@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kazakh_business_in_korea_2019",
+  "title": "Kazakh Business in Korea",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94994012",
+    "imdb": "tt19759322",
+    "tmdb": 826296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-26",
+  "runtime_minutes": 90
+}

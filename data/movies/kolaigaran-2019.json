@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolaigaran_2019",
+  "title": "Kolaigaran",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738051",
+    "imdb": "tt9109794",
+    "tmdb": 586893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-01"
+}

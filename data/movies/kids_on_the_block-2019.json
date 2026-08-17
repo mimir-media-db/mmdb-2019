@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_on_the_block_2019",
+  "title": "Kids on the Block",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109010994",
+    "imdb": "tt9533342",
+    "tmdb": 603566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

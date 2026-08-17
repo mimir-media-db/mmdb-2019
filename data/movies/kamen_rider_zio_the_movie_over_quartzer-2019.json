@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_zio_the_movie_over_quartzer_2019",
+  "title": "Kamen Rider Zi-O the Movie: Over Quartzer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65249372",
+    "imdb": "tt10437378",
+    "tmdb": 604165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26",
+  "runtime_minutes": 67
+}

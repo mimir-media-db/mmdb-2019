@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_atlantis_2019",
+  "title": "King of Atlantis",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56303419",
+    "imdb": "tt4652570",
+    "tmdb": 496742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_kati_patanga_2019",
+  "title": "Kati Patanga",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56595572"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12"
+}

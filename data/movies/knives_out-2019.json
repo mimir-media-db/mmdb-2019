@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knives_out_2019",
+  "title": "Knives Out",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57982486",
+    "imdb": "tt8946378",
+    "tmdb": 546554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-27",
+  "runtime_minutes": 130
+}

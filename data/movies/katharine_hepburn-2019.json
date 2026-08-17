@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katharine_hepburn_2019",
+  "title": "Katharine Hepburn",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108320499",
+    "imdb": "tt15324860"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-12",
+  "runtime_minutes": 94
+}

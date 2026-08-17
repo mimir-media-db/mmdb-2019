@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_k12_2019",
+  "title": "K-12",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67939046",
+    "imdb": "tt10521814",
+    "tmdb": 616584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-03",
+  "runtime_minutes": 92
+}

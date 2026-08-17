@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kulkarni_chaukatla_deshpande_2019",
+  "title": "Kulkarni Chaukatla Deshpande",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894281",
+    "imdb": "tt8791152",
+    "tmdb": 1440540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-22"
+}

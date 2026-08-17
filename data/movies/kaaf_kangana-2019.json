@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaaf_kangana_2019",
+  "title": "Kaaf Kangana",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65056391",
+    "imdb": "tt11215810",
+    "tmdb": 609102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25"
+}
