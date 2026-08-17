@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_in_iran_2019",
+  "title": "Joy in Iran",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60370725",
+    "imdb": "tt9618554",
+    "tmdb": 574853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-17",
+  "runtime_minutes": 90
+}

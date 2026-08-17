@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_stranger_2019",
+  "title": "Just a Stranger",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85772583",
+    "imdb": "tt10666536",
+    "tmdb": 623391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-21"
+}

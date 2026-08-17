@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_only_love_2019",
+  "title": "Just Only Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70508735",
+    "imdb": "tt9163346",
+    "tmdb": 529934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-19"
+}

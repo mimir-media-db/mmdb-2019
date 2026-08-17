@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joba_2019",
+  "title": "Joba",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113369802",
+    "imdb": "tt15590700",
+    "tmdb": 976096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

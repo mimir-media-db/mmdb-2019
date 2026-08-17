@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jill_joy_and_the_mysterious_stranger_2019",
+  "title": "Jill, Joy and the Mysterious Stranger",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28720641",
+    "imdb": "tt5606986",
+    "tmdb": 438133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-25",
+  "runtime_minutes": 75
+}

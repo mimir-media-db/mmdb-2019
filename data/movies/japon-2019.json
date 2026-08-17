@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_japon_2019",
+  "title": "The Japon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104518852",
+    "imdb": "tt7858496",
+    "tmdb": 529209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joel_2019",
+  "title": "Joel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53845041",
+    "imdb": "tt8437838",
+    "tmdb": 531818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-29",
+  "runtime_minutes": 99
+}

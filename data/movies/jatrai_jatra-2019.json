@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatrai_jatra_2019",
+  "title": "Jatrai Jatra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65395215",
+    "imdb": "tt8881326",
+    "tmdb": 743974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-10"
+}

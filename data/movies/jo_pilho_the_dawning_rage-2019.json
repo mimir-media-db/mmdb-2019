@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jo_pilho_the_dawning_rage_2019",
+  "title": "Jo Pil-ho: The Dawning Rage",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63224822",
+    "imdb": "tt7738048",
+    "tmdb": 574303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-20",
+  "runtime_minutes": 127
+}
