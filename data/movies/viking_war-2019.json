@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viking_war_2019",
+  "title": "The Viking War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999206",
+    "imdb": "tt8707008",
+    "tmdb": 584044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
