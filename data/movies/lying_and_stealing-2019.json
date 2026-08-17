@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lying_and_stealing_2019",
+  "title": "Lying and Stealing",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63348184",
+    "imdb": "tt7558302",
+    "tmdb": 509874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

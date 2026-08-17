@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_tigres_del_norte_at_folsom_prison_2019",
+  "title": "Los Tigres del Norte at Folsom Prison",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892466",
+    "imdb": "tt10857582",
+    "tmdb": 630750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

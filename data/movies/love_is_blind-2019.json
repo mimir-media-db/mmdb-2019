@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_blind_2019",
+  "title": "Love is Blind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550998",
+    "imdb": "tt4712086",
+    "tmdb": 345919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

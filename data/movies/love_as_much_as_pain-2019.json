@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_as_much_as_pain_2019",
+  "title": "Love As Much As Pain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65271336",
+    "imdb": "tt10165740",
+    "tmdb": 632449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

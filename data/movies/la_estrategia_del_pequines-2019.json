@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_estrategia_del_pequines_2019",
+  "title": "La estrategia del pequinés",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85872742",
+    "imdb": "tt8343828",
+    "tmdb": 604068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 96
+}

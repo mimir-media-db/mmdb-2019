@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_summer_2019",
+  "title": "The Last Summer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55395162",
+    "imdb": "tt7957694",
+    "tmdb": 502292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 110
+}

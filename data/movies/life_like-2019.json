@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_like_2019",
+  "title": "Life Like",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64174391",
+    "imdb": "tt6547786",
+    "tmdb": 586707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

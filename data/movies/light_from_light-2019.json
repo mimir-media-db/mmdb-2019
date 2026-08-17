@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_from_light_2019",
+  "title": "Light from Light",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18353803",
+    "imdb": "tt9358160",
+    "tmdb": 565273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

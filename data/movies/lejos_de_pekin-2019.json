@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lejos_de_pekin_2019",
+  "title": "Lejos de Pekin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80207440",
+    "imdb": "tt11504956",
+    "tmdb": 660307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

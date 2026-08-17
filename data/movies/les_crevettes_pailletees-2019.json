@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_crevettes_pailletees_2019",
+  "title": "Les Crevettes pailletées",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63644091",
+    "imdb": "tt6918220",
+    "tmdb": 532938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 103
+}

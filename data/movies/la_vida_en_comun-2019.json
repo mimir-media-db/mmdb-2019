@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_en_comun_2019",
+  "title": "La vida en común",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79970032",
+    "imdb": "tt10046208",
+    "tmdb": 594025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 70
+}
