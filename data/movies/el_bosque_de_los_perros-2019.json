@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_bosque_de_los_perros_2019",
+  "title": "El Bosque de los Perros",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63958347",
+    "imdb": "tt9449332",
+    "tmdb": 597505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_time_i_die_2019",
+  "title": "Every Time I Die",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73544324",
+    "imdb": "tt6659936",
+    "tmdb": 612571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

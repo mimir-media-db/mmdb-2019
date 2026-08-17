@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_las_buenas_y_en_las_malas_2019",
+  "title": "En las buenas y en las malas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83783863",
+    "imdb": "tt8469890",
+    "tmdb": 554580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

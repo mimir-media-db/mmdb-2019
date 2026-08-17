@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sonido_de_los_tulipanes_2019",
+  "title": "El Sonido de los Tulipanes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63183645",
+    "imdb": "tt10362636",
+    "tmdb": 601610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

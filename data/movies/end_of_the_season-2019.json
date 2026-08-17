@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_the_season_2019",
+  "title": "The End of the Season",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85861466",
+    "imdb": "tt10942504",
+    "tmdb": 575328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

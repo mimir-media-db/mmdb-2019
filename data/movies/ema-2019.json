@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ema_2019",
+  "title": "Ema",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56276462",
+    "imdb": "tt8800266",
+    "tmdb": 540709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}

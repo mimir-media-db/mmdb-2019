@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_easy_land_2019",
+  "title": "Easy Land",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67679521",
+    "imdb": "tt9057620",
+    "tmdb": 619644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

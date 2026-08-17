@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_endings_beginnings_2019",
+  "title": "Endings, Beginnings",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737570",
+    "imdb": "tt9147456",
+    "tmdb": 554908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 110
+}

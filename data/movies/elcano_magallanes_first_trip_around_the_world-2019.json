@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elcano_magallanes_first_trip_around_the_world_2019",
+  "title": "Elcano & Magallanes: First Trip Around the World",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64786781",
+    "imdb": "tt4991676",
+    "tmdb": 587070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 85
+}

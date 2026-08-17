@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_evidey_2019",
+  "title": "Evidey",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65053707",
+    "imdb": "tt10579994",
+    "tmdb": 613249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
