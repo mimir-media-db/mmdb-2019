@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tailgate_2019",
+  "title": "Tailgate",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79433115",
+    "imdb": "tt9015188",
+    "tmdb": 549435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 86
+}

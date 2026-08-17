@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_there_are_no_fakes_2019",
+  "title": "There Are No Fakes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366183",
+    "imdb": "tt8674506",
+    "tmdb": 608781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

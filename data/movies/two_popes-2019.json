@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_popes_2019",
+  "title": "The Two Popes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58894738",
+    "imdb": "tt8404614",
+    "tmdb": 551332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 125
+}

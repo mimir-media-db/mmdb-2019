@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_they_say_nothing_stays_the_same_2019",
+  "title": "They Say Nothing Stays the Same",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64004233",
+    "imdb": "tt10752196",
+    "tmdb": 617714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

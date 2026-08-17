@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trapped_the_alex_cooper_story_2019",
+  "title": "Trapped: The Alex Cooper Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73536018",
+    "imdb": "tt10133224",
+    "tmdb": 624825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

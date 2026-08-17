@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tazza_one_eyed_jack_2019",
+  "title": "Tazza: One Eyed Jack",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65302313",
+    "imdb": "tt10927906",
+    "tmdb": 574302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

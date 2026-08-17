@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_thiththa_aththa_2019",
+  "title": "Thiththa Aththa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768567",
+    "imdb": "tt9675318"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

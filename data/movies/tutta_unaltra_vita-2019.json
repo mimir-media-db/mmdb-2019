@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutta_unaltra_vita_2019",
+  "title": "Tutta un'altra vita",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65126689",
+    "imdb": "tt9050378",
+    "tmdb": 609408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 103
+}

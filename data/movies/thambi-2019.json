@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thambi_2019",
+  "title": "Thambi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85806217",
+    "imdb": "tt10468636",
+    "tmdb": 648698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

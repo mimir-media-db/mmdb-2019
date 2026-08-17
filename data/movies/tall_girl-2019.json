@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tall_girl_2019",
+  "title": "Tall Girl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61450800",
+    "imdb": "tt9252508",
+    "tmdb": 625450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trixie_mattel_moving_parts_2019",
+  "title": "Trixie Mattel: Moving Parts",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62631178",
+    "imdb": "tt10011508",
+    "tmdb": 589367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_nahi_hai_2019",
+  "title": "Time Nahi Hai",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77893447",
+    "imdb": "tt10930522",
+    "tmdb": 641301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
