@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zana_2019",
+  "title": "Zana",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72797546",
+    "imdb": "tt6463320",
+    "tmdb": 621746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-07",
+  "runtime_minutes": 97
+}

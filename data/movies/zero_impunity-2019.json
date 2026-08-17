@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_impunity_2019",
+  "title": "Zero Impunity",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65683792",
+    "imdb": "tt9876288",
+    "tmdb": 588030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-02",
+  "runtime_minutes": 93
+}
