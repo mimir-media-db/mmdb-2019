@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finals_2019",
+  "title": "Finals",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96377923",
+    "imdb": "tt10019402",
+    "tmdb": 631882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

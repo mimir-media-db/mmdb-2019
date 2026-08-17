@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_will_come_2019",
+  "title": "Fire Will Come",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63254980",
+    "imdb": "tt8212958",
+    "tmdb": 575561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-21",
+  "runtime_minutes": 85
+}

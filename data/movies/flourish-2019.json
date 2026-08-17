@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_flourish_2019",
+  "title": "The Flourish",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77650241",
+    "imdb": "tt11372418"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabulous_2019",
+  "title": "Fabulous",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96377612",
+    "imdb": "tt10046694",
+    "tmdb": 611852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-20",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fritzi_a_revolutionary_tale_2019",
+  "title": "Fritzi: A Revolutionary Tale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67340311",
+    "imdb": "tt9805160",
+    "tmdb": 586943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-09",
+  "runtime_minutes": 86
+}

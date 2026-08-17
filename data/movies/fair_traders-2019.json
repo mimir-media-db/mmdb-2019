@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fair_traders_2019",
+  "title": "Fair Traders",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61743768",
+    "imdb": "tt9310360",
+    "tmdb": 577148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 89
+}

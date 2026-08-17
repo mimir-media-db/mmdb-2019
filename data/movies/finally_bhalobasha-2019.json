@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finally_bhalobasha_2019",
+  "title": "Finally Bhalobasha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61884574",
+    "imdb": "tt8427168",
+    "tmdb": 581630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08"
+}

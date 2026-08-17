@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbach_swing_2019",
+  "title": "Forbach Swing",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76745381",
+    "imdb": "tt3376566",
+    "tmdb": 1517217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-19",
+  "runtime_minutes": 120
+}

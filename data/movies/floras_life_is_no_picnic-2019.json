@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floras_life_is_no_picnic_2019",
+  "title": "Flora's life is no picnic",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106153799",
+    "imdb": "tt8390174",
+    "tmdb": 519105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 64
+}

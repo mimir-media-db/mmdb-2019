@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_with_my_family_2019",
+  "title": "Fighting with My Family",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840410",
+    "imdb": "tt6513120",
+    "tmdb": 445629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-28",
+  "runtime_minutes": 108
+}

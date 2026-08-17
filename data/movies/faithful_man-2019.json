@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faithful_man_2019",
+  "title": "A Faithful Man",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56152850",
+    "imdb": "tt8075202",
+    "tmdb": 529784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-30",
+  "runtime_minutes": 75
+}

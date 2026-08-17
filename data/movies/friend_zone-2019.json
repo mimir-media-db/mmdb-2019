@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_zone_2019",
+  "title": "Friend Zone",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57906988",
+    "imdb": "tt9737688",
+    "tmdb": 582681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14"
+}

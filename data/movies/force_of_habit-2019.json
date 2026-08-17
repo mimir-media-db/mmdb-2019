@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_force_of_habit_2019",
+  "title": "Force of Habit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93701294",
+    "imdb": "tt9624686",
+    "tmdb": 626960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-27"
+}

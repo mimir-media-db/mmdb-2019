@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ford_v_ferrari_2019",
+  "title": "Ford v Ferrari",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55081822",
+    "imdb": "tt1950186",
+    "tmdb": 359724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28",
+  "runtime_minutes": 152
+}

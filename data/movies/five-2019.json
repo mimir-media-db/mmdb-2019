@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_2019",
+  "title": "Five",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427302",
+    "imdb": "tt4741714",
+    "tmdb": 381356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-22",
+  "runtime_minutes": 102
+}

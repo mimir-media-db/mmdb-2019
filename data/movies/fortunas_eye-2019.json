@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fortunas_eye_2019",
+  "title": "Fortuna's Eye",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60988377",
+    "imdb": "tt8484078",
+    "tmdb": 522837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15",
+  "runtime_minutes": 111
+}

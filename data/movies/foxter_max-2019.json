@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foxter_max_2019",
+  "title": "Foxter & Max",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56360787",
+    "imdb": "tt8269856",
+    "tmdb": 611014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-19",
+  "runtime_minutes": 90
+}

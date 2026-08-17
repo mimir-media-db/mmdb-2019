@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_free_trip_to_egypt_2019",
+  "title": "Free Trip to Egypt",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349583",
+    "imdb": "tt8973144",
+    "tmdb": 573198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

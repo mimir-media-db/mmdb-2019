@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_fingers_for_marseilles_2019",
+  "title": "Five Fingers for Marseilles",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39049875",
+    "imdb": "tt2396489",
+    "tmdb": 466415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27",
+  "runtime_minutes": 120
+}

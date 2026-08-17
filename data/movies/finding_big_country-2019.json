@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_big_country_2019",
+  "title": "Finding Big Country",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113427853",
+    "imdb": "tt8546396",
+    "tmdb": 544365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-09",
+  "runtime_minutes": 41
+}

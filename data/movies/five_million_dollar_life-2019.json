@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_five_million_dollar_life_2019",
+  "title": "Five Million Dollar Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97376819",
+    "imdb": "tt10015418",
+    "tmdb": 600336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-20"
+}

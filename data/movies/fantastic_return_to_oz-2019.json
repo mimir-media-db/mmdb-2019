@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_return_to_oz_2019",
+  "title": "Fantastic Return to Oz",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86668058",
+    "imdb": "tt10975312",
+    "tmdb": 518596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-24",
+  "runtime_minutes": 75
+}
