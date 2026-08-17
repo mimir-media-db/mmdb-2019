@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_4_letters_2019",
+  "title": "4 Letters",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115783473",
+    "imdb": "tt9815360",
+    "tmdb": 682594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

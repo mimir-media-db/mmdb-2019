@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_47_dhansukh_bhawan_2019",
+  "title": "47 Dhansukh Bhawan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65050817",
+    "imdb": "tt9823564",
+    "tmdb": 626932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26"
+}
