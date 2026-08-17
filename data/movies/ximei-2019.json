@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ximei_2019",
+  "title": "Ximei",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107395105",
+    "imdb": "tt9909228",
+    "tmdb": 604988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 98
+}

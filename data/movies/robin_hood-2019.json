@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_hood_2019",
+  "title": "Robin Hood",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28811584",
+    "imdb": "tt4532826",
+    "tmdb": 375588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-10",
+  "runtime_minutes": 116
+}

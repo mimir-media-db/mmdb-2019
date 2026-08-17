@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_i_am_suffocating_this_is_my_last_film_about_you_2019",
+  "title": "Mother, I Am Suffocating. This Is My Last Film About You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488974",
+    "imdb": "tt10265444",
+    "tmdb": 577034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-09",
+  "runtime_minutes": 76
+}

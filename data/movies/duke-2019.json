@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duke_2019",
+  "title": "Duke",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111914900",
+    "imdb": "tt1727254",
+    "tmdb": 252295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-19",
+  "runtime_minutes": 107
+}

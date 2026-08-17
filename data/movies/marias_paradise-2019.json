@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marias_paradise_2019",
+  "title": "Maria's Paradise",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240050",
+    "imdb": "tt5024674",
+    "tmdb": 535396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-01"
+}

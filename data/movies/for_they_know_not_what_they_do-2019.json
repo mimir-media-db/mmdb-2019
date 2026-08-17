@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_they_know_not_what_they_do_2019",
+  "title": "For They Know Not What They Do",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128831698",
+    "imdb": "tt5784708",
+    "tmdb": 586536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 91
+}

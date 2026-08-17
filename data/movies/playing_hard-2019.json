@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_hard_2019",
+  "title": "Playing Hard",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97372393",
+    "imdb": "tt7419468",
+    "tmdb": 548944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-04"
+}

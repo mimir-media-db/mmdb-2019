@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curtiz_2019",
+  "title": "Curtiz",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59732943",
+    "imdb": "tt6774588",
+    "tmdb": 563943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-28"
+}

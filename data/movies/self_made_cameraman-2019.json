@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_self_made_cameraman_2019",
+  "title": "Self Made Cameraman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65265379",
+    "imdb": "tt9546082",
+    "tmdb": 575599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-10",
+  "runtime_minutes": 90
+}

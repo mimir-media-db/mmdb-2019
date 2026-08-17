@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_declared_legally_dead_2019",
+  "title": "Declared Legally Dead",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96756055",
+    "imdb": "tt11469352",
+    "tmdb": 647641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-12"
+}

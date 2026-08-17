@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manriki_2019",
+  "title": "Manriki",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65229450",
+    "imdb": "tt10604106",
+    "tmdb": 638894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-29"
+}

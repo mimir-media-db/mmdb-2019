@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intrigo_samaria_2019",
+  "title": "Intrigo: Samaria",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65553171",
+    "imdb": "tt6341108",
+    "tmdb": 482568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10"
+}

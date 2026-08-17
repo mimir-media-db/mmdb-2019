@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_as_lotta_2019",
+  "title": "My Life as Lotta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65929435",
+    "imdb": "tt9173250",
+    "tmdb": 612080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 95
+}

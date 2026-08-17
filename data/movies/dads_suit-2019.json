@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dads_suit_2019",
+  "title": "Dad's Suit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55697750",
+    "imdb": "tt9078412",
+    "tmdb": 563140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22"
+}

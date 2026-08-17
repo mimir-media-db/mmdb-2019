@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vai_2019",
+  "title": "Vai",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111212079",
+    "imdb": "tt8647376",
+    "tmdb": 575831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neeyum_njanum_2019",
+  "title": "Neeyum Njanum",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59457414",
+    "imdb": "tt9332680",
+    "tmdb": 580381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_booksmart_2019",
+  "title": "Booksmart",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55605752",
+    "imdb": "tt1489887",
+    "tmdb": 505600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-01",
+  "runtime_minutes": 102
+}

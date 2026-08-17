@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baala_the_rhythm_of_life_2019",
+  "title": "Baala - The Rhythm of Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73532073",
+    "imdb": "tt13024824",
+    "tmdb": 1087884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01"
+}

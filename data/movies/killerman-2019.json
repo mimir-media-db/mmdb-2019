@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killerman_2019",
+  "title": "Killerman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64492044",
+    "imdb": "tt7420342",
+    "tmdb": 492449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-08",
+  "runtime_minutes": 112
+}

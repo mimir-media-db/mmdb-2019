@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_thieves_2019",
+  "title": "King of Thieves",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55195282",
+    "imdb": "tt5789976",
+    "tmdb": 520360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 108
+}

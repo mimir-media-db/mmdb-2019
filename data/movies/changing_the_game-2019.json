@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_changing_the_game_2019",
+  "title": "Changing the Game",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116660464",
+    "imdb": "tt10011320",
+    "tmdb": 597593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

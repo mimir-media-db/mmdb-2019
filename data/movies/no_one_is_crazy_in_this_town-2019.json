@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_one_is_crazy_in_this_town_2019",
+  "title": "No One is Crazy in This Town",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97237037",
+    "imdb": "tt11138828",
+    "tmdb": 641438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_bouncer_2019",
+  "title": "Berlin Bouncer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61989860",
+    "imdb": "tt9584906",
+    "tmdb": 575848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-10",
+  "runtime_minutes": 87
+}

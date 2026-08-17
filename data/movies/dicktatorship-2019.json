@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dicktatorship_2019",
+  "title": "Dicktatorship",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72919205",
+    "imdb": "tt10423718",
+    "tmdb": 594490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-10",
+  "runtime_minutes": 90
+}

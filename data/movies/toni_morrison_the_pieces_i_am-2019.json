@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toni_morrison_the_pieces_i_am_2019",
+  "title": "Toni Morrison: The Pieces I Am",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68681292",
+    "imdb": "tt9358206",
+    "tmdb": 566235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-27"
+}

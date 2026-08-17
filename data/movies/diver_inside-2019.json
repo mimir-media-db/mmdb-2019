@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diver_inside_2019",
+  "title": "The Diver inside",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70491158",
+    "imdb": "tt8023312",
+    "tmdb": 654386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-24",
+  "runtime_minutes": 94
+}

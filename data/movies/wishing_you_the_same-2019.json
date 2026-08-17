@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wishing_you_the_same_2019",
+  "title": "Wishing You the Same",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120606405",
+    "imdb": "tt11374096",
+    "tmdb": 628988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

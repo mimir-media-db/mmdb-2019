@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_in_the_wild_2019",
+  "title": "Holiday in the Wild",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55552345",
+    "imdb": "tt8510488",
+    "tmdb": 531438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01",
+  "runtime_minutes": 86
+}

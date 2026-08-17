@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khello_brothers_2019",
+  "title": "Khello Brothers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69467021",
+    "imdb": "tt11091866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-10",
+  "runtime_minutes": 76
+}

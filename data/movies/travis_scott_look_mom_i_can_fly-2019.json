@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_travis_scott_look_mom_i_can_fly_2019",
+  "title": "Travis Scott: Look Mom I Can Fly",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764392",
+    "imdb": "tt10856726",
+    "tmdb": 625561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-28",
+  "runtime_minutes": 85
+}

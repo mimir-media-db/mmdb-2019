@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immortal_wars_resurgence_2019",
+  "title": "The Immortal Wars: Resurgence",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95189129",
+    "imdb": "tt7287680",
+    "tmdb": 565840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-02",
+  "runtime_minutes": 112
+}

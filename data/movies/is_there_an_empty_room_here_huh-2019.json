@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_is_there_an_empty_room_here_huh_2019",
+  "title": "Is There an Empty Room Here? huh?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840439",
+    "tmdb": 657024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24"
+}

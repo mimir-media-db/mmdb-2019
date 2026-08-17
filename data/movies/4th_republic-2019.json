@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_republic_2019",
+  "title": "4th Republic",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96277505",
+    "imdb": "tt10279102",
+    "tmdb": 658739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-07",
+  "runtime_minutes": 119
+}

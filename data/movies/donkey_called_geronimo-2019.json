@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donkey_called_geronimo_2019",
+  "title": "A Donkey Called Geronimo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66132640",
+    "imdb": "tt8674680",
+    "tmdb": 595543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-19",
+  "runtime_minutes": 83
+}

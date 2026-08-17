@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curtain_call_2019",
+  "title": "curtain call",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108824077",
+    "imdb": "tt27230766",
+    "tmdb": 967893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tomorrow_we_are_free_2019",
+  "title": "Tomorrow We Are Free",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305402",
+    "imdb": "tt6681478",
+    "tmdb": 568503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14"
+}

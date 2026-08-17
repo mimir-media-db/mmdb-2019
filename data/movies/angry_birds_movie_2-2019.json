@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angry_birds_movie_2_2019",
+  "title": "The Angry Birds Movie 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18722273",
+    "imdb": "tt6095472",
+    "tmdb": 454640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-02",
+  "runtime_minutes": 97
+}

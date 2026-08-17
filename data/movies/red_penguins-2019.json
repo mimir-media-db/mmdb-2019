@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_penguins_2019",
+  "title": "Red Penguins",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244964",
+    "imdb": "tt10779084",
+    "tmdb": 621766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

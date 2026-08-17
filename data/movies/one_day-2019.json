@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_2019",
+  "title": "One Day",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52337810",
+    "imdb": "tt8274146",
+    "tmdb": 518490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-19",
+  "runtime_minutes": 99
+}

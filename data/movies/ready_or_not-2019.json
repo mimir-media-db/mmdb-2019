@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ready_or_not_2019",
+  "title": "Ready or Not",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815115",
+    "imdb": "tt7798634",
+    "tmdb": 567609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-21",
+  "runtime_minutes": 95
+}

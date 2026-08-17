@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lodyssee_du_loup_2019",
+  "title": "L'Odyssée du Loup",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111488925",
+    "imdb": "tt9824512",
+    "tmdb": 587256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

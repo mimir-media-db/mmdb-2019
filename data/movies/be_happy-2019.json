@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_happy_2019",
+  "title": "Be happy!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110302035",
+    "imdb": "tt8176462",
+    "tmdb": 620437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-20",
+  "runtime_minutes": 105
+}

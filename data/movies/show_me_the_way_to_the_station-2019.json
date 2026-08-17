@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_show_me_the_way_to_the_station_2019",
+  "title": "Show Me The Way To The Station",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597823",
+    "imdb": "tt14342928",
+    "tmdb": 670404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_us_2019",
+  "title": "Us",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56000996",
+    "imdb": "tt6857112",
+    "tmdb": 458723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-20",
+  "runtime_minutes": 112
+}

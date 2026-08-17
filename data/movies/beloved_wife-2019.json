@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beloved_wife_2019",
+  "title": "A Beloved Wife",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109603209",
+    "imdb": "tt11288650",
+    "tmdb": 632124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-28"
+}

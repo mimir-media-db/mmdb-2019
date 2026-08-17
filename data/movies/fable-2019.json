@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fable_2019",
+  "title": "The Fable",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83240757",
+    "imdb": "tt8676426",
+    "tmdb": 532267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-21"
+}

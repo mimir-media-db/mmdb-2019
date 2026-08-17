@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanukkah_2019",
+  "title": "Hanukkah",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123681003",
+    "imdb": "tt2562146",
+    "tmdb": 130421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

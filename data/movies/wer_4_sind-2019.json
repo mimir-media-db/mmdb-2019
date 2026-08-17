@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_4_sind_2019",
+  "title": "Wer 4 Sind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66057933",
+    "imdb": "tt10539278",
+    "tmdb": 621912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-02",
+  "runtime_minutes": 106
+}

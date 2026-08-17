@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anak_lanang_2019",
+  "title": "Anak Lanang",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99439923",
+    "imdb": "tt14734004",
+    "tmdb": 592129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-09",
+  "runtime_minutes": 14
+}

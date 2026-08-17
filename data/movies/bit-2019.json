@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bit_2019",
+  "title": "Bit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91823999",
+    "imdb": "tt8425034",
+    "tmdb": 533985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

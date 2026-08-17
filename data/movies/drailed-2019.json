@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drailed_2019",
+  "title": "D-Railed",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116974229",
+    "imdb": "tt8318702",
+    "tmdb": 551238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

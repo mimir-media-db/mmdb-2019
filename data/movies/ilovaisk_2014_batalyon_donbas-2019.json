@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ilovaisk_2014_batalyon_donbas_2019",
+  "title": "Ilovaisk 2014. Batalyon Donbas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65194734",
+    "imdb": "tt10276554",
+    "tmdb": 613538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 120
+}

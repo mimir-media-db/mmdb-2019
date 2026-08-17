@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shijinso_no_satsujin_2019",
+  "title": "Shijin-sō no Satsujin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110192938",
+    "imdb": "tt11096624",
+    "tmdb": 651879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-13",
+  "runtime_minutes": 119
+}

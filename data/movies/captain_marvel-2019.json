@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_marvel_2019",
+  "title": "Captain Marvel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23781129",
+    "imdb": "tt4154664",
+    "tmdb": 299537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-06",
+  "runtime_minutes": 124
+}

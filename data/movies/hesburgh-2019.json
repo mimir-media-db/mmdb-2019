@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hesburgh_2019",
+  "title": "Hesburgh",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97305443",
+    "imdb": "tt8403168",
+    "tmdb": 523994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26",
+  "runtime_minutes": 106
+}

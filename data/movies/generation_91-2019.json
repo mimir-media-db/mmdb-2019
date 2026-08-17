@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_91_2019",
+  "title": "Generation '91",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573752",
+    "imdb": "tt10242126",
+    "tmdb": 1525748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-07",
+  "runtime_minutes": 85
+}

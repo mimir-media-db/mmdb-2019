@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3freunde2feinde_2019",
+  "title": "3Freunde2Feinde",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104213347",
+    "imdb": "tt13621724",
+    "tmdb": 686104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

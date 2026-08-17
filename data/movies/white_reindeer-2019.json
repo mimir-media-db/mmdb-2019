@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_reindeer_2019",
+  "title": "The White Reindeer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q519594",
+    "imdb": "tt0045283",
+    "tmdb": 84944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-04",
+  "runtime_minutes": 74
+}

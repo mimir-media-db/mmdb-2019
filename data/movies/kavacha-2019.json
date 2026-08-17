@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kavacha_2019",
+  "title": "Kavacha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56151842",
+    "imdb": "tt8907970",
+    "tmdb": 590906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05"
+}

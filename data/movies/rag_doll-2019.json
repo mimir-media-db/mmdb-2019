@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rag_doll_2019",
+  "title": "Rag Doll",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115253436",
+    "imdb": "tt5990464",
+    "tmdb": 586422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 103
+}

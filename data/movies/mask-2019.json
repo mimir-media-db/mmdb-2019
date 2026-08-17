@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mask_2019",
+  "title": "Mask",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65044244",
+    "imdb": "tt9379072",
+    "tmdb": 582145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_to_music_2019",
+  "title": "Farewell to Music",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107262265",
+    "imdb": "tt10125562"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 52
+}

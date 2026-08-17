@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_and_night_2019",
+  "title": "Day and Night",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240783",
+    "imdb": "tt9020768",
+    "tmdb": 542044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26"
+}

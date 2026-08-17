@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_stepmother_2019",
+  "title": "The Wrong Stepmother",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66424621",
+    "imdb": "tt10061096",
+    "tmdb": 614154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-05",
+  "runtime_minutes": 83
+}

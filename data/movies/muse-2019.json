@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muse_2019",
+  "title": "Muse",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111914649",
+    "imdb": "tt9867458",
+    "tmdb": 589849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

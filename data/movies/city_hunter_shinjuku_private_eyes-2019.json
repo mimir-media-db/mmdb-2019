@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_hunter_shinjuku_private_eyes_2019",
+  "title": "City Hunter: Shinjuku Private Eyes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64029281",
+    "imdb": "tt8161914",
+    "tmdb": 540141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_icarus_the_legend_of_mietek_kosz_2019",
+  "title": "Icarus. The Legend of Mietek Kosz",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72855379",
+    "imdb": "tt9121954",
+    "tmdb": 575575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kinky_boots_the_musical_2019",
+  "title": "Kinky Boots: The Musical",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105071902",
+    "imdb": "tt10442108",
+    "tmdb": 607181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-25"
+}

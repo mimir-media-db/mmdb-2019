@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brexit_the_uncivil_war_2019",
+  "title": "Brexit: The Uncivil War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60499539",
+    "imdb": "tt8425058",
+    "tmdb": 536176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-07",
+  "runtime_minutes": 92
+}

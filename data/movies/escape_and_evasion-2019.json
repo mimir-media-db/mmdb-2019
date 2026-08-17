@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_and_evasion_2019",
+  "title": "Escape and Evasion",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97339850",
+    "imdb": "tt7423486",
+    "tmdb": 520939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simple_women_2019",
+  "title": "Simple Women",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140888653",
+    "imdb": "tt10845656",
+    "tmdb": 621732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 85
+}

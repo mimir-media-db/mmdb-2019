@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madonna_and_the_breakfast_club_2019",
+  "title": "Madonna and the Breakfast Club",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99695352",
+    "imdb": "tt5321814",
+    "tmdb": 543788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

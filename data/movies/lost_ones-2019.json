@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_ones_2019",
+  "title": "The Lost Ones",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60173778",
+    "imdb": "tt6887162",
+    "tmdb": 498064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-17"
+}

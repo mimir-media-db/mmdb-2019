@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_point_blank_2019",
+  "title": "Point Blank",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56241197",
+    "imdb": "tt2499472",
+    "tmdb": 531503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-12",
+  "runtime_minutes": 86
+}

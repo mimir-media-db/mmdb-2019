@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kokikoki_cilik_2_2019",
+  "title": "Koki-koki Cilik 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65213382",
+    "imdb": "tt10468374",
+    "tmdb": 605051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27",
+  "runtime_minutes": 91
+}

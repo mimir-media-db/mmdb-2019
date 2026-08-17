@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aatpadi_nights_2019",
+  "title": "Aatpadi Nights",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906062",
+    "imdb": "tt10127302"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-27"
+}

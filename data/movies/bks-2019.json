@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bks_2019",
+  "title": "BKS",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123701239",
+    "imdb": "tt14679854",
+    "tmdb": 641389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-14",
+  "runtime_minutes": 11
+}

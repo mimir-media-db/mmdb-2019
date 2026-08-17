@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_menschenmogliche_2019",
+  "title": "Das Menschenmögliche",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93434268",
+    "imdb": "tt8500050",
+    "tmdb": 613072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-03",
+  "runtime_minutes": 88
+}

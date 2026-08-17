@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_walaa_wants_2019",
+  "title": "What Walaa Wants",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59554936",
+    "imdb": "tt7839334",
+    "tmdb": 499396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 86
+}

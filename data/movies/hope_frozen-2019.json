@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_frozen_2019",
+  "title": "Hope Frozen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99508975",
+    "imdb": "tt8060472",
+    "tmdb": 594676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 75
+}

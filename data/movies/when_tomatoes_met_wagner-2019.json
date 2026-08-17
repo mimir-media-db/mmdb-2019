@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_tomatoes_met_wagner_2019",
+  "title": "When Tomatoes Met Wagner",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61790468",
+    "imdb": "tt10449094",
+    "tmdb": 581377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-12",
+  "runtime_minutes": 72
+}

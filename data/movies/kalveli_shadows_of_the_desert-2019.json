@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalveli_shadows_of_the_desert_2019",
+  "title": "Kalveli: Shadows of the Desert",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57198838",
+    "imdb": "tt7206602",
+    "tmdb": 573900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-10"
+}

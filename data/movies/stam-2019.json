@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stam_2019",
+  "title": "Stam",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104865444",
+    "imdb": "tt9288712",
+    "tmdb": 739717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

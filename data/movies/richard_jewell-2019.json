@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richard_jewell_2019",
+  "title": "Richard Jewell",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65058737",
+    "imdb": "tt3513548",
+    "tmdb": 292011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-13",
+  "runtime_minutes": 129
+}

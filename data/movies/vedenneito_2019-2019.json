@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vedenneito_2019_2019",
+  "title": "Vedenneito (2019)",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113397562",
+    "imdb": "tt9803422",
+    "tmdb": 592886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05",
+  "runtime_minutes": 71
+}

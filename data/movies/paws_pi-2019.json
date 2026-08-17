@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paws_pi_2019",
+  "title": "Paws P.I.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117188897",
+    "imdb": "tt8064262",
+    "tmdb": 525208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 86
+}

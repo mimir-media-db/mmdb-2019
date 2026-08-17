@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brunch_hos_kristin_kaspersen_2019",
+  "title": "Brunch hos Kristin Kaspersen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116172596",
+    "imdb": "tt18889630",
+    "tmdb": 633814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

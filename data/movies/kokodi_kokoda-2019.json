@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kokodi_kokoda_2019",
+  "title": "Koko-di Koko-da",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642185",
+    "imdb": "tt9355200",
+    "tmdb": 565373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loro_2019",
+  "title": "Loro",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31202698",
+    "imdb": "tt10182822",
+    "tmdb": 541660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 157
+}

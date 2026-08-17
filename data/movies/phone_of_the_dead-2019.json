@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phone_of_the_dead_2019",
+  "title": "Phone of the Dead",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86738082",
+    "imdb": "tt12015184",
+    "tmdb": 732978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-17"
+}

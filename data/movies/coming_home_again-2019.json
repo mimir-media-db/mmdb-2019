@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_home_again_2019",
+  "title": "Coming Home Again",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97860787",
+    "imdb": "tt10687166",
+    "tmdb": 575768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

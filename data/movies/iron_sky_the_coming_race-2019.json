@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_sky_the_coming_race_2019",
+  "title": "Iron Sky: The Coming Race",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18639756",
+    "imdb": "tt3038708",
+    "tmdb": 302349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-16",
+  "runtime_minutes": 93
+}

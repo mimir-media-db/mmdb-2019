@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_commando_3_2019",
+  "title": "Commando 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61964946",
+    "imdb": "tt8983168",
+    "tmdb": 606599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-20"
+}

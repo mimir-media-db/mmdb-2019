@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_will_be_spectacular_2019",
+  "title": "The End Will Be Spectacular",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111457421",
+    "imdb": "tt10688568",
+    "tmdb": 662876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-11",
+  "runtime_minutes": 112
+}

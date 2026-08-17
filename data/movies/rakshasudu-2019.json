@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rakshasudu_2019",
+  "title": "Rakshasudu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65057776",
+    "imdb": "tt10133300",
+    "tmdb": 606224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-02"
+}

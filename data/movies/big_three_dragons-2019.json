@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_three_dragons_2019",
+  "title": "Big Three Dragons",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61057491",
+    "imdb": "tt9900688",
+    "tmdb": 586839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01"
+}

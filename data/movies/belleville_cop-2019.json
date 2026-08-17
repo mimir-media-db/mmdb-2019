@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belleville_cop_2019",
+  "title": "Belleville Cop",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072129",
+    "imdb": "tt6913168",
+    "tmdb": 495673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-31",
+  "runtime_minutes": 111
+}

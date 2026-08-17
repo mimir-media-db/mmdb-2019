@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firebrand_2019",
+  "title": "Firebrand",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61930471",
+    "imdb": "tt8852536",
+    "tmdb": 582868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-22",
+  "runtime_minutes": 116
+}

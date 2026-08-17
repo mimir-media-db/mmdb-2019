@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1944_deportation_2019",
+  "title": "1944. Deportation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573884",
+    "imdb": "tt14054812",
+    "tmdb": 804376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-17",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_coracao_do_mundo_2019",
+  "title": "No coração do mundo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642186",
+    "imdb": "tt9646768",
+    "tmdb": 573661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 121
+}

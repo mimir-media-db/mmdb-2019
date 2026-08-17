@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baghdad_in_my_shadow_2019",
+  "title": "Baghdad in my Shadow",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108436239",
+    "imdb": "tt6864088",
+    "tmdb": 488695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-10",
+  "runtime_minutes": 104
+}

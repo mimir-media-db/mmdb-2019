@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falling_inn_love_2019",
+  "title": "Falling Inn Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65924930",
+    "imdb": "tt9860728",
+    "tmdb": 623195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 98
+}

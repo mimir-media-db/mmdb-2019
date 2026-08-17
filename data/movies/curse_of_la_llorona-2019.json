@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_la_llorona_2019",
+  "title": "The Curse of La Llorona",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674258",
+    "imdb": "tt4913966",
+    "tmdb": 480414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-18",
+  "runtime_minutes": 93
+}

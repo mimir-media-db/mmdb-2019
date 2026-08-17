@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pratighaat_2019",
+  "title": "Pratighaat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76030852",
+    "imdb": "tt11337880",
+    "tmdb": 740831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-06"
+}

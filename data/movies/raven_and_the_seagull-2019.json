@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raven_and_the_seagull_2019",
+  "title": "The Raven and the Seagull",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62127849",
+    "imdb": "tt8763948",
+    "tmdb": 527416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18",
+  "runtime_minutes": 100
+}

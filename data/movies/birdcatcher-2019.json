@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birdcatcher_2019",
+  "title": "The Birdcatcher",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114009878",
+    "imdb": "tt3160336",
+    "tmdb": 489176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

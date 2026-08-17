@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gloria_bell_2019",
+  "title": "Gloria Bell",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44727126",
+    "imdb": "tt6902696",
+    "tmdb": 491473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-22",
+  "runtime_minutes": 102
+}

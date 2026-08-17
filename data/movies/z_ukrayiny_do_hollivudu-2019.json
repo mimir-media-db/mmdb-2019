@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_z_ukrayiny_do_hollivudu_2019",
+  "title": "Z Ukrayiny do Hollivudu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573844",
+    "imdb": "tt11839364",
+    "tmdb": 741949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-19",
+  "runtime_minutes": 72
+}

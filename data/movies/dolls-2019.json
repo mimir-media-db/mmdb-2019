@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolls_2019",
+  "title": "Dolls",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123270630",
+    "imdb": "tt9436204",
+    "tmdb": 612592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dilan_1991_2019",
+  "title": "Dilan 1991",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25465386",
+    "imdb": "tt9648942",
+    "tmdb": 577970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-28",
+  "runtime_minutes": 121
+}

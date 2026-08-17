@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mike_epps_only_one_mike_2019",
+  "title": "Mike Epps: Only One Mike",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305406",
+    "imdb": "tt10376958",
+    "tmdb": 610619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_revenge_2019",
+  "title": "Devil's Revenge",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245125",
+    "imdb": "tt9469842",
+    "tmdb": 635737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-01"
+}

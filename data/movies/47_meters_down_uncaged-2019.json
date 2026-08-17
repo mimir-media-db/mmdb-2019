@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_47_meters_down_uncaged_2019",
+  "title": "47 Meters Down: Uncaged",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59631075",
+    "imdb": "tt7329656",
+    "tmdb": 480105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-16",
+  "runtime_minutes": 90
+}

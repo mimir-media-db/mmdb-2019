@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_infierno_2019",
+  "title": "Cinema infierno",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532334",
+    "tmdb": 661236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 68
+}

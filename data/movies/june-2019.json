@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_june_2019",
+  "title": "June",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61941944",
+    "imdb": "tt8638640",
+    "tmdb": 580896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

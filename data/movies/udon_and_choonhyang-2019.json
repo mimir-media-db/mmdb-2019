@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_udon_and_choonhyang_2019",
+  "title": "Udon and Choonhyang",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840322",
+    "tmdb": 862732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-09"
+}

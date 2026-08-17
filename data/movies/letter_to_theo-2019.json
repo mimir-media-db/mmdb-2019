@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_to_theo_2019",
+  "title": "Letter to Theo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642201",
+    "imdb": "tt9023752",
+    "tmdb": 575837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aggregate_states_of_matters_2019",
+  "title": "Aggregate States of Matters",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140627095",
+    "tmdb": 669165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 22
+}

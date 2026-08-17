@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_stories_2019",
+  "title": "Girls' Stories",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840406",
+    "tmdb": 869787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04"
+}

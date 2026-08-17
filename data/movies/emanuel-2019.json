@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emanuel_2019",
+  "title": "Emanuel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65086065",
+    "imdb": "tt5948944",
+    "tmdb": 557411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_levi_2019",
+  "title": "Levi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100604559",
+    "imdb": "tt10546096",
+    "tmdb": 1007097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18"
+}

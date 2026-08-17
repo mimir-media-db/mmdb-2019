@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lss_2019",
+  "title": "LSS",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97176416",
+    "imdb": "tt10965328",
+    "tmdb": 622326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

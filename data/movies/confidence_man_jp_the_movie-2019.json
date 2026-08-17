@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_confidence_man_jp_the_movie_2019",
+  "title": "The Confidence Man JP: The Movie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97480595",
+    "imdb": "tt9552258",
+    "tmdb": 554801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-17"
+}

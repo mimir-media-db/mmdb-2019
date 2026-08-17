@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acceptable_loss_2019",
+  "title": "An Acceptable Loss",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411554",
+    "imdb": "tt7049542",
+    "tmdb": 553882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18",
+  "runtime_minutes": 102
+}

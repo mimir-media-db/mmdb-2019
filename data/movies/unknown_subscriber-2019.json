@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unknown_subscriber_2019",
+  "title": "Unknown subscriber",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84048531",
+    "imdb": "tt11355352",
+    "tmdb": 719053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-05",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_athlete_2019",
+  "title": "Athlete",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65236767",
+    "imdb": "tt9664838",
+    "tmdb": 598570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26",
+  "runtime_minutes": 89
+}

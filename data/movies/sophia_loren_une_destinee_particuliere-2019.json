@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sophia_loren_une_destinee_particuliere_2019",
+  "title": "Sophia Loren, une destinée particulière",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124071311",
+    "imdb": "tt11506146",
+    "tmdb": 656779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-24",
+  "runtime_minutes": 50
+}

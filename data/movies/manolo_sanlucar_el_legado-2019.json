@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manolo_sanlucar_el_legado_2019",
+  "title": "Manolo Sanlúcar, el legado",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719388",
+    "imdb": "tt11214064",
+    "tmdb": 708513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 71
+}

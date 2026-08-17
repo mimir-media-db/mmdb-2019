@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aute_retrato_2019",
+  "title": "Aute Retrato",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99463242",
+    "imdb": "tt10083048",
+    "tmdb": 628259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13",
+  "runtime_minutes": 98
+}

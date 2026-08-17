@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teen_spirit_2019",
+  "title": "Teen Spirit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070849",
+    "imdb": "tt6483364",
+    "tmdb": 440918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-12",
+  "runtime_minutes": 93
+}

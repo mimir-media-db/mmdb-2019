@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goliath96_2019",
+  "title": "Goliath96",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63034231",
+    "imdb": "tt7825090",
+    "tmdb": 531312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-18"
+}

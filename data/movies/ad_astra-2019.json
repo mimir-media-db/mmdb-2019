@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ad_astra_2019",
+  "title": "Ad Astra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38774788",
+    "imdb": "tt2935510",
+    "tmdb": 419704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-29",
+  "runtime_minutes": 123
+}

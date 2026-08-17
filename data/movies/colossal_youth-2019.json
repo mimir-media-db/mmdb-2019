@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colossal_youth_2019",
+  "title": "Colossal Youth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100254208",
+    "imdb": "tt3295734",
+    "tmdb": 463258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-25",
+  "runtime_minutes": 99
+}

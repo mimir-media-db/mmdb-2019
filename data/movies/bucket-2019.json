@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bucket_2019",
+  "title": "The Bucket",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137661558",
+    "imdb": "tt9698036",
+    "tmdb": 891227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 6
+}

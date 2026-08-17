@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anandi_gopal_2019",
+  "title": "Anandi Gopal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98273227",
+    "imdb": "tt8621438",
+    "tmdb": 584270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-05"
+}

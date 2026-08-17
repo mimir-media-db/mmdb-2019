@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gaston_lagaffe_2019",
+  "title": "Gaston Lagaffe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742372",
+    "imdb": "tt6995612",
+    "tmdb": 469052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 85
+}

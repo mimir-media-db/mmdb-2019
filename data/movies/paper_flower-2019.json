@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_flower_2019",
+  "title": "Paper Flower",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106774439",
+    "imdb": "tt12269026",
+    "tmdb": 635399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 103
+}

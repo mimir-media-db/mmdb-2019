@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chirkut_2019",
+  "title": "Chirkut",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110664324",
+    "imdb": "tt15832048"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-14"
+}

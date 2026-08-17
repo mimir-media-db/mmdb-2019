@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ibiza_2019",
+  "title": "Ibiza",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597258",
+    "imdb": "tt7942936",
+    "tmdb": 531735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-03",
+  "runtime_minutes": 87
+}

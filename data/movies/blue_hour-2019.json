@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_hour_2019",
+  "title": "Blue Hour",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86736004",
+    "imdb": "tt10309218",
+    "tmdb": 587217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11",
+  "runtime_minutes": 92
+}

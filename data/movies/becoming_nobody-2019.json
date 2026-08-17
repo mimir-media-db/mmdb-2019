@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_nobody_2019",
+  "title": "Becoming Nobody",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90536250",
+    "imdb": "tt10534256",
+    "tmdb": 626013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lupin_the_iiird_fujiko_mines_lie_2019",
+  "title": "Lupin the IIIrd: Fujiko Mine's Lie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62007891",
+    "imdb": "tt9900060",
+    "tmdb": 587870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-31"
+}

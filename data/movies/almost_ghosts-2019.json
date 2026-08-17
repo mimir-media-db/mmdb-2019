@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_ghosts_2019",
+  "title": "Almost Ghosts",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103454",
+    "imdb": "tt8661486",
+    "tmdb": 610807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-27",
+  "runtime_minutes": 70
+}

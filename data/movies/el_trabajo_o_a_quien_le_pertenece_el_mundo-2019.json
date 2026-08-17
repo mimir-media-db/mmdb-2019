@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_trabajo_o_a_quien_le_pertenece_el_mundo_2019",
+  "title": "El trabajo o a quién le pertenece el mundo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136688936",
+    "imdb": "tt11239524",
+    "tmdb": 642386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 64
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jessie_2019",
+  "title": "Jessie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115087958",
+    "imdb": "tt9903716",
+    "tmdb": 588708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-15",
+  "runtime_minutes": 96
+}

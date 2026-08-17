@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_alien_2019",
+  "title": "Crazy Alien",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55163823",
+    "imdb": "tt6660238",
+    "tmdb": 574037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-05",
+  "runtime_minutes": 116
+}

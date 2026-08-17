@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodlust_beauty_2019",
+  "title": "Bloodlust Beauty",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97308281",
+    "imdb": "tt11067190",
+    "tmdb": 638987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-26"
+}

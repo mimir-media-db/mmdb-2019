@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_durgeshgorer_guptodhon_2019",
+  "title": "Durgeshgorer Guptodhon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64380136",
+    "imdb": "tt9537068",
+    "tmdb": 605330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-24"
+}

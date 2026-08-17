@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emu_runner_2019",
+  "title": "Emu Runner",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104177851",
+    "imdb": "tt7275840",
+    "tmdb": 543763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 95
+}

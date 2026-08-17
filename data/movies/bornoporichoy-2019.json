@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bornoporichoy_2019",
+  "title": "Bornoporichoy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65052159",
+    "imdb": "tt10651188",
+    "tmdb": 627535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26"
+}

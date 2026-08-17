@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andre_midani_a_brief_history_of_the_brazilian_music_2019",
+  "title": "André Midani - A Brief History of the Brazilian Music",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72055167",
+    "imdb": "tt4333950",
+    "tmdb": 737174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 120
+}

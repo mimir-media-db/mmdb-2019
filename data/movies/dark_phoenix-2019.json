@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_phoenix_2019",
+  "title": "Dark Phoenix",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31188935",
+    "imdb": "tt6565702",
+    "tmdb": 320288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-05",
+  "runtime_minutes": 114
+}

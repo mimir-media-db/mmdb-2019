@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bonnet_de_modibo_2019",
+  "title": "Le Bonnet de Modibo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97255090",
+    "imdb": "tt9031034",
+    "tmdb": 662949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

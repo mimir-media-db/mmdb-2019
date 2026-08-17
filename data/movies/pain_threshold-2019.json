@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pain_threshold_2019",
+  "title": "Pain Threshold",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65153328",
+    "imdb": "tt8858494",
+    "tmdb": 593652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 100
+}

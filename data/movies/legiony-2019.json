@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legiony_2019",
+  "title": "Legiony",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68676232",
+    "imdb": "tt9546624",
+    "tmdb": 622585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-20",
+  "runtime_minutes": 136
+}

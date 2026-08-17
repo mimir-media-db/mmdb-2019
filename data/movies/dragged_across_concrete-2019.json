@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragged_across_concrete_2019",
+  "title": "Dragged Across Concrete",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33256053",
+    "imdb": "tt6491178",
+    "tmdb": 438674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22",
+  "runtime_minutes": 158
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_bones_and_your_eyes_2019",
+  "title": "Your Bones and Your Eyes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642176",
+    "imdb": "tt9573686",
+    "tmdb": 572984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-21",
+  "runtime_minutes": 118
+}

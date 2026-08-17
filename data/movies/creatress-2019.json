@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_creatress_2019",
+  "title": "The Creatress",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104876289",
+    "imdb": "tt7203052",
+    "tmdb": 625629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-27"
+}

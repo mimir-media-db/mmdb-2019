@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notre_dame_2019",
+  "title": "Notre dame",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65148622",
+    "imdb": "tt9431080",
+    "tmdb": 582886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-11",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inna_de_yard_the_soul_of_jamaica_2019",
+  "title": "Inna de Yard - The Soul of Jamaica",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63869121",
+    "imdb": "tt7621830",
+    "tmdb": 523501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-20",
+  "runtime_minutes": 99
+}

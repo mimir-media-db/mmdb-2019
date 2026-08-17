@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_from_insanity_2019",
+  "title": "Coming from Insanity",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100148067",
+    "imdb": "tt8470448",
+    "tmdb": 678342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-14",
+  "runtime_minutes": 100
+}

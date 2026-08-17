@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reverse_2019",
+  "title": "The Reverse",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065772",
+    "imdb": "tt7907808",
+    "tmdb": 575324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-27",
+  "runtime_minutes": 110
+}

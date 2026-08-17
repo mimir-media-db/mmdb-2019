@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_lying_now_2019",
+  "title": "I am lying now",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136357145",
+    "imdb": "tt7422258",
+    "tmdb": 568960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28"
+}

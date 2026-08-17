@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kursk_2019",
+  "title": "Kursk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28974564",
+    "imdb": "tt4951982",
+    "tmdb": 401200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-17",
+  "runtime_minutes": 117
+}

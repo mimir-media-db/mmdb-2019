@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_morphine_melody_2019",
+  "title": "The Morphine Melody",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105272122",
+    "imdb": "tt3461810",
+    "tmdb": 876525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

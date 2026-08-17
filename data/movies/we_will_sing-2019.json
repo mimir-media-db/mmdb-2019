@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_sing_2019",
+  "title": "We Will Sing",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136544156"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

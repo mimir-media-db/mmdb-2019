@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_overtakes_me_2019",
+  "title": "Life Overtakes Me",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65048111",
+    "imdb": "tt9204606",
+    "tmdb": 593280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-14",
+  "runtime_minutes": 40
+}

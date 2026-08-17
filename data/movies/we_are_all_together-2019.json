@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_all_together_2019",
+  "title": "We are all together",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51822014",
+    "imdb": "tt11238648",
+    "tmdb": 608976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-05",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_sarai_2019",
+  "title": "Killing Sarai",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123949195",
+    "imdb": "tt10080270",
+    "tmdb": 652722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

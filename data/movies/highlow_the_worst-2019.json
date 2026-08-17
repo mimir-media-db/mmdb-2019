@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_highlow_the_worst_2019",
+  "title": "High&Low The Worst",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245188",
+    "imdb": "tt11135936",
+    "tmdb": 727502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04"
+}

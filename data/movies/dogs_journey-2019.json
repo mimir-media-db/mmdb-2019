@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dogs_journey_2019",
+  "title": "A Dog's Journey",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61654745",
+    "imdb": "tt8385474",
+    "tmdb": 522518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naima_2019",
+  "title": "Naïma",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100936490",
+    "imdb": "tt10153494",
+    "tmdb": 594410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

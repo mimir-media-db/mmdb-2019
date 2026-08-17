@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creed_ii_2019",
+  "title": "Creed II",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50233658",
+    "imdb": "tt6343314",
+    "tmdb": 480530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 129
+}

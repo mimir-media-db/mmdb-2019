@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coward_hero_2019",
+  "title": "Coward Hero",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66311340",
+    "imdb": "tt10394802",
+    "tmdb": 609637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-02"
+}

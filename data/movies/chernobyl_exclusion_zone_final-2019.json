@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chernobyl_exclusion_zone_final_2019",
+  "title": "Chernobyl. Exclusion Zone. Final",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60852497",
+    "imdb": "tt10100620",
+    "tmdb": 793445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogman_2019",
+  "title": "Dogman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51800111",
+    "imdb": "tt6768578",
+    "tmdb": 483184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 102
+}

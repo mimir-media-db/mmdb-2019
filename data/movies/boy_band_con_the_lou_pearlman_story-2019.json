@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_band_con_the_lou_pearlman_story_2019",
+  "title": "The Boy Band Con: The Lou Pearlman Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517728",
+    "imdb": "tt9617710",
+    "tmdb": 576709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 99
+}

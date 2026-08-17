@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kollontai_apuntes_de_resistencia_2019",
+  "title": "Kollontai, apuntes de resistencia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64759349",
+    "imdb": "tt9331436"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-13",
+  "runtime_minutes": 118
+}

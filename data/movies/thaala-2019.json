@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thaala_2019",
+  "title": "Thaala",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65117339",
+    "imdb": "tt9432968",
+    "tmdb": 581433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-31"
+}

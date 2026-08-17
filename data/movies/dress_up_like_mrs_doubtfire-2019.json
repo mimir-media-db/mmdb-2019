@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dress_up_like_mrs_doubtfire_2019",
+  "title": "Dress Up Like Mrs. Doubtfire",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134294907",
+    "imdb": "tt8165974",
+    "tmdb": 1109097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

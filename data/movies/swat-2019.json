@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swat_2019",
+  "title": "S.W.A.T.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122678518",
+    "imdb": "tt9243442",
+    "tmdb": 559937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

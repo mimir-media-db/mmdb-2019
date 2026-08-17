@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_safe_hands_2019",
+  "title": "In Safe Hands",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60849526",
+    "imdb": "tt7543930",
+    "tmdb": 489418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 110
+}

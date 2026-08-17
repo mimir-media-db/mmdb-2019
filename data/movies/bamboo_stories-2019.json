@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bamboo_stories_2019",
+  "title": "Bamboo Stories",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72064611",
+    "imdb": "tt9081466",
+    "tmdb": 578783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-30",
+  "runtime_minutes": 96
+}

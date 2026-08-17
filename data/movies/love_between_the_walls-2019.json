@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_between_the_walls_2019",
+  "title": "Love Between the Walls",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73515500",
+    "imdb": "tt8415544",
+    "tmdb": 573048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25",
+  "runtime_minutes": 92
+}

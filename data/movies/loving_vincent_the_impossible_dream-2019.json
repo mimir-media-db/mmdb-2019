@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loving_vincent_the_impossible_dream_2019",
+  "title": "Loving Vincent: The Impossible Dream",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105725073",
+    "imdb": "tt9244638",
+    "tmdb": 587289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 60
+}

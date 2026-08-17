@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_the_light_robby_muller_2019",
+  "title": "Living the Light - Robby Müller",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61976149",
+    "imdb": "tt8842066",
+    "tmdb": 539178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-14"
+}

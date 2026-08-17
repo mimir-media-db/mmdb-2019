@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_okate_life_2019",
+  "title": "Okate Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124038946",
+    "imdb": "tt10300302",
+    "tmdb": 948021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-03"
+}

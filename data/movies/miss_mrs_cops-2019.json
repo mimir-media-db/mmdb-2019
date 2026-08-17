@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_mrs_cops_2019",
+  "title": "Miss & Mrs. Cops",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62624418",
+    "imdb": "tt10161238",
+    "tmdb": 571786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-09",
+  "runtime_minutes": 107
+}

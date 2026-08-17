@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forum_2019",
+  "title": "The Forum",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72843052",
+    "imdb": "tt11606666",
+    "tmdb": 645877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-28",
+  "runtime_minutes": 122
+}

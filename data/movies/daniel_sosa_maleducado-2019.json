@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daniel_sosa_maleducado_2019",
+  "title": "Daniel Sosa: Maleducado",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67015685",
+    "imdb": "tt10438652",
+    "tmdb": 611710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27"
+}

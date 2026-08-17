@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heat_singers_2019",
+  "title": "Heat Singers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97184467",
+    "imdb": "tt10526632",
+    "tmdb": 594938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 64
+}

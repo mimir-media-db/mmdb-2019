@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_vaches_nauront_plus_de_nom_2019",
+  "title": "Les vaches n'auront plus de nom",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65123748",
+    "imdb": "tt11462160",
+    "tmdb": 594681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-14",
+  "runtime_minutes": 51
+}

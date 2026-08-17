@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_ghost_dagger_2019",
+  "title": "Legend of the Ghost Dagger",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98455786",
+    "imdb": "tt5459620",
+    "tmdb": 619460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-11",
+  "runtime_minutes": 95
+}

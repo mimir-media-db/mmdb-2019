@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_affittasi_vita_2019",
+  "title": "Affittasi vita",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62024366",
+    "imdb": "tt10224714",
+    "tmdb": 804452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-19"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_you_know_it_2019",
+  "title": "Before You Know It",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60613051",
+    "imdb": "tt8856090",
+    "tmdb": 565326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gundermann_revier_2019",
+  "title": "Gundermann Revier",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77338785",
+    "imdb": "tt10957832",
+    "tmdb": 655184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-30",
+  "runtime_minutes": 98
+}

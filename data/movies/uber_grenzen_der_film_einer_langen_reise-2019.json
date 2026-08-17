@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uber_grenzen_der_film_einer_langen_reise_2019",
+  "title": "Über Grenzen - der Film einer langen Reise",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66057719",
+    "imdb": "tt10579880",
+    "tmdb": 631864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-12",
+  "runtime_minutes": 114
+}

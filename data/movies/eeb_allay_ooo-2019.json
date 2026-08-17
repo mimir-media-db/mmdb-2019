@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eeb_allay_ooo_2019",
+  "title": "Eeb Allay Ooo!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97354127",
+    "imdb": "tt9343754",
+    "tmdb": 638665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-01"
+}

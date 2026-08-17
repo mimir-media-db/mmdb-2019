@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sisters_friend_3_2019",
+  "title": "My Sister's Friend 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840404",
+    "tmdb": 961194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-07"
+}

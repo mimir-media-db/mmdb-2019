@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helen_2019",
+  "title": "Helen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66146371",
+    "imdb": "tt10735202",
+    "tmdb": 640052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-15",
+  "runtime_minutes": 117
+}

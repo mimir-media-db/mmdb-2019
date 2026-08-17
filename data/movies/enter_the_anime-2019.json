@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enter_the_anime_2019",
+  "title": "Enter the Anime",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66363984",
+    "imdb": "tt10662450",
+    "tmdb": 616904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-05",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_rodriguez_y_el_mas_alla_2019",
+  "title": "Los Rodríguez y el más allá",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90793880",
+    "imdb": "tt7543538",
+    "tmdb": 636041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-31",
+  "runtime_minutes": 116
+}

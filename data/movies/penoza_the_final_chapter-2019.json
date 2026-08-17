@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penoza_the_final_chapter_2019",
+  "title": "Penoza: The Final Chapter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76743499",
+    "imdb": "tt9272572",
+    "tmdb": 551115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-18",
+  "runtime_minutes": 116
+}

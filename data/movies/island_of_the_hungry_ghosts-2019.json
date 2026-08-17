@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_of_the_hungry_ghosts_2019",
+  "title": "Island of the Hungry Ghosts",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63634966",
+    "imdb": "tt8106566",
+    "tmdb": 511539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-11",
+  "runtime_minutes": 94
+}

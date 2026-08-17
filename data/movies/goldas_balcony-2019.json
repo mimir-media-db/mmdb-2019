@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goldas_balcony_2019",
+  "title": "Golda's Balcony",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65064142",
+    "imdb": "tt9793862",
+    "tmdb": 595919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24"
+}

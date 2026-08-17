@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_we_grow_old_2019",
+  "title": "Before We Grow Old",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67011717",
+    "imdb": "tt9584972",
+    "tmdb": 574367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-11",
+  "runtime_minutes": 93
+}

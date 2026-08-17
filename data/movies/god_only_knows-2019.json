@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_only_knows_2019",
+  "title": "God Only Knows",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642196",
+    "imdb": "tt8690486",
+    "tmdb": 575815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-29",
+  "runtime_minutes": 88
+}

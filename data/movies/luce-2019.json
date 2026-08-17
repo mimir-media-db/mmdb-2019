@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luce_2019",
+  "title": "Luce",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60602393",
+    "imdb": "tt7616148",
+    "tmdb": 492616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-27",
+  "runtime_minutes": 109
+}

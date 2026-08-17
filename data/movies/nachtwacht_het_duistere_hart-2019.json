@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nachtwacht_het_duistere_hart_2019",
+  "title": "Nachtwacht: Het duistere hart",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138112390",
+    "imdb": "tt10846976",
+    "tmdb": 654325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-07"
+}

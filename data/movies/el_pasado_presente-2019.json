@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_pasado_presente_2019",
+  "title": "El pasado presente",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136773982"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaaway_sa_sulod_2019",
+  "title": "Kaaway sa Sulod",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123510152",
+    "imdb": "tt12251724",
+    "tmdb": 624352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-14",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vdb_ik_ben_god_niet_2019",
+  "title": "VDB. Ik ben God niet",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115481890",
+    "imdb": "tt14790954"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 50
+}

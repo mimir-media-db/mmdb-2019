@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dustwalker_2019",
+  "title": "The Dustwalker",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110518235",
+    "imdb": "tt6816388",
+    "tmdb": 614869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-12"
+}

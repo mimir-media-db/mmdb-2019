@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_milos_forman_une_vie_libre_2019",
+  "title": "Milos Forman, une vie libre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94071968",
+    "imdb": "tt12299760"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 52
+}

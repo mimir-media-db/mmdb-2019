@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_also_art_is_a_life_the_case_max_emden_2019",
+  "title": "Also Art is a Life - the Case Max Emden",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62023994",
+    "imdb": "tt9294980",
+    "tmdb": 913301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-25",
+  "runtime_minutes": 90
+}

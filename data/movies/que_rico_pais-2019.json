@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_que_rico_pais_2019",
+  "title": "Qué rico país",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64216369",
+    "imdb": "tt19298930"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-30",
+  "runtime_minutes": 85
+}

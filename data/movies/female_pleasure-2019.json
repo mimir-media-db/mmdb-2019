@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_female_pleasure_2019",
+  "title": "Female Pleasure",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55653126",
+    "imdb": "tt8372826",
+    "tmdb": 540210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-01"
+}

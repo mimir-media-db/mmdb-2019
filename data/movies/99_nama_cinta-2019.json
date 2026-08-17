@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_99_nama_cinta_2019",
+  "title": "99 Nama Cinta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97374741",
+    "imdb": "tt10640384",
+    "tmdb": 638907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14",
+  "runtime_minutes": 106
+}

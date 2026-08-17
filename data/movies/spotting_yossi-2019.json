@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spotting_yossi_2019",
+  "title": "Spotting Yossi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86000497",
+    "imdb": "tt10707164",
+    "tmdb": 693146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-27",
+  "runtime_minutes": 72
+}

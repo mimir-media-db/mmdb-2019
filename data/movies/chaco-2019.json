@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaco_2019",
+  "title": "Chaco",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108614935",
+    "imdb": "tt7607510",
+    "tmdb": 590703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

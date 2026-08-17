@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeannette_the_childhood_of_joan_of_arc_2019",
+  "title": "Jeannette: The Childhood of Joan of Arc",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22944606",
+    "imdb": "tt6340264",
+    "tmdb": 399049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-25",
+  "runtime_minutes": 105
+}

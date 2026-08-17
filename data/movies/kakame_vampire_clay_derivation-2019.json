@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kakame_vampire_clay_derivation_2019",
+  "title": "KAKAME - Vampire Clay Derivation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110161249",
+    "imdb": "tt9838980",
+    "tmdb": 642154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-12"
+}

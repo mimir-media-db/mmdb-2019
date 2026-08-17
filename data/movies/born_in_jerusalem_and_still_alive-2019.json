@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_jerusalem_and_still_alive_2019",
+  "title": "Born in Jerusalem and Still Alive",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66729074",
+    "imdb": "tt9811480",
+    "tmdb": 619605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-29",
+  "runtime_minutes": 83
+}

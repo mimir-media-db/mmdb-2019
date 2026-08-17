@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_general_2019",
+  "title": "General",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97289761",
+    "imdb": "tt6916502",
+    "tmdb": 1074175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 163
+}

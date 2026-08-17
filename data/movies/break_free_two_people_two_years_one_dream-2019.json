@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_break_free_two_people_two_years_one_dream_2019",
+  "title": "Break Free: Two People. Two Years. One Dream",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61684390",
+    "imdb": "tt9725216",
+    "tmdb": 574724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-14",
+  "runtime_minutes": 120
+}

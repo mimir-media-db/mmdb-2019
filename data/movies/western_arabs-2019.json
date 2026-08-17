@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_western_arabs_2019",
+  "title": "Western Arabs",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726902",
+    "imdb": "tt9554564",
+    "tmdb": 577060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_censored_2019",
+  "title": "Censored",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56054601",
+    "imdb": "tt10330046",
+    "tmdb": 612821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-05",
+  "runtime_minutes": 100
+}

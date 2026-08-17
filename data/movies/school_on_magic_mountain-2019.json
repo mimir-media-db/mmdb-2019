@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_on_magic_mountain_2019",
+  "title": "The School on Magic Mountain",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60945478",
+    "imdb": "tt5179080",
+    "tmdb": 561565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-28",
+  "runtime_minutes": 87
+}

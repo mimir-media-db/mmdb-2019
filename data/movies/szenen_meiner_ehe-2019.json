@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_szenen_meiner_ehe_2019",
+  "title": "Szenen meiner Ehe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99527986",
+    "imdb": "tt11424128",
+    "tmdb": 896907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-20",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_balcony_2019",
+  "title": "On The Balcony",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48910912",
+    "imdb": "tt9690762",
+    "tmdb": 544742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15",
+  "runtime_minutes": 100
+}

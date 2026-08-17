@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_q_ball_2019",
+  "title": "Q Ball",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107404257",
+    "imdb": "tt10254986",
+    "tmdb": 589853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 97
+}

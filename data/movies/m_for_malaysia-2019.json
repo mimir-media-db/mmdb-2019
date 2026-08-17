@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_m_for_malaysia_2019",
+  "title": "M for Malaysia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67512229",
+    "imdb": "tt10075830",
+    "tmdb": 629077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-12",
+  "runtime_minutes": 92
+}

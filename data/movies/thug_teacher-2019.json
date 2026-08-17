@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thug_teacher_2019",
+  "title": "Thug Teacher",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998984",
+    "imdb": "tt23987612",
+    "tmdb": 632592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-26",
+  "runtime_minutes": 84
+}

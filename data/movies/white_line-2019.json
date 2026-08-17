@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_line_2019",
+  "title": "The White Line",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108919575",
+    "imdb": "tt9093870",
+    "tmdb": 674456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-22"
+}

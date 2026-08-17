@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_almost_night_2019",
+  "title": "Dark, Almost Night",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60863513",
+    "imdb": "tt7790894",
+    "tmdb": 573858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-18",
+  "runtime_minutes": 113
+}

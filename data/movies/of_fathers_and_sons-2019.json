@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_fathers_and_sons_2019",
+  "title": "Of Fathers and Sons",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47509882",
+    "imdb": "tt7519174",
+    "tmdb": 488740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 99
+}

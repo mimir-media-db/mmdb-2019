@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sherehindustan_2019",
+  "title": "Sher-E-Hindustan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65079239",
+    "imdb": "tt10787234"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21"
+}

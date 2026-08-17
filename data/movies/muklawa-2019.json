@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muklawa_2019",
+  "title": "Muklawa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411037",
+    "imdb": "tt8919396",
+    "tmdb": 613045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-24"
+}

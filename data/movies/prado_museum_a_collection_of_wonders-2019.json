@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prado_museum_a_collection_of_wonders_2019",
+  "title": "The Prado Museum: A Collection of Wonders",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132048387",
+    "imdb": "tt10234240",
+    "tmdb": 588175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 92
+}

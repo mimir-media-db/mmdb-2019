@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matianak_2019",
+  "title": "MatiAnak",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65211856",
+    "imdb": "tt9828814",
+    "tmdb": 584131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 85
+}

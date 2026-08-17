@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_special_couple_2019",
+  "title": "Special Couple",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107737161",
+    "imdb": "tt10428328",
+    "tmdb": 810846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-19"
+}

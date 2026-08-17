@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_destines_2019",
+  "title": "Destines",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65589451",
+    "imdb": "tt10357088",
+    "tmdb": 603887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18"
+}

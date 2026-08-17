@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_2019",
+  "title": "After",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55815471",
+    "imdb": "tt4126476",
+    "tmdb": 537915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11",
+  "runtime_minutes": 106
+}

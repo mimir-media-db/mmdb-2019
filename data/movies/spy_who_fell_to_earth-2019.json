@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_who_fell_to_earth_2019",
+  "title": "The Spy Who Fell to Earth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63098029",
+    "imdb": "tt7706168",
+    "tmdb": 593060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skal_dere_ga_allerede_2019",
+  "title": "Skal dere gå allerede?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64605644",
+    "imdb": "tt11647172",
+    "tmdb": 609132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-05",
+  "runtime_minutes": 87
+}

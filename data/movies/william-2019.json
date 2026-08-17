@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_william_2019",
+  "title": "William",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104611208",
+    "imdb": "tt6316816",
+    "tmdb": 461218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 102
+}

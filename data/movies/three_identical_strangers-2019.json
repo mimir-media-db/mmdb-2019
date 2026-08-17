@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_identical_strangers_2019",
+  "title": "Three Identical Strangers",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635808",
+    "imdb": "tt7664504",
+    "tmdb": 489988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-30",
+  "runtime_minutes": 96
+}

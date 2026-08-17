@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_turk_2019",
+  "title": "The Hollywood Turk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64157103",
+    "imdb": "tt4789036",
+    "tmdb": 595619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-13",
+  "runtime_minutes": 93
+}

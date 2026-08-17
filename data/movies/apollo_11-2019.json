@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apollo_11_2019",
+  "title": "Apollo 11",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61639822",
+    "imdb": "tt8760684",
+    "tmdb": 549559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 97
+}

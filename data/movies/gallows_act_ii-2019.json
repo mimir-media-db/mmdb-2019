@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gallows_act_ii_2019",
+  "title": "The Gallows Act II",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48314095",
+    "imdb": "tt7473716",
+    "tmdb": 505060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25",
+  "runtime_minutes": 99
+}

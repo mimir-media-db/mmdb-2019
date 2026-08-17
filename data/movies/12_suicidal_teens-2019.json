@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_suicidal_teens_2019",
+  "title": "12 Suicidal Teens",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99578373",
+    "imdb": "tt9214844",
+    "tmdb": 566387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonnie_bonnie_2019",
+  "title": "Bonnie & Bonnie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67123662",
+    "imdb": "tt9168992",
+    "tmdb": 632665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-24"
+}

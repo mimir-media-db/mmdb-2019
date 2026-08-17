@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_loup_de_balole_2019",
+  "title": "Le Loup de Balolé",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136368845",
+    "imdb": "tt11161246",
+    "tmdb": 641884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

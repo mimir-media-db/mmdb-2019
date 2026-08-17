@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_vermeer_2019",
+  "title": "The Last Vermeer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621513",
+    "imdb": "tt8337320",
+    "tmdb": 622977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-31",
+  "runtime_minutes": 117
+}

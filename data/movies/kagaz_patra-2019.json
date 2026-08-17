@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kagaz_patra_2019",
+  "title": "Kagaz Patra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61778689",
+    "imdb": "tt7810160",
+    "tmdb": 497368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22"
+}

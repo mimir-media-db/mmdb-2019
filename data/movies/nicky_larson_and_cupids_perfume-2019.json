@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nicky_larson_and_cupids_perfume_2019",
+  "title": "Nicky Larson and Cupid's Perfume",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55598765",
+    "imdb": "tt8523334",
+    "tmdb": 469274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-06",
+  "runtime_minutes": 91
+}

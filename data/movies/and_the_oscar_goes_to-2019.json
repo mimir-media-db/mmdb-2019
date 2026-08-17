@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_and_the_oscar_goes_to_2019",
+  "title": "And the Oscar Goes To...",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65049877",
+    "imdb": "tt8938866",
+    "tmdb": 576041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-21"
+}

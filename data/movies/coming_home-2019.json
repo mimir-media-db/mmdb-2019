@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_home_2019",
+  "title": "Coming Home",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85842235",
+    "imdb": "tt8899108",
+    "tmdb": 717009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-18",
+  "runtime_minutes": 88
+}

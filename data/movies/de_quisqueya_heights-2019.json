@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_de_quisqueya_heights_2019",
+  "title": "De Quisqueya Heights",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138161230",
+    "imdb": "tt22939694"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

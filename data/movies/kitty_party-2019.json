@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kitty_party_2019",
+  "title": "Kitty Party",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85774658",
+    "imdb": "tt9680174",
+    "tmdb": 655073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-13"
+}

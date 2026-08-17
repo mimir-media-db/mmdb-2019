@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_smile_please_2019",
+  "title": "Smile Please",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64977561",
+    "imdb": "tt10111568",
+    "tmdb": 621443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-19"
+}

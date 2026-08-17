@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_machida_kun_2019",
+  "title": "The World Of Machida Kun",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93255715",
+    "imdb": "tt9647776",
+    "tmdb": 580496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-07"
+}

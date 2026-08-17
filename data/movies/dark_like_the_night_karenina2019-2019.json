@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_like_the_night_karenina2019_2019",
+  "title": "Dark like the Night. Karenina-2019",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77885285",
+    "imdb": "tt10730420",
+    "tmdb": 690719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-20",
+  "runtime_minutes": 8
+}

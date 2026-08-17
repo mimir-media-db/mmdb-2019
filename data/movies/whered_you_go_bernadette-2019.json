@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whered_you_go_bernadette_2019",
+  "title": "Where'd You Go, Bernadette",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32942287",
+    "imdb": "tt2365580",
+    "tmdb": 405177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22",
+  "runtime_minutes": 109
+}

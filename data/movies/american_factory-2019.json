@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_factory_2019",
+  "title": "American Factory",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768198",
+    "imdb": "tt9351980",
+    "tmdb": 565716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 110
+}

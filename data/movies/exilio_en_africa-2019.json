@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exilio_en_africa_2019",
+  "title": "Exilio en África",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108614939",
+    "imdb": "tt11366152",
+    "tmdb": 1524877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_club_of_ugly_children_2019",
+  "title": "The Club of Ugly Children",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64796977",
+    "imdb": "tt9695404",
+    "tmdb": 549945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-09",
+  "runtime_minutes": 91
+}

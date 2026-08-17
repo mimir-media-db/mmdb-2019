@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_battle_2019",
+  "title": "The Great Battle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30945885",
+    "imdb": "tt6931414",
+    "tmdb": 535389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-08",
+  "runtime_minutes": 136
+}

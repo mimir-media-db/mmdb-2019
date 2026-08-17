@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shell_and_joint_2019",
+  "title": "Shell and Joint",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878829",
+    "imdb": "tt10052156",
+    "tmdb": 594407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-01",
+  "runtime_minutes": 154
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hammer_2019",
+  "title": "Hammer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120717599",
+    "imdb": "tt6853934",
+    "tmdb": 684107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 82
+}

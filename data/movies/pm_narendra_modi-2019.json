@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pm_narendra_modi_2019",
+  "title": "PM Narendra Modi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62233423",
+    "imdb": "tt9558612",
+    "tmdb": 589291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-24",
+  "runtime_minutes": 136
+}

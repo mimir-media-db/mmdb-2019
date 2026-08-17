@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_altsasu_ferides_obertes_2019",
+  "title": "Altsasu: ferides obertes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136554568",
+    "imdb": "tt9654538",
+    "tmdb": 1552761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-22",
+  "runtime_minutes": 65
+}

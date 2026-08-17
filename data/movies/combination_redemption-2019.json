@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_combination_redemption_2019",
+  "title": "The Combination: Redemption",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600808",
+    "imdb": "tt5492496",
+    "tmdb": 580578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

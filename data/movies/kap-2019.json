@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kap_2019",
+  "title": "Kapı",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65220181",
+    "imdb": "tt10045434",
+    "tmdb": 595171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11"
+}

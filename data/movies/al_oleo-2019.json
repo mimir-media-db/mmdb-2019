@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_al_oleo_2019",
+  "title": "Al óleo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110448208",
+    "imdb": "tt9320084",
+    "tmdb": 586597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

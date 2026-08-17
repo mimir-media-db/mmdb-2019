@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moner_moto_manush_pailam_naa_2019",
+  "title": "Moner Moto Manush Pailam Naa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65318936",
+    "imdb": "tt21745588",
+    "tmdb": 1033893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1st_born_2019",
+  "title": "1st Born",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96368709",
+    "imdb": "tt7153134",
+    "tmdb": 645434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-18"
+}

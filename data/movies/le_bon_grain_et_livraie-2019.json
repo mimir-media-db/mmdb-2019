@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bon_grain_et_livraie_2019",
+  "title": "Le bon grain et l'ivraie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107098195",
+    "imdb": "tt10584898",
+    "tmdb": 589733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butt_detective_the_movie_the_curry_incident_2019",
+  "title": "Butt Detective The Movie:  The Curry Incident",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998738",
+    "imdb": "tt10579936",
+    "tmdb": 612799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26"
+}

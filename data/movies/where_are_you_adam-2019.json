@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_are_you_adam_2019",
+  "title": "Where are you, Adam?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106762854",
+    "imdb": "tt10097086",
+    "tmdb": 618270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

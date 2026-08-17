@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_notebook_2019",
+  "title": "Notebook",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65121656",
+    "imdb": "tt9105014",
+    "tmdb": 582375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29"
+}

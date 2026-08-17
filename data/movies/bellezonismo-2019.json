@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bellezonismo_2019",
+  "title": "Bellezonismo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135717377",
+    "imdb": "tt10152200",
+    "tmdb": 608726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 98
+}

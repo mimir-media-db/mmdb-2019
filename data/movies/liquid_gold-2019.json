@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liquid_gold_2019",
+  "title": "Liquid Gold",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68091111",
+    "imdb": "tt9648868",
+    "tmdb": 631779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-19",
+  "runtime_minutes": 78
+}

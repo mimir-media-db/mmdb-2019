@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgetmenot_2019",
+  "title": "Forget-me-not",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98131647",
+    "imdb": "tt11551466",
+    "tmdb": 584418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 7
+}

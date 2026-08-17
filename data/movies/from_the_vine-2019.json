@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_vine_2019",
+  "title": "From the Vine",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97161756",
+    "imdb": "tt9313424",
+    "tmdb": 650380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

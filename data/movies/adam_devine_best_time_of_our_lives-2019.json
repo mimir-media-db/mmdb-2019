@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_devine_best_time_of_our_lives_2019",
+  "title": "Adam DeVine: Best Time of Our Lives",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305407",
+    "imdb": "tt10376844",
+    "tmdb": 609660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-18"
+}

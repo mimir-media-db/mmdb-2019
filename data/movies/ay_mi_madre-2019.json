@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ay_mi_madre_2019",
+  "title": "¡Ay, Mi Madre!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63068747",
+    "imdb": "tt6213294",
+    "tmdb": 437023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f2_fun_and_frustration_2019",
+  "title": "F2 – Fun and Frustration",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55611328",
+    "imdb": "tt8188610",
+    "tmdb": 566914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-12",
+  "runtime_minutes": 150
+}

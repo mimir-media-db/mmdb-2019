@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hermitage_the_power_of_art_2019",
+  "title": "Hermitage - The Power of Art",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104629521",
+    "imdb": "tt11097488",
+    "tmdb": 619401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-12",
+  "runtime_minutes": 90
+}

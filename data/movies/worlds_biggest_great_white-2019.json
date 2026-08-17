@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worlds_biggest_great_white_2019",
+  "title": "World's Biggest Great White?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133827352",
+    "imdb": "tt11252634",
+    "tmdb": 851814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-21",
+  "runtime_minutes": 44
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punk_the_capital_2019",
+  "title": "Punk the Capital",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111710177",
+    "imdb": "tt3736766",
+    "tmdb": 612175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-29"
+}

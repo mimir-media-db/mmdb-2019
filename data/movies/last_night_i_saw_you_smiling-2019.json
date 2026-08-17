@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_night_i_saw_you_smiling_2019",
+  "title": "Last Night I Saw You Smiling",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642195",
+    "imdb": "tt9000904",
+    "tmdb": 573658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-29",
+  "runtime_minutes": 75
+}

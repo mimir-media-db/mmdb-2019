@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_get_her_if_you_can_2019",
+  "title": "Get Her... If You Can",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62273640",
+    "imdb": "tt7398584",
+    "tmdb": 533984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29"
+}

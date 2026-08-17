@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_disco_lights_2019",
+  "title": "Northern Disco Lights",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62127790",
+    "imdb": "tt6275334",
+    "tmdb": 436082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-18",
+  "runtime_minutes": 74
+}

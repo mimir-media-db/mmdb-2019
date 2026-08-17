@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brugklas_de_tijd_van_mn_leven_2019",
+  "title": "Brugklas: De tijd van m'n leven",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61650224",
+    "imdb": "tt9296782",
+    "tmdb": 570086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-07"
+}

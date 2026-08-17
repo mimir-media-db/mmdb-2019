@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captive_state_2019",
+  "title": "Captive State",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28863791",
+    "imdb": "tt5968394",
+    "tmdb": 429471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15",
+  "runtime_minutes": 109
+}

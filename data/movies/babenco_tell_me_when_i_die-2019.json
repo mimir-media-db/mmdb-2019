@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babenco_tell_me_when_i_die_2019",
+  "title": "Babenco: Tell Me When I Die",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65939522",
+    "imdb": "tt6850578",
+    "tmdb": 618386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-02",
+  "runtime_minutes": 75
+}

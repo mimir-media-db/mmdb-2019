@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gorillaz_reject_false_icons_2019",
+  "title": "Gorillaz: Reject False Icons",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127271046",
+    "imdb": "tt11321574",
+    "tmdb": 649761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-16",
+  "runtime_minutes": 95
+}

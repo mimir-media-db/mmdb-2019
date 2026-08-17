@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_barking_at_the_moon_2019",
+  "title": "A Dog Barking at the Moon",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66789529",
+    "imdb": "tt9674226",
+    "tmdb": 577101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-11",
+  "runtime_minutes": 107
+}

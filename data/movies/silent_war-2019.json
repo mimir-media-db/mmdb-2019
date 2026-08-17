@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_war_2019",
+  "title": "The Silent War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68669942",
+    "imdb": "tt7336684",
+    "tmdb": 542444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13",
+  "runtime_minutes": 122
+}

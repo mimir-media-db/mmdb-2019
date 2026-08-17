@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladyworld_2019",
+  "title": "Ladyworld",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65051661",
+    "imdb": "tt3759912",
+    "tmdb": 502805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18",
+  "runtime_minutes": 93
+}

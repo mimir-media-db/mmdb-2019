@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norte_2019",
+  "title": "Norte",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93886361",
+    "imdb": "tt7637354",
+    "tmdb": 629353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 101
+}

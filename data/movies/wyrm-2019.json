@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wyrm_2019",
+  "title": "Wyrm",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257216",
+    "imdb": "tt12826940",
+    "tmdb": 630476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 106
+}

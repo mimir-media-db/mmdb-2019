@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_of_the_net_2019",
+  "title": "Back of the Net",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52715722",
+    "imdb": "tt8211214",
+    "tmdb": 515743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11"
+}

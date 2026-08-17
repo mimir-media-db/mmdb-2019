@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunset_2019",
+  "title": "Sunset",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672559",
+    "imdb": "tt5855772",
+    "tmdb": 399056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-13",
+  "runtime_minutes": 144
+}

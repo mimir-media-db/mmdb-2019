@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ms_purple_2019",
+  "title": "Ms. Purple",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60602596",
+    "imdb": "tt7983890",
+    "tmdb": 565340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burn_the_stage_the_movie_2019",
+  "title": "Burn the Stage: The Movie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57696046",
+    "imdb": "tt9151704",
+    "tmdb": 553512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26",
+  "runtime_minutes": 85
+}

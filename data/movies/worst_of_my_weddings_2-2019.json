@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_of_my_weddings_2_2019",
+  "title": "The Worst of My Weddings 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116188841",
+    "imdb": "tt8932338",
+    "tmdb": 588415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

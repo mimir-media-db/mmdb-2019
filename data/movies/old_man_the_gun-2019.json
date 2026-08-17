@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_man_the_gun_2019",
+  "title": "The Old Man & the Gun",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29144645",
+    "imdb": "tt2837574",
+    "tmdb": 429203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 93
+}

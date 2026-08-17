@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eerie_fairy_tales_2019",
+  "title": "Eerie Fairy Tales",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125192452",
+    "imdb": "tt11241510",
+    "tmdb": 656685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

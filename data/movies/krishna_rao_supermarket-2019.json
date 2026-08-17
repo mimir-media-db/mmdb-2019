@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_krishna_rao_supermarket_2019",
+  "title": "Krishna Rao Supermarket",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138893414"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

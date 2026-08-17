@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_beale_street_could_talk_2019",
+  "title": "If Beale Street Could Talk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38685547",
+    "imdb": "tt7125860",
+    "tmdb": 465914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-08",
+  "runtime_minutes": 119
+}

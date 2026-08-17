@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mussum_um_filme_do_cacildis_2019",
+  "title": "Mussum, um Filme do Cacildis",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120493273",
+    "imdb": "tt7885540",
+    "tmdb": 565955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04"
+}

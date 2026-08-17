@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antoine_griezmann_the_making_of_a_legend_2019",
+  "title": "Antoine Griezmann: The Making of a Legend",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62663220",
+    "imdb": "tt9817308",
+    "tmdb": 589116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_breath_2019",
+  "title": "Blue Breath",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124637939",
+    "imdb": "tt6616336",
+    "tmdb": 564606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-17",
+  "runtime_minutes": 81
+}

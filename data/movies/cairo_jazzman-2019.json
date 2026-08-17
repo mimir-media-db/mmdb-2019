@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cairo_jazzman_2019",
+  "title": "Cairo Jazzman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69463662",
+    "imdb": "tt5883930",
+    "tmdb": 433005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 82
+}

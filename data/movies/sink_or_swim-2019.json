@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sink_or_swim_2019",
+  "title": "Sink or Swim",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28497074",
+    "imdb": "tt7476116",
+    "tmdb": 484482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-27",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_of_life_2019",
+  "title": "A Way of Life",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117338356",
+    "imdb": "tt11934924",
+    "tmdb": 630010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-26",
+  "runtime_minutes": 118
+}

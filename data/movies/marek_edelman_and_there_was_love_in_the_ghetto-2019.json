@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marek_edelman_and_there_was_love_in_the_ghetto_2019",
+  "title": "Marek Edelman... And there was Love in the Ghetto",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113650957",
+    "imdb": "tt11064792",
+    "tmdb": 589915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-11",
+  "runtime_minutes": 79
+}

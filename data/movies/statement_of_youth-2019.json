@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_statement_of_youth_2019",
+  "title": "Statement of Youth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122961262",
+    "imdb": "tt26920882",
+    "tmdb": 1092809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-17"
+}

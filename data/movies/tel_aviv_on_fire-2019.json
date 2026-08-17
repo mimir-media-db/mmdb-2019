@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tel_aviv_on_fire_2019",
+  "title": "Tel Aviv on Fire",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642158",
+    "imdb": "tt5791098",
+    "tmdb": 539056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-04",
+  "runtime_minutes": 100
+}

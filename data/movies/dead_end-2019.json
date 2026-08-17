@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_end_2019",
+  "title": "Dead End",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108065425",
+    "imdb": "tt9139660",
+    "tmdb": 566206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 77
+}

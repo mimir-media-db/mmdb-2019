@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matthias_maxime_2019",
+  "title": "Matthias & Maxime",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56278436",
+    "imdb": "tt8767908",
+    "tmdb": 519141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-22",
+  "runtime_minutes": 119
+}

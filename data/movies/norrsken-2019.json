@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_norrsken_2019",
+  "title": "Norrsken",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116173094",
+    "imdb": "tt9836014",
+    "tmdb": 1064288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

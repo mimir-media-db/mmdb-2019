@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iqro_my_universe_2019",
+  "title": "Iqro: My Universe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65204370",
+    "imdb": "tt10495074",
+    "tmdb": 611052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-11",
+  "runtime_minutes": 101
+}

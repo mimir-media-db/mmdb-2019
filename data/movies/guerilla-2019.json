@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guerilla_2019",
+  "title": "Guerilla",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61918041",
+    "imdb": "tt7298886",
+    "tmdb": 577284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-07",
+  "runtime_minutes": 86
+}

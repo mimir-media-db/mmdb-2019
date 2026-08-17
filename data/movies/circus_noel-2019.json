@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_circus_noel_2019",
+  "title": "Circus Noël",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120775760",
+    "imdb": "tt8763396",
+    "tmdb": 544514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-17",
+  "runtime_minutes": 90
+}

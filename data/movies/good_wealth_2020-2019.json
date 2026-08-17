@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_good_wealth_2020_2019",
+  "title": "Good Wealth 2020",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67933780"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-27"
+}

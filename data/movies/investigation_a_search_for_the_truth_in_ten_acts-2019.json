@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_investigation_a_search_for_the_truth_in_ten_acts_2019",
+  "title": "The Investigation: A Search for the Truth in Ten Acts",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123680871",
+    "imdb": "tt10541654",
+    "tmdb": 611164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajab_sanjura_gajab_love_2019",
+  "title": "Ajab Sanjura Gajab Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60590428",
+    "imdb": "tt10375640",
+    "tmdb": 1087552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-13"
+}

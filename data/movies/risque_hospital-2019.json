@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_risque_hospital_2019",
+  "title": "Risque Hospital",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840400",
+    "tmdb": 595766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-16"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friends_aunt_2019",
+  "title": "My Friend's Aunt",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840423",
+    "tmdb": 1104863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-05"
+}

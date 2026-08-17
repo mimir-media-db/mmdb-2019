@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_falcons_2019",
+  "title": "Falcons",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110184375",
+    "imdb": "tt7690774",
+    "tmdb": 530437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-19",
+  "runtime_minutes": 95
+}

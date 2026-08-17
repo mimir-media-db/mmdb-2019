@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_school_rules_2019",
+  "title": "Black School Rules",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86729085",
+    "imdb": "tt11276530",
+    "tmdb": 657200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01"
+}

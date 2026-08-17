@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_2019",
+  "title": "Notes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64196311",
+    "imdb": "tt9553286"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-27"
+}

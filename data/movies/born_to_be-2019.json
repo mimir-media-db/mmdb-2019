@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_be_2019",
+  "title": "Born to Be",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104869300",
+    "imdb": "tt8347270",
+    "tmdb": 629702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

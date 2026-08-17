@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_mad_mad_mad_mad_show_2019",
+  "title": "It's a Mad, Mad, Mad, Mad Show",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61057498",
+    "imdb": "tt21227830",
+    "tmdb": 605768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01"
+}

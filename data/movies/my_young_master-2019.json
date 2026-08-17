@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_young_master_2019",
+  "title": "My Young Master",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840434",
+    "tmdb": 643264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-02"
+}

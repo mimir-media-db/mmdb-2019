@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shinichiro_ueda_short_movies_collection_2019",
+  "title": "Shinichiro Ueda Short Movies Collection",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56812463"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-28",
+  "runtime_minutes": 83
+}

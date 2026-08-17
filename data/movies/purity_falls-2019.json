@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purity_falls_2019",
+  "title": "Purity Falls",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97170476",
+    "imdb": "tt8589474",
+    "tmdb": 617264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

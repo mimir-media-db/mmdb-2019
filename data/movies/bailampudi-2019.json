@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bailampudi_2019",
+  "title": "Bailampudi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65082908",
+    "imdb": "tt9271358",
+    "tmdb": 632130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-27"
+}

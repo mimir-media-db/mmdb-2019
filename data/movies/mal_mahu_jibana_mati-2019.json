@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mal_mahu_jibana_mati_2019",
+  "title": "Mal Mahu Jibana Mati",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60454728",
+    "imdb": "tt9540556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-08"
+}

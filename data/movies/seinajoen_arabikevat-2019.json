@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seinajoen_arabikevat_2019",
+  "title": "Seinäjoen arabikevät",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802912",
+    "imdb": "tt9857170",
+    "tmdb": 605339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-16",
+  "runtime_minutes": 79
+}

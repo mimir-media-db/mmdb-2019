@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_hind_2019",
+  "title": "Jai Hind",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65936284"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-09"
+}

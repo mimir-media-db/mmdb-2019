@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_chaplin_2_2019",
+  "title": "Charlie Chaplin 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737714",
+    "imdb": "tt7616754",
+    "tmdb": 496412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25"
+}

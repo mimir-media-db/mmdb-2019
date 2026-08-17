@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donbas_borderland_2019",
+  "title": "Donbas. Borderland",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65130854",
+    "imdb": "tt10504928",
+    "tmdb": 597853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-12",
+  "runtime_minutes": 96
+}

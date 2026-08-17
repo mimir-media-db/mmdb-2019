@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_706_2019",
+  "title": "706",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65058472",
+    "imdb": "tt9390026",
+    "tmdb": 582352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-11"
+}

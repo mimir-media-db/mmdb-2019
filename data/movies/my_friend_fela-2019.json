@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_fela_2019",
+  "title": "My Friend Fela",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642189",
+    "imdb": "tt9736160",
+    "tmdb": 573503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-26",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_green_turns_to_gold_2019",
+  "title": "When Green Turns to Gold",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61056217",
+    "imdb": "tt10850978",
+    "tmdb": 694594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15"
+}

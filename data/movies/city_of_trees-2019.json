@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_trees_2019",
+  "title": "City of Trees",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131344137",
+    "imdb": "tt11399518",
+    "tmdb": 663300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

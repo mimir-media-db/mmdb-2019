@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_live_the_king_2019",
+  "title": "Long Live the King",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64909965",
+    "imdb": "tt10446722",
+    "tmdb": 575602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-19"
+}

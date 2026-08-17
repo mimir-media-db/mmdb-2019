@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinayet_susu_2019",
+  "title": "Cinayet Süsü",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76988853",
+    "imdb": "tt9675274",
+    "tmdb": 629500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25"
+}

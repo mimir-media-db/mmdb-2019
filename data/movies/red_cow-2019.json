@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_cow_2019",
+  "title": "Red Cow",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63302313",
+    "imdb": "tt7769310",
+    "tmdb": 493908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-10",
+  "runtime_minutes": 90
+}

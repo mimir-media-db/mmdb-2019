@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_posham_pa_2019",
+  "title": "Posham Pa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96399844",
+    "imdb": "tt10645878",
+    "tmdb": 624794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-23",
+  "runtime_minutes": 75
+}

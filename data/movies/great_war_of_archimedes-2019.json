@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_war_of_archimedes_2019",
+  "title": "The Great War of Archimedes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86665968",
+    "imdb": "tt8708802",
+    "tmdb": 605389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-26",
+  "runtime_minutes": 130
+}

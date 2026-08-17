@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_the_nation_2019",
+  "title": "Voice of the Nation",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109344488",
+    "imdb": "tt11005970",
+    "tmdb": 633812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18"
+}

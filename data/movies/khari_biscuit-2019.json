@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khari_biscuit_2019",
+  "title": "Khari biscuit",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97277383",
+    "imdb": "tt11081206",
+    "tmdb": 652460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01"
+}

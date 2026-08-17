@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hacker_2019",
+  "title": "Hacker",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47459302",
+    "imdb": "tt8243160",
+    "tmdb": 545330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-28",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camino_een_featurelength_selfie_2019",
+  "title": "Camino, een feature-length selfie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642180",
+    "imdb": "tt9818168",
+    "tmdb": 575792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 85
+}

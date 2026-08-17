@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_rock_montreal_live_aid_2019",
+  "title": "Queen Rock Montreal & Live Aid",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21651948",
+    "imdb": "tt1421377",
+    "tmdb": 1503233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-17",
+  "runtime_minutes": 138
+}

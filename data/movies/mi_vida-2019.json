@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_vida_2019",
+  "title": "Mi Vida",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104825452",
+    "imdb": "tt8221738",
+    "tmdb": 637660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_passo_dellacqua_2019",
+  "title": "Il passo dell'acqua",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100773657",
+    "imdb": "tt11121630",
+    "tmdb": 706941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 52
+}

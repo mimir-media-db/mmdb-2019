@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jveux_du_soleil_2019",
+  "title": "J'veux du soleil",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60561217",
+    "imdb": "tt9576110",
+    "tmdb": 584350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-03"
+}

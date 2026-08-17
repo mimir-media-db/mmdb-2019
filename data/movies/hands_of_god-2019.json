@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hands_of_god_2019",
+  "title": "Hands of God",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101583492",
+    "imdb": "tt15198614"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 71
+}

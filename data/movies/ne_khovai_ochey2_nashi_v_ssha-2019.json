@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ne_khovai_ochey2_nashi_v_ssha_2019",
+  "title": "Ne khovai ochey-2 Nashi v SSHA",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123520997",
+    "imdb": "tt27919944",
+    "tmdb": 1144556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

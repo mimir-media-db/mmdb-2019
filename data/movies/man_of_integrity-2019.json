@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_integrity_2019",
+  "title": "A Man of Integrity",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29401467",
+    "imdb": "tt6776462",
+    "tmdb": 452013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-02",
+  "runtime_minutes": 120
+}

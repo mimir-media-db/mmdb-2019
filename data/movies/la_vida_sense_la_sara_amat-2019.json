@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_sense_la_sara_amat_2019",
+  "title": "La vida sense la Sara Amat",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65017039",
+    "imdb": "tt9914942",
+    "tmdb": 598553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-12"
+}

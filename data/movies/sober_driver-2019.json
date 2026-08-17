@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sober_driver_2019",
+  "title": "Sober Driver",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60831602",
+    "imdb": "tt10443416",
+    "tmdb": 575126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 105
+}

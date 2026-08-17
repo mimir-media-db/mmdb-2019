@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_youth_in_taiwan_2019",
+  "title": "Our Youth in Taiwan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60992507",
+    "imdb": "tt8711506",
+    "tmdb": 533574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12",
+  "runtime_minutes": 118
+}

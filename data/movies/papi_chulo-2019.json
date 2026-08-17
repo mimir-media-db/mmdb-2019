@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papi_chulo_2019",
+  "title": "Papi Chulo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52151500",
+    "imdb": "tt8228538",
+    "tmdb": 537792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-08",
+  "runtime_minutes": 98
+}

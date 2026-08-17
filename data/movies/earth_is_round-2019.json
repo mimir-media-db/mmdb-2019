@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_is_round_2019",
+  "title": "Earth is Round",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65210432",
+    "imdb": "tt10044934",
+    "tmdb": 594223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11",
+  "runtime_minutes": 103
+}

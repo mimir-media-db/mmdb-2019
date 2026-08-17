@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rising_from_the_tsunami_2019",
+  "title": "Rising From the Tsunami",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117303567",
+    "imdb": "tt10505148",
+    "tmdb": 587351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 67
+}

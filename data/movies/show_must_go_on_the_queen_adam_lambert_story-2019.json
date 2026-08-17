@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_show_must_go_on_the_queen_adam_lambert_story_2019",
+  "title": "The Show Must Go On: The Queen + Adam Lambert Story",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96312387",
+    "imdb": "tt9856280",
+    "tmdb": 597965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11",
+  "runtime_minutes": 84
+}

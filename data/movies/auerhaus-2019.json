@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_auerhaus_2019",
+  "title": "Auerhaus",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76018904",
+    "imdb": "tt10084688",
+    "tmdb": 594518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 104
+}

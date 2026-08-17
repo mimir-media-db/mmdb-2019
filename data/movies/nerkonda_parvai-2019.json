@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nerkonda_parvai_2019",
+  "title": "Nerkonda Parvai",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62059893",
+    "imdb": "tt9675716",
+    "tmdb": 586291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-08"
+}

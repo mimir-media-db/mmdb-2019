@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restaurant_from_the_sky_2019",
+  "title": "Restaurant from the Sky",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61058080",
+    "imdb": "tt8226802",
+    "tmdb": 536952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25"
+}

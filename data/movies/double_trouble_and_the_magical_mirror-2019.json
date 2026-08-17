@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_trouble_and_the_magical_mirror_2019",
+  "title": "Double Trouble and the Magical Mirror",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59181971",
+    "imdb": "tt7753176",
+    "tmdb": 570168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_freccia_del_tempo_2019",
+  "title": "La freccia del tempo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108441683",
+    "imdb": "tt9232974",
+    "tmdb": 634537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-26"
+}

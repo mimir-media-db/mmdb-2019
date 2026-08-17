@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_you_gonna_do_when_the_worlds_on_fire_2019",
+  "title": "What You Gonna Do When the World's on Fire?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56274948",
+    "imdb": "tt8747596",
+    "tmdb": 537488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-09",
+  "runtime_minutes": 123
+}

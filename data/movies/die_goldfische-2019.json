@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_goldfische_2019",
+  "title": "Die Goldfische",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62053852",
+    "imdb": "tt7689310",
+    "tmdb": 535092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21"
+}

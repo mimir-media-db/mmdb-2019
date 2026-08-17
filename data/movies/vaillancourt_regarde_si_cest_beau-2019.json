@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vaillancourt_regarde_si_cest_beau_2019",
+  "title": "Vaillancourt : regarde si c'est beau",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74697123"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-29",
+  "runtime_minutes": 80
+}

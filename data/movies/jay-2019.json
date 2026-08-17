@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jay_2019",
+  "title": "Jay",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134617300",
+    "imdb": "tt10293004",
+    "tmdb": 674509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-11"
+}

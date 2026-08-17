@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spider_murphy_gang_glory_days_of_rock_n_roll_2019",
+  "title": "Spider Murphy Gang - Glory Days of Rock 'n' Roll",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64338728",
+    "imdb": "tt10539214",
+    "tmdb": 606752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-30",
+  "runtime_minutes": 90
+}

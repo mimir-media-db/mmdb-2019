@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_rathri_oru_pakal_2019",
+  "title": "Oru Rathri Oru Pakal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85791299",
+    "imdb": "tt11591490",
+    "tmdb": 758800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-09"
+}

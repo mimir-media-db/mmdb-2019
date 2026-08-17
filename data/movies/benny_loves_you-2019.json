@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benny_loves_you_2019",
+  "title": "Benny Loves You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106448514",
+    "imdb": "tt3917506",
+    "tmdb": 647302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

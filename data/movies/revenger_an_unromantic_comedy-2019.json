@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revenger_an_unromantic_comedy_2019",
+  "title": "The Revenger: An Unromantic Comedy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110646913",
+    "imdb": "tt7051624",
+    "tmdb": 542968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

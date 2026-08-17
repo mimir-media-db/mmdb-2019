@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loveparade_als_die_liebe_tanzen_lernte_2019",
+  "title": "Loveparade – Als die Liebe tanzen lernte",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97441499",
+    "imdb": "tt12724054",
+    "tmdb": 725688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

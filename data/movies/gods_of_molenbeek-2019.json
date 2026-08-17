@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_of_molenbeek_2019",
+  "title": "Gods of Molenbeek",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61314895",
+    "imdb": "tt9592116",
+    "tmdb": 578628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-28",
+  "runtime_minutes": 73
+}

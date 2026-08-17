@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_germany_a_winters_tale_2019",
+  "title": "Germany. A Winter's Tale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62053919",
+    "imdb": "tt8435932",
+    "tmdb": 537854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21"
+}

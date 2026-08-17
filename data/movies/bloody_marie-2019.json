@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_marie_2019",
+  "title": "Bloody Marie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642190",
+    "imdb": "tt7972468",
+    "tmdb": 532097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-27",
+  "runtime_minutes": 87
+}

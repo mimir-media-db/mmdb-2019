@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cuarto_reino_el_reino_de_los_plasticos_2019",
+  "title": "El cuarto reino. El reino de los plásticos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97483216",
+    "imdb": "tt9106444",
+    "tmdb": 601652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-16",
+  "runtime_minutes": 83
+}

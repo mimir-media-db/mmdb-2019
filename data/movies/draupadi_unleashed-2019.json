@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_draupadi_unleashed_2019",
+  "title": "Draupadi Unleashed",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130465367",
+    "imdb": "tt8456568",
+    "tmdb": 672251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-08",
+  "runtime_minutes": 110
+}

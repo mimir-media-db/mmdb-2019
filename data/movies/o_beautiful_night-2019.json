@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_beautiful_night_2019",
+  "title": "O Beautiful Night",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63034972",
+    "imdb": "tt7603636",
+    "tmdb": 573893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-12"
+}

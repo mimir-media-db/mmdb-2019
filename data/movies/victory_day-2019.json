@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_victory_day_2019",
+  "title": "Victory Day",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49109011",
+    "imdb": "tt7990058",
+    "tmdb": 499550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 94
+}

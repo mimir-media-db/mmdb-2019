@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_critters_attack_2019",
+  "title": "Critters Attack!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64214344",
+    "imdb": "tt10240612",
+    "tmdb": 597856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-13"
+}

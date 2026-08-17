@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_girl_valeries_holiday_2019",
+  "title": "Teenage Girl: Valerie's Holiday",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135686652",
+    "imdb": "tt8835626",
+    "tmdb": 881008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}

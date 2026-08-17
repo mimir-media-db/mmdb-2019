@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_on_the_range_2019",
+  "title": "Christmas on the Range",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110126218",
+    "imdb": "tt10808294",
+    "tmdb": 648736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

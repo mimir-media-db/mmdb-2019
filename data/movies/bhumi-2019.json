@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhumi_2019",
+  "title": "Bhumi",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574113",
+    "imdb": "tt36646167",
+    "tmdb": 1470105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-16"
+}

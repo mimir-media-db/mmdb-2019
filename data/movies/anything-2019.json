@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anything_2019",
+  "title": "Anything",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31202693",
+    "imdb": "tt6213952",
+    "tmdb": 460100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-09",
+  "runtime_minutes": 94
+}

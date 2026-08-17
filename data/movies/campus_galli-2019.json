@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_campus_galli_2019",
+  "title": "Campus Galli",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27928264",
+    "imdb": "tt6535786",
+    "tmdb": 630448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-11",
+  "runtime_minutes": 96
+}

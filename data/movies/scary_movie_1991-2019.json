@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_movie_1991_2019",
+  "title": "Scary Movie (1991)",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138848160",
+    "imdb": "tt0138078",
+    "tmdb": 4242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

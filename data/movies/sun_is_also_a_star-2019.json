@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_is_also_a_star_2019",
+  "title": "The Sun Is Also a Star",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55287239",
+    "imdb": "tt6423362",
+    "tmdb": 508791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-16"
+}

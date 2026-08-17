@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cowboys_a_documentary_portrait_2019",
+  "title": "Cowboys: A Documentary Portrait",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104876731",
+    "imdb": "tt7132906",
+    "tmdb": 784549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-25"
+}

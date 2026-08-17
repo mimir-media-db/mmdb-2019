@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_2019",
+  "title": "Joy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55775897",
+    "imdb": "tt8917752",
+    "tmdb": 539445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-18",
+  "runtime_minutes": 100
+}

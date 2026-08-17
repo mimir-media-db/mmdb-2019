@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_of_dorien_b_2019",
+  "title": "The Best of Dorien B.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642182",
+    "imdb": "tt5939324",
+    "tmdb": 575789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 106
+}

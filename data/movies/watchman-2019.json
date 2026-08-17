@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watchman_2019",
+  "title": "Watchman",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737713",
+    "imdb": "tt9378320",
+    "tmdb": 591086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12"
+}

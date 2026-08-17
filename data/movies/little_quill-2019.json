@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_quill_2019",
+  "title": "Little Quill",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65045429",
+    "imdb": "tt10584272",
+    "tmdb": 603772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-15"
+}

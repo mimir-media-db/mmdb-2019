@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_changes_2019",
+  "title": "Everybody Changes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77889555",
+    "imdb": "tt10523404",
+    "tmdb": 624973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-15",
+  "runtime_minutes": 92
+}

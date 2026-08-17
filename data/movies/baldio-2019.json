@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baldio_2019",
+  "title": "Baldío",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108064990",
+    "imdb": "tt9773698",
+    "tmdb": 619317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 78
+}

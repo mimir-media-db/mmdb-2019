@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fagun_haway_2019",
+  "title": "Fagun Haway",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61080816",
+    "imdb": "tt8072666",
+    "tmdb": 588866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

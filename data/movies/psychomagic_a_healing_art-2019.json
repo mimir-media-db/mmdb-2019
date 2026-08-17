@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psychomagic_a_healing_art_2019",
+  "title": "Psychomagic, a Healing Art",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106139526",
+    "imdb": "tt10510736",
+    "tmdb": 512229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

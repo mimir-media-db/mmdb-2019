@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvel_rising_heart_of_iron_2019",
+  "title": "Marvel Rising: Heart of Iron",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84727350",
+    "imdb": "tt9073746",
+    "tmdb": 583209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-31",
+  "runtime_minutes": 44
+}

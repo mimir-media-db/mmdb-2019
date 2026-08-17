@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_happy_as_possible_2019",
+  "title": "As Happy as Possible",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93448405",
+    "imdb": "tt10415798",
+    "tmdb": 597691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}

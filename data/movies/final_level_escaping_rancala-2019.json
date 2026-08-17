@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_level_escaping_rancala_2019",
+  "title": "The Final Level : Escaping Rancala",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115679767",
+    "imdb": "tt11334312",
+    "tmdb": 655031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

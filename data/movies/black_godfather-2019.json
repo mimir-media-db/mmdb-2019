@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_godfather_2019",
+  "title": "The Black Godfather",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64450077",
+    "imdb": "tt10289996",
+    "tmdb": 606215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-07",
+  "runtime_minutes": 117
+}

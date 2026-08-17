@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_from_melanie_2019",
+  "title": "Notes from Melanie",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61912659",
+    "imdb": "tt8693992",
+    "tmdb": 584973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-01",
+  "runtime_minutes": 20
+}

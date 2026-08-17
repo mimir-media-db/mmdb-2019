@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sasha_was_here_2019",
+  "title": "Sasha Was Here",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116054461",
+    "imdb": "tt7294844",
+    "tmdb": 560739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-16",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hava_maryam_ayesha_2019",
+  "title": "Hava, Maryam, Ayesha",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69375069",
+    "imdb": "tt10713448",
+    "tmdb": 618239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06"
+}

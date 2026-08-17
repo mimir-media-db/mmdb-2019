@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_move_2_the_wrathful_2019",
+  "title": "The Divine Move 2: The Wrathful",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72931135",
+    "imdb": "tt11177112",
+    "tmdb": 580626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-07",
+  "runtime_minutes": 106
+}

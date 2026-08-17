@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_parallel_2019",
+  "title": "Love In Parallel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274952",
+    "imdb": "tt8489948",
+    "tmdb": 585550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-12"
+}

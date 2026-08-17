@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_23_people_2019",
+  "title": "23 People",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61065508",
+    "imdb": "tt9755608",
+    "tmdb": 581158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youth_unstoppable_2019",
+  "title": "Youth Unstoppable",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99689400",
+    "imdb": "tt8434076",
+    "tmdb": 534188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-26",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beau_joueur_2019",
+  "title": "Beau Joueur",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64350958",
+    "imdb": "tt9784342",
+    "tmdb": 595546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-05",
+  "runtime_minutes": 98
+}

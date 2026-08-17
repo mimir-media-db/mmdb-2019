@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_24_days_2019",
+  "title": "24 Days",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107439844",
+    "imdb": "tt14787556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 90
+}

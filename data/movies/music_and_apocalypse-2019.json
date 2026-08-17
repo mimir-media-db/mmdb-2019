@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_and_apocalypse_2019",
+  "title": "Music and Apocalypse",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70104420",
+    "imdb": "tt7939182",
+    "tmdb": 576100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-24",
+  "runtime_minutes": 80
+}

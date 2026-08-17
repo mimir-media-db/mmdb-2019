@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pequena_suiza_2019",
+  "title": "La pequeña Suiza",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63371936",
+    "imdb": "tt9100028",
+    "tmdb": 574374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26",
+  "runtime_minutes": 86
+}

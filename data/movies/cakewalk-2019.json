@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cakewalk_2019",
+  "title": "Cakewalk",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106544081",
+    "imdb": "tt10919562",
+    "tmdb": 716841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-17"
+}

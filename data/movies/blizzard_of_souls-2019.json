@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blizzard_of_souls_2019",
+  "title": "Blizzard of Souls",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60520620",
+    "imdb": "tt6084202",
+    "tmdb": 567566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-11"
+}

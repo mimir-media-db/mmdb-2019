@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciegos_2019",
+  "title": "Ciegos",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106977801",
+    "imdb": "tt9182402",
+    "tmdb": 622771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 81
+}

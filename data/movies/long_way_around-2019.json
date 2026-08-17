@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_way_around_2019",
+  "title": "A long way around",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740613",
+    "imdb": "tt8099220",
+    "tmdb": 603123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-20"
+}

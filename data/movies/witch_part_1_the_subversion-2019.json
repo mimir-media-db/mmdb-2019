@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witch_part_1_the_subversion_2019",
+  "title": "The Witch: Part 1. The Subversion",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55106098",
+    "imdb": "tt8574252",
+    "tmdb": 530254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-23",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tolkien_2019",
+  "title": "Tolkien",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42689885",
+    "imdb": "tt3361792",
+    "tmdb": 468224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-03",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hail_satan_2019",
+  "title": "Hail Satan?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61450779",
+    "imdb": "tt9358044",
+    "tmdb": 565719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-17",
+  "runtime_minutes": 95
+}

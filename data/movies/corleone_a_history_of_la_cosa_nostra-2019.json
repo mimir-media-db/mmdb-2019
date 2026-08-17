@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corleone_a_history_of_la_cosa_nostra_2019",
+  "title": "Corleone: A History of La Cosa Nostra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111468910",
+    "imdb": "tt10875584"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-27",
+  "runtime_minutes": 146
+}

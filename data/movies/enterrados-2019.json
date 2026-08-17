@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enterrados_2019",
+  "title": "Enterrados",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105549365",
+    "imdb": "tt5490896",
+    "tmdb": 570426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-10",
+  "runtime_minutes": 102
+}

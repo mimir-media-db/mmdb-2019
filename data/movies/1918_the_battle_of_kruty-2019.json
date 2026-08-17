@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1918_the_battle_of_kruty_2019",
+  "title": "1918: The Battle of Kruty",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39475584",
+    "imdb": "tt8009354",
+    "tmdb": 511619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-07",
+  "runtime_minutes": 110
+}

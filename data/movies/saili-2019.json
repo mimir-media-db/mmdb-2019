@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saili_2019",
+  "title": "Saili",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61778639",
+    "imdb": "tt7868256",
+    "tmdb": 1386259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-29"
+}

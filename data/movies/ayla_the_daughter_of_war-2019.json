@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ayla_the_daughter_of_war_2019",
+  "title": "Ayla: The Daughter of War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31193403",
+    "imdb": "tt6316138",
+    "tmdb": 472454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-19",
+  "runtime_minutes": 125
+}

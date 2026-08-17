@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_adaar_love_2019",
+  "title": "Oru Adaar Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48546298",
+    "imdb": "tt7387300",
+    "tmdb": 505432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14"
+}

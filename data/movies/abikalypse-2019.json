@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abikalypse_2019",
+  "title": "Abikalypse",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64831753",
+    "imdb": "tt7105548",
+    "tmdb": 615699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-25",
+  "runtime_minutes": 99
+}

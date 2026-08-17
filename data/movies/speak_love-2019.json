@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speak_love_2019",
+  "title": "Speak Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108895905",
+    "imdb": "tt8562068",
+    "tmdb": 693584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

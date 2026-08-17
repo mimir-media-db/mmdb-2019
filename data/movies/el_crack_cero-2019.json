@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_crack_cero_2019",
+  "title": "El crack cero",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q70111884",
+    "imdb": "tt6793710",
+    "tmdb": 613092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-04",
+  "runtime_minutes": 122
+}

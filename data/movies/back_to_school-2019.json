@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_school_2019",
+  "title": "Back to School",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67145035",
+    "imdb": "tt10715194",
+    "tmdb": 624060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-30",
+  "runtime_minutes": 83
+}

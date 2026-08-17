@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_als_ich_mal_gro_war_2019",
+  "title": "Als ich mal groß war",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72923361",
+    "imdb": "tt9077054",
+    "tmdb": 632019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14"
+}

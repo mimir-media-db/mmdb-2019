@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bottom_of_the_9th_2019",
+  "title": "Bottom Of The 9th",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64708093",
+    "imdb": "tt1507002",
+    "tmdb": 365958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-19"
+}

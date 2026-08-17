@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cure_anniversary_19782018_live_in_hyde_park_london_2019",
+  "title": "The Cure - Anniversary 1978-2018 Live in Hyde Park London",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65028348",
+    "imdb": "tt10407900",
+    "tmdb": 605702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-11",
+  "runtime_minutes": 137
+}

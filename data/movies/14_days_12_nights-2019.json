@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_days_12_nights_2019",
+  "title": "14 Days, 12 Nights",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86752888",
+    "imdb": "tt6976172",
+    "tmdb": 603488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-30",
+  "runtime_minutes": 99
+}

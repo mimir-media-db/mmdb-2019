@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perro_bomba_2019",
+  "title": "Perro Bomba",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124653014",
+    "imdb": "tt9069548",
+    "tmdb": 585172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_in_brothel_2019",
+  "title": "Brothers in Brothel",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94178377",
+    "imdb": "tt11157002",
+    "tmdb": 659080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-16",
+  "runtime_minutes": 113
+}

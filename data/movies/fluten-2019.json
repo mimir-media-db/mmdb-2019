@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fluten_2019",
+  "title": "Fluten",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244708",
+    "imdb": "tt6445402",
+    "tmdb": 686076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-23"
+}

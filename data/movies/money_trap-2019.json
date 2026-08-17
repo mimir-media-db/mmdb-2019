@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_money_trap_2019",
+  "title": "Money Trap",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56877293",
+    "imdb": "tt8442644",
+    "tmdb": 577990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01",
+  "runtime_minutes": 121
+}

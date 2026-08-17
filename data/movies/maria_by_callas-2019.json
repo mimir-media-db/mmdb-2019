@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_by_callas_2019",
+  "title": "Maria by Callas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52554791",
+    "imdb": "tt7364566",
+    "tmdb": 465871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crystal_calls_making_the_dark_crystal_age_of_resistance_2019",
+  "title": "The Crystal Calls Making the Dark Crystal: Age of Resistance",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67171112",
+    "imdb": "tt10924716",
+    "tmdb": 627133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-31",
+  "runtime_minutes": 82
+}

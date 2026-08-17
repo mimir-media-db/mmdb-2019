@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_petromax_2019",
+  "title": "Petromax",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85793015",
+    "imdb": "tt10987184",
+    "tmdb": 616896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-11"
+}

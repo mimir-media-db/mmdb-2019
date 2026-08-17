@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hambi_der_kampf_um_den_hambacher_wald_2019",
+  "title": "HAMBI - Der Kampf um den Hambacher Wald",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109634400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_you_2019",
+  "title": "The Trouble With You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30032653",
+    "imdb": "tt7534068",
+    "tmdb": 519106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-21",
+  "runtime_minutes": 107
+}

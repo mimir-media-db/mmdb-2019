@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eld_lagor_2019",
+  "title": "Eld & lågor",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61727078",
+    "imdb": "tt7402400",
+    "tmdb": 561605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-02",
+  "runtime_minutes": 104
+}

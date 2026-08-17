@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melodylan_2019",
+  "title": "MeloDylan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61359296",
+    "imdb": "tt10056322",
+    "tmdb": 591441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-04"
+}

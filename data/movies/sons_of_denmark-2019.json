@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_denmark_2019",
+  "title": "Sons of Denmark",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642183",
+    "imdb": "tt9514970",
+    "tmdb": 571689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 120
+}

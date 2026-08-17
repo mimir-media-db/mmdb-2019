@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_hunt_2019",
+  "title": "American Hunt",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689059",
+    "imdb": "tt8918392",
+    "tmdb": 639477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

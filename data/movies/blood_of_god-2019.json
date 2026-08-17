@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_god_2019",
+  "title": "The Blood Of God",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600805",
+    "imdb": "tt7936692",
+    "tmdb": 1137462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_closure_2019",
+  "title": "Closure",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106504945",
+    "imdb": "tt12665070"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-01",
+  "runtime_minutes": 10
+}

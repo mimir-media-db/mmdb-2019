@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamagasaki_cauldron_war_2019",
+  "title": "The Kamagasaki Cauldron War",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109538866",
+    "imdb": "tt9316594",
+    "tmdb": 591123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-09"
+}

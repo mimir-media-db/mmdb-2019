@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soldier_boy_2019",
+  "title": "Soldier Boy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97940697",
+    "imdb": "tt9848962",
+    "tmdb": 619168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 86
+}

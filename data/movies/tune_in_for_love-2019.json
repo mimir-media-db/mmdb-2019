@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tune_in_for_love_2019",
+  "title": "Tune in for Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66866679",
+    "imdb": "tt10763618",
+    "tmdb": 570503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-28",
+  "runtime_minutes": 122
+}

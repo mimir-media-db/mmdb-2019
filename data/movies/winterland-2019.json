@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winterland_2019",
+  "title": "Winterland",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73013172",
+    "imdb": "tt11082984",
+    "tmdb": 641015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-05",
+  "runtime_minutes": 75
+}

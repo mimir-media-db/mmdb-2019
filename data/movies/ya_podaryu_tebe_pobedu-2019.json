@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ya_podaryu_tebe_pobedu_2019",
+  "title": "Ya podaryu tebe pobedu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93772486",
+    "imdb": "tt10048376",
+    "tmdb": 594430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-20",
+  "runtime_minutes": 101
+}

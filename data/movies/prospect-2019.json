@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prospect_2019",
+  "title": "Prospect",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56701991",
+    "imdb": "tt7946422",
+    "tmdb": 506072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-17"
+}

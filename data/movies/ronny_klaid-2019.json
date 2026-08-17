@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ronny_klaid_2019",
+  "title": "Ronny & Klaid",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66425264",
+    "imdb": "tt5065290",
+    "tmdb": 435163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 112
+}

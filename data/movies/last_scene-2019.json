@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_scene_2019",
+  "title": "Last Scene",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109458796",
+    "tmdb": 761565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-12"
+}

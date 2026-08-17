@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maxima_2019",
+  "title": "Máxima",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532344",
+    "imdb": "tt10214220",
+    "tmdb": 596065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

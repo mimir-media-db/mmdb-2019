@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_have_we_done_to_deserve_this_2019",
+  "title": "What Have We Done to Deserve This?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56604748",
+    "imdb": "tt9081572",
+    "tmdb": 548633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-24",
+  "runtime_minutes": 91
+}

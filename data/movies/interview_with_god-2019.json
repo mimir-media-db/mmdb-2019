@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interview_with_god_2019",
+  "title": "An Interview with God",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55417389",
+    "imdb": "tt5779372",
+    "tmdb": 534338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11",
+  "runtime_minutes": 97
+}

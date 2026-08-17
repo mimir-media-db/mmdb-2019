@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_say_i_love_you_2019",
+  "title": "Say I Love You",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65209362",
+    "imdb": "tt9024646",
+    "tmdb": 610043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-04",
+  "runtime_minutes": 106
+}
