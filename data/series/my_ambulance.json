@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_ambulance",
+  "title": "My Ambulance",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q66686785",
+    "imdb": "tt11199114",
+    "tmdb": 93464
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_modern_love",
+  "title": "Modern Love",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q55623517",
+    "imdb": "tt8543390",
+    "tmdb": 91602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

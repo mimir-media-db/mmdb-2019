@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mysteries_decoded",
+  "title": "Mysteries Decoded",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113350689",
+    "imdb": "tt10207668",
+    "tmdb": 92294
+  },
+  "last_updated": "2026-08-17"
+}

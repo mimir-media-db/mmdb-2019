@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_md_life_on_the_line",
+  "title": "M.D.: Life on the Line",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q67641502",
+    "imdb": "tt11166096",
+    "tmdb": 99053
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 87
+}

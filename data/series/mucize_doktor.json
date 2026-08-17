@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mucize_doktor",
+  "title": "Mucize Doktor",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q68170225",
+    "imdb": "tt10723804",
+    "tmdb": 92967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 64
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_man_20",
+  "title": "Man 2.0",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112147341",
+    "tmdb": 203175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

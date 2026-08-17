@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mental_samurai",
+  "title": "Mental Samurai",
+  "start_year": 2019,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q56276010",
+    "imdb": "tt8888210",
+    "tmdb": 87429
+  },
+  "last_updated": "2026-08-17"
+}

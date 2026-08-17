@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mother_of_mine",
+  "title": "Mother of Mine",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60909287",
+    "imdb": "tt9894134",
+    "tmdb": 87615
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 108
+}

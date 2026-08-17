@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_jikochoprofessor_tennos_survey_file",
+  "title": "Miss Jikocho-Professor Tenno's Survey File",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85874083",
+    "tmdb": 101250
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mittendrin_flughafen_frankfurt",
+  "title": "Mittendrin – Flughafen Frankfurt",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q93771879",
+    "imdb": "tt34476935",
+    "tmdb": 91901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 79
+}

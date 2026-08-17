@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_is_murder",
+  "title": "My Life Is Murder",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65120689",
+    "imdb": "tt10584446",
+    "tmdb": 91267
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 46
+}

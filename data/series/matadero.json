@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_matadero",
+  "title": "Matadero",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48790327",
+    "imdb": "tt7286156",
+    "tmdb": 85677
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_malibu_rescue",
+  "title": "Malibu Rescue",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q64453412",
+    "imdb": "tt9098432",
+    "tmdb": 85958
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

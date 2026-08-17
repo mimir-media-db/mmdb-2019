@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_fellow_citizens",
+  "title": "My Fellow Citizens",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q59907554",
+    "imdb": "tt9889066",
+    "tmdb": 87408
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

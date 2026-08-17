@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mouche",
+  "title": "Mouche",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64358834",
+    "imdb": "tt10214834",
+    "tmdb": 90016
+  },
+  "last_updated": "2026-08-17"
+}
