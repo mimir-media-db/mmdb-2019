@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_historia_lizy_2019",
+  "title": "Historia Lizy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575999",
+    "imdb": "tt10080052",
+    "tmdb": 646083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-21",
+  "runtime_minutes": 111
+}

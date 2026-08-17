@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_2019",
+  "title": "Holiday",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57610049",
+    "imdb": "tt9024986",
+    "tmdb": 541021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 73
+}

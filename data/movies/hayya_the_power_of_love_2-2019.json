@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayya_the_power_of_love_2_2019",
+  "title": "Hayya: The Power of Love 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97242963",
+    "imdb": "tt10883272",
+    "tmdb": 623679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-19",
+  "runtime_minutes": 101
+}

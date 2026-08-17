@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_howie_mandel_presents_howie_mandel_at_the_howie_mandel_comedy_club_2019",
+  "title": "Howie Mandel Presents: Howie Mandel at the Howie Mandel Comedy Club",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118656104",
+    "imdb": "tt8713370",
+    "tmdb": 569872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

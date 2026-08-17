@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_howl_from_beyond_the_fog_2019",
+  "title": "Howl from Beyond the Fog",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97310542",
+    "imdb": "tt12020368",
+    "tmdb": 616406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_of_a_mother_2019",
+  "title": "The Happiness of a Mother",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110681543",
+    "imdb": "tt9822862",
+    "tmdb": 587001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-03"
+}

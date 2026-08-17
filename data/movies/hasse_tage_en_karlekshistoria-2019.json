@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hasse_tage_en_karlekshistoria_2019",
+  "title": "Hasse & Tage - En kärlekshistoria",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73030595",
+    "imdb": "tt10924274",
+    "tmdb": 607311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-06",
+  "runtime_minutes": 109
+}

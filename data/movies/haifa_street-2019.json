@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haifa_street_2019",
+  "title": "Haifa Street",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97280048",
+    "imdb": "tt11160858",
+    "tmdb": 635129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

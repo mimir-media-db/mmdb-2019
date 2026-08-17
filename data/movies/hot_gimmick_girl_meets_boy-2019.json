@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_gimmick_girl_meets_boy_2019",
+  "title": "Hot Gimmick: Girl Meets Boy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81566464",
+    "imdb": "tt10061256",
+    "tmdb": 602797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_lands_2019",
+  "title": "Holy Lands",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60847750",
+    "imdb": "tt6383494",
+    "tmdb": 550958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-16",
+  "runtime_minutes": 100
+}

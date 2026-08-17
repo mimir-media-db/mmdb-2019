@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heimat_is_a_space_in_time_2019",
+  "title": "Heimat Is a Space in Time",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61728256",
+    "imdb": "tt9749570",
+    "tmdb": 576308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-07",
+  "runtime_minutes": 218
+}

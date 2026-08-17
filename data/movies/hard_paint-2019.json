@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_paint_2019",
+  "title": "Hard Paint",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671749",
+    "imdb": "tt7925066",
+    "tmdb": 500854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-03",
+  "runtime_minutes": 118
+}

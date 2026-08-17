@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_bhi_akele_tum_bhi_akele_2019",
+  "title": "Hum Bhi Akele Tum Bhi Akele",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106691884",
+    "imdb": "tt10632744",
+    "tmdb": 719918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

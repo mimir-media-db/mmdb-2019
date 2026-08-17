@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_night_falling_2019",
+  "title": "Hard Night Falling",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111737560",
+    "imdb": "tt4059460",
+    "tmdb": 605368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 85
+}

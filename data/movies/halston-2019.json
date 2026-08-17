@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halston_2019",
+  "title": "Halston",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107058284",
+    "imdb": "tt9358192",
+    "tmdb": 566227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

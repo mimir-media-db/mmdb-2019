@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hairy_tale_2019",
+  "title": "A Hairy Tale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61063979",
+    "imdb": "tt9755660",
+    "tmdb": 581162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01",
+  "runtime_minutes": 102
+}

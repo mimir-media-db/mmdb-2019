@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_head_burst_2019",
+  "title": "Head Burst",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83302204",
+    "imdb": "tt8603122",
+    "tmdb": 636702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18",
+  "runtime_minutes": 99
+}

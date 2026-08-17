@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_boy_2019",
+  "title": "Honey Boy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55613905",
+    "imdb": "tt8151874",
+    "tmdb": 512263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25",
+  "runtime_minutes": 94
+}

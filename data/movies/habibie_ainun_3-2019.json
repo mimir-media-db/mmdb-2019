@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_habibie_ainun_3_2019",
+  "title": "Habibie & Ainun 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88326457",
+    "imdb": "tt10932060",
+    "tmdb": 611369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-19",
+  "runtime_minutes": 121
+}

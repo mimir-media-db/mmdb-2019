@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_cardin_2019",
+  "title": "House of Cardin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106574201",
+    "imdb": "tt9031484",
+    "tmdb": 617736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

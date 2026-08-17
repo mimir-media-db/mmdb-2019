@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_history_of_love_2019",
+  "title": "History of Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85766735",
+    "imdb": "tt8645290",
+    "tmdb": 533075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-16"
+}

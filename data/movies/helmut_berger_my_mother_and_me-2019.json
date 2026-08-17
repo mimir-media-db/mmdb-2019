@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helmut_berger_my_mother_and_me_2019",
+  "title": "Helmut Berger, My Mother and Me",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61278509",
+    "imdb": "tt9703880",
+    "tmdb": 576254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-16",
+  "runtime_minutes": 82
+}
