@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_silver_lake_2019",
+  "title": "Under the Silver Lake",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703232",
+    "imdb": "tt5691670",
+    "tmdb": 396461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22",
+  "runtime_minutes": 139
+}

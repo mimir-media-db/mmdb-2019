@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_amor_hasta_las_patas_2019",
+  "title": "Un amor hasta las patas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123532323",
+    "imdb": "tt18363918",
+    "tmdb": 621305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

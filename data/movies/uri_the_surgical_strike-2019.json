@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uri_the_surgical_strike_2019",
+  "title": "Uri: The Surgical Strike",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411644",
+    "imdb": "tt8291224",
+    "tmdb": 554600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-11",
+  "runtime_minutes": 138
+}

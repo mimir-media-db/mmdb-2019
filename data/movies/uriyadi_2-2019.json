@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uriyadi_2_2019",
+  "title": "Uriyadi 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57448000",
+    "imdb": "tt10121762",
+    "tmdb": 592875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_legua_2019",
+  "title": "A una legua",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76761163",
+    "imdb": "tt10572400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-20",
+  "runtime_minutes": 76
+}

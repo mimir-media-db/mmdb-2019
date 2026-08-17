@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_nuit_a_paris_2019",
+  "title": "Une nuit à Paris",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117423201",
+    "imdb": "tt11789916",
+    "tmdb": 636288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 114
+}

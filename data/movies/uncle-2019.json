@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_2019",
+  "title": "Uncle",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483021",
+    "imdb": "tt7523172",
+    "tmdb": 632478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-14",
+  "runtime_minutes": 106
+}

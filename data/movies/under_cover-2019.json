@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_cover_2019",
+  "title": "Under Cover",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97218938",
+    "imdb": "tt11935218",
+    "tmdb": 885802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unsettled_seeking_refuge_in_america_2019",
+  "title": "Unsettled: Seeking Refuge in America",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128830359",
+    "imdb": "tt10478556",
+    "tmdb": 589869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 84
+}

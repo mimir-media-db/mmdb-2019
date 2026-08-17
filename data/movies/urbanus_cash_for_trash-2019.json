@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_urbanus_cash_for_trash_2019",
+  "title": "Urbanus: Cash for Trash",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67184371",
+    "imdb": "tt9863566",
+    "tmdb": 583041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-24"
+}
