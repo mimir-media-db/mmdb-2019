@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_minutes_too_late_2019",
+  "title": "5 Minutes Too Late",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69057789",
+    "imdb": "tt11158930",
+    "tmdb": 710711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

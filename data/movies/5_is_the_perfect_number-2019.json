@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_is_the_perfect_number_2019",
+  "title": "5 is the Perfect Number",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65933462",
+    "imdb": "tt8351646",
+    "tmdb": 571473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}
