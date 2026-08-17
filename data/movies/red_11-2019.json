@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_11_2019",
+  "title": "Red 11",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62008726",
+    "imdb": "tt7837402",
+    "tmdb": 536434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-15"
+}

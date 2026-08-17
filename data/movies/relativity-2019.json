@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_relativity_2019",
+  "title": "Relativity",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64748424",
+    "imdb": "tt6586090",
+    "tmdb": 608611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-01"
+}

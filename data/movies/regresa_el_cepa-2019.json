@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_regresa_el_cepa_2019",
+  "title": "Regresa el Cepa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99463527",
+    "imdb": "tt8554462",
+    "tmdb": 538913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-19"
+}

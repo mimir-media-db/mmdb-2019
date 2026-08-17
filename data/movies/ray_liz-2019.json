@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ray_liz_2019",
+  "title": "Ray & Liz",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56489261",
+    "imdb": "tt6601502",
+    "tmdb": 500438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-08",
+  "runtime_minutes": 108
+}

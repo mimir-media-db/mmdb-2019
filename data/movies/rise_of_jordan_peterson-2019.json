@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_of_jordan_peterson_2019",
+  "title": "The Rise of Jordan Peterson",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76354686",
+    "imdb": "tt10469384",
+    "tmdb": 626595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-26"
+}

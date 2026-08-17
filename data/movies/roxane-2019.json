@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roxane_2019",
+  "title": "Roxane",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64022205",
+    "imdb": "tt9096148",
+    "tmdb": 602283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-12"
+}

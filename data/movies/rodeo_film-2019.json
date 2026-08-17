@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rodeo_film_2019",
+  "title": "A Rodeo Film",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112641669",
+    "imdb": "tt10134386",
+    "tmdb": 794340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restless_river_2019",
+  "title": "Restless River",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107481768",
+    "imdb": "tt10805028",
+    "tmdb": 636132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

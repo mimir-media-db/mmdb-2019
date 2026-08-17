@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robo_2019",
+  "title": "Robo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63969451",
+    "imdb": "tt10397854",
+    "tmdb": 579878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-31",
+  "runtime_minutes": 90
+}

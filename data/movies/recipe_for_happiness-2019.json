@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_recipe_for_happiness_2019",
+  "title": "Recipe for Happiness",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61092216",
+    "tmdb": 608322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-29"
+}

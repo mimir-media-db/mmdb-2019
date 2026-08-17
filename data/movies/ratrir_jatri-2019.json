@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ratrir_jatri_2019",
+  "title": "Ratrir Jatri",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63537012",
+    "imdb": "tt10283234",
+    "tmdb": 702561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

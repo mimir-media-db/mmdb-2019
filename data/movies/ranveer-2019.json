@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ranveer_2019",
+  "title": "Ranveer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61779838",
+    "imdb": "tt9430574"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01"
+}

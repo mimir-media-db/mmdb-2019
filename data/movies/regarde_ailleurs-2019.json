@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regarde_ailleurs_2019",
+  "title": "Regarde ailleurs",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65153958",
+    "imdb": "tt9761004",
+    "tmdb": 573450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-13",
+  "runtime_minutes": 85
+}
