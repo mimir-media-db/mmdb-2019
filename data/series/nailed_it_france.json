@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nailed_it_france",
+  "title": "Nailed It! France",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q73024798",
+    "imdb": "tt10990804",
+    "tmdb": 94913
+  },
+  "last_updated": "2026-08-17"
+}

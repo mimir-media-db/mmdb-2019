@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_no_side_game",
+  "title": "NO SIDE GAME",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65247234",
+    "imdb": "tt9801422",
+    "tmdb": 91472
+  },
+  "last_updated": "2026-08-17"
+}

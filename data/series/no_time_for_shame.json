@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_no_time_for_shame",
+  "title": "No Time for Shame",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96396004",
+    "imdb": "tt11215130",
+    "tmdb": 95183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

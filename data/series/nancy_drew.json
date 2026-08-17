@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nancy_drew",
+  "title": "Nancy Drew",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q63612991",
+    "imdb": "tt10313176",
+    "tmdb": 89572
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 62
+}

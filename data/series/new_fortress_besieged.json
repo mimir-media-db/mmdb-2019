@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_fortress_besieged",
+  "title": "New Fortress Besieged",
+  "start_year": 2019,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q123735023",
+    "imdb": "tt7649874",
+    "tmdb": 98011
+  },
+  "last_updated": "2026-08-17"
+}

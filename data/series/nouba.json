@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nouba",
+  "title": "Nouba",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q137970771",
+    "imdb": "tt10110350",
+    "tmdb": 137655
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

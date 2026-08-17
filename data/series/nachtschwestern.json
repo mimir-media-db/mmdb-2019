@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nachtschwestern",
+  "title": "Nachtschwestern",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65546512",
+    "imdb": "tt10170218",
+    "tmdb": 88426
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
