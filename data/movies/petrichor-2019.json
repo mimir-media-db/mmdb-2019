@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_petrichor_2019",
+  "title": "The Petrichor",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63248870",
+    "imdb": "tt9196576",
+    "tmdb": 746948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

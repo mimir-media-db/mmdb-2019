@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_producer_2019",
+  "title": "Producer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56367931",
+    "imdb": "tt8684786",
+    "tmdb": 583334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 95
+}

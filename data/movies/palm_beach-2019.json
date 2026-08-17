@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palm_beach_2019",
+  "title": "Palm Beach",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305462",
+    "imdb": "tt8751928",
+    "tmdb": 522464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

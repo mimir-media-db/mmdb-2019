@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_primal_2019",
+  "title": "Primal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59177262",
+    "imdb": "tt7394816",
+    "tmdb": 500916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

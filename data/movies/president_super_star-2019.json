@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_president_super_star_2019",
+  "title": "President Super Star",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894174",
+    "imdb": "tt10810486"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

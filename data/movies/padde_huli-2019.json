@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_padde_huli_2019",
+  "title": "Padde Huli",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768506",
+    "imdb": "tt9461016",
+    "tmdb": 639485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pocket_hercules_naim_suleymanoglu_2019",
+  "title": "Pocket Hercules: Naim Süleymanoglu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q78990311",
+    "imdb": "tt9500372",
+    "tmdb": 650360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 141
+}

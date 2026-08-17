@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panti_sisters_2019",
+  "title": "The Panti Sisters",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892871",
+    "imdb": "tt10637682",
+    "tmdb": 622327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

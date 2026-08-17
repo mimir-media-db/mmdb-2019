@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panchatantra_2019",
+  "title": "Panchatantra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738154",
+    "imdb": "tt8490534",
+    "tmdb": 590901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

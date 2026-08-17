@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_port_2019",
+  "title": "The Port",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63090377",
+    "imdb": "tt8529772",
+    "tmdb": 563230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

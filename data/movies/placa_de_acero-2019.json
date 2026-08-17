@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_placa_de_acero_2019",
+  "title": "Placa de acero",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85793481",
+    "imdb": "tt4498152",
+    "tmdb": 586344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

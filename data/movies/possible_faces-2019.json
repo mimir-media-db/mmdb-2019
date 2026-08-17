@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_possible_faces_2019",
+  "title": "Possible Faces",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61100146",
+    "imdb": "tt9030796",
+    "tmdb": 489301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

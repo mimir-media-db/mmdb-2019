@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_psychonautics_a_comics_exploration_of_psychedelics_2019",
+  "title": "Psychonautics: A Comic's Exploration of Psychedelics",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89679489",
+    "imdb": "tt8514508",
+    "tmdb": 532912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 81
+}

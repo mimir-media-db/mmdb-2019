@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pilgrims_progress_2019",
+  "title": "Pilgrim's Progress",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86749949",
+    "imdb": "tt9896916",
+    "tmdb": 595172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_play_or_die_2019",
+  "title": "Play or Die",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81714198",
+    "imdb": "tt9537532",
+    "tmdb": 595216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

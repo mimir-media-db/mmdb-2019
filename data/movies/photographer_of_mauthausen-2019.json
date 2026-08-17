@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_photographer_of_mauthausen_2019",
+  "title": "The Photographer of Mauthausen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47085369",
+    "imdb": "tt6704776",
+    "tmdb": 528949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 110
+}

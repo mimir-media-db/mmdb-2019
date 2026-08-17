@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pet_sematary_2019",
+  "title": "Pet Sematary",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55102449",
+    "imdb": "tt0837563",
+    "tmdb": 157433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 101
+}

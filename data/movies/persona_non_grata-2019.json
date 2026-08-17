@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_persona_non_grata_2019",
+  "title": "Persona non grata",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62057776",
+    "imdb": "tt7801894",
+    "tmdb": 537180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 92
+}
