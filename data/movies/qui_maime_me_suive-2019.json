@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_maime_me_suive_2019",
+  "title": "Qui m'aime me suive!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63564674",
+    "imdb": "tt7654880",
+    "tmdb": 575600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}
