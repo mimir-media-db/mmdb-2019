@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operative_2019",
+  "title": "The Operative",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60536963",
+    "imdb": "tt8000718",
+    "tmdb": 574207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

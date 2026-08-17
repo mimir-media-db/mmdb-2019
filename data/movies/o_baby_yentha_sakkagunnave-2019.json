@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_baby_yentha_sakkagunnave_2019",
+  "title": "O Baby! Yentha Sakkagunnave",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738056",
+    "imdb": "tt9348296",
+    "tmdb": 607091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

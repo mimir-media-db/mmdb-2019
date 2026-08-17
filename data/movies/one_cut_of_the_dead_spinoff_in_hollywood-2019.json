@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_cut_of_the_dead_spinoff_in_hollywood_2019",
+  "title": "One Cut of the Dead Spin-Off: In Hollywood",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999318",
+    "imdb": "tt10188260",
+    "tmdb": 593580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 57
+}

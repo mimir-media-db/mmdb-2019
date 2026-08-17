@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_justice_delivered_2019",
+  "title": "One Day: Justice Delivered",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768598",
+    "imdb": "tt8130558",
+    "tmdb": 613225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

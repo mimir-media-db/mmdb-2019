@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_lady_of_the_nile_2019",
+  "title": "Our Lady of the Nile",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q78918730",
+    "imdb": "tt8690948",
+    "tmdb": 582877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 93
+}

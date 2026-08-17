@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olmedo_el_rey_de_la_risa_2019",
+  "title": "Olmedo: El rey de la risa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63968087",
+    "imdb": "tt7625746",
+    "tmdb": 619328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 81
+}

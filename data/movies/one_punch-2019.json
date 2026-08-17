@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_one_punch_2019",
+  "title": "One Punch",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65278490",
+    "tmdb": 594295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

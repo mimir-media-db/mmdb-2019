@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ozgur_dunya_2019",
+  "title": "Özgür Dünya",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62307453",
+    "imdb": "tt9308170",
+    "tmdb": 591495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 122
+}
