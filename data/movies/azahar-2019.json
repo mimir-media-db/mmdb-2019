@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azahar_2019",
+  "title": "Azahar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99336032",
+    "imdb": "tt9422528",
+    "tmdb": 568064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-06-28"
+}

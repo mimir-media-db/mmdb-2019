@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aesops_game_2019",
+  "title": "Aesop's Game",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109596007",
+    "imdb": "tt10457158",
+    "tmdb": 622719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-08-16"
+}

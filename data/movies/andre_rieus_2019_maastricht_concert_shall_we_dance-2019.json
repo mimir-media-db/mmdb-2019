@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andre_rieus_2019_maastricht_concert_shall_we_dance_2019",
+  "title": "Andre Rieu's 2019 Maastricht Concert - Shall We Dance?",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110368488",
+    "imdb": "tt10716326"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-25",
+  "runtime_minutes": 145
+}

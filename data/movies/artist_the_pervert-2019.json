@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_artist_the_pervert_2019",
+  "title": "The Artist & The Pervert",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63323362",
+    "imdb": "tt7387550",
+    "tmdb": 515683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-29",
+  "runtime_minutes": 92
+}

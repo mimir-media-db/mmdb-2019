@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_rita_2019",
+  "title": "All about Rita",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60998816",
+    "imdb": "tt6541740",
+    "tmdb": 577135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-15"
+}

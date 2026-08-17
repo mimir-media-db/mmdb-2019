@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abrakadabra_2019",
+  "title": "Abrakadabra",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108064950",
+    "imdb": "tt8422146",
+    "tmdb": 551964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-09",
+  "runtime_minutes": 66
+}

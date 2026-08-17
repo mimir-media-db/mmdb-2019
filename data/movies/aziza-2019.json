@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aziza_2019",
+  "title": "Aziza",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65074697",
+    "imdb": "tt9510082",
+    "tmdb": 578689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-25"
+}

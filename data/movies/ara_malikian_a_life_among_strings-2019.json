@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ara_malikian_a_life_among_strings_2019",
+  "title": "Ara Malikian. A Life Among Strings",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99463062",
+    "imdb": "tt10260382",
+    "tmdb": 640388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-24",
+  "runtime_minutes": 89
+}

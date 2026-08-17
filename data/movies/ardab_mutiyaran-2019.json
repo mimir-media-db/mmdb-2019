@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ardab_mutiyaran_2019",
+  "title": "Ardab Mutiyaran",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72220359",
+    "imdb": "tt11122316",
+    "tmdb": 641077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahava_beshleikes_2019",
+  "title": "Ahava Beshleikes",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65251298",
+    "imdb": "tt10217148",
+    "tmdb": 625532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-11",
+  "runtime_minutes": 93
+}

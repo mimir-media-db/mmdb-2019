@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amra_ekta_cinema_banabo_2019",
+  "title": "Amra Ekta Cinema Banabo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38215867",
+    "imdb": "tt7156814",
+    "tmdb": 604529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-20",
+  "runtime_minutes": 1265
+}

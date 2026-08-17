@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_specimen_2019",
+  "title": "Alien: Specimen",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127328386",
+    "imdb": "tt10135070",
+    "tmdb": 588216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05",
+  "runtime_minutes": 10
+}

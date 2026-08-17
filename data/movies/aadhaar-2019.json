@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadhaar_2019",
+  "title": "Aadhaar",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85739347",
+    "imdb": "tt10500478",
+    "tmdb": 629104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-03"
+}

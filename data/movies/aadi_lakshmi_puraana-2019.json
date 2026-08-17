@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadi_lakshmi_puraana_2019",
+  "title": "Aadi Lakshmi Puraana",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65053754",
+    "imdb": "tt9747276",
+    "tmdb": 620008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-19"
+}

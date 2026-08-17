@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_my_loving_2019",
+  "title": "All My Loving",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63871041",
+    "imdb": "tt8811474",
+    "tmdb": 547102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-09",
+  "runtime_minutes": 116
+}

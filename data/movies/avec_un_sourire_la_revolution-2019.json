@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avec_un_sourire_la_revolution_2019",
+  "title": "Avec un sourire, la revolution!",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108629149",
+    "imdb": "tt8830130"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01",
+  "runtime_minutes": 87
+}

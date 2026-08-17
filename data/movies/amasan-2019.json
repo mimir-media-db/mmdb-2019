@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amasan_2019",
+  "title": "Ama-San",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24705222",
+    "imdb": "tt4142090",
+    "tmdb": 393775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-04",
+  "runtime_minutes": 113
+}

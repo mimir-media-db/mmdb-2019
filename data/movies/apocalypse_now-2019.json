@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_now_2019",
+  "title": "Apocalypse Now",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q182692",
+    "imdb": "tt0078788",
+    "tmdb": 28
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-27",
+  "runtime_minutes": 147
+}

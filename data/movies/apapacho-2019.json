@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apapacho_2019",
+  "title": "Apapacho",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894910",
+    "imdb": "tt10576542",
+    "tmdb": 625545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-13",
+  "runtime_minutes": 90
+}

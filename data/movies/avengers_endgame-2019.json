@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avengers_endgame_2019",
+  "title": "Avengers: Endgame",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23781155",
+    "imdb": "tt4154796",
+    "tmdb": 299534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-22",
+  "runtime_minutes": 181
+}

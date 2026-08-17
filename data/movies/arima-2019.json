@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arima_2019",
+  "title": "Arima",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107363303",
+    "imdb": "tt8374700",
+    "tmdb": 634174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 77
+}
