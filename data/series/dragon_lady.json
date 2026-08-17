@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dragon_lady",
+  "title": "Dragon Lady",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60767696",
+    "imdb": "tt9871140",
+    "tmdb": 219669
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_pass",
+  "title": "Der Pass",
+  "start_year": 2019,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q60759123",
+    "imdb": "tt6905756",
+    "tmdb": 85526
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

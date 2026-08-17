@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_crystal_age_of_resistance",
+  "title": "The Dark Crystal: Age of Resistance",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q48698729",
+    "imdb": "tt6905542",
+    "tmdb": 71809
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

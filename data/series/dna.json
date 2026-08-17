@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dna",
+  "title": "DNA",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q68361689",
+    "imdb": "tt10822320",
+    "tmdb": 92761
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

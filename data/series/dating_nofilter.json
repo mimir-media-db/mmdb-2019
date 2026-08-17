@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_dating_nofilter",
+  "title": "Dating NoFilter",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111944646"
+  },
+  "last_updated": "2026-08-17"
+}

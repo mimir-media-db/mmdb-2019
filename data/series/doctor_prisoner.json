@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_prisoner",
+  "title": "Doctor Prisoner",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60643360",
+    "imdb": "tt9863766",
+    "tmdb": 87187
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

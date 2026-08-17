@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deja_vu",
+  "title": "Déjà Vu",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q55708419",
+    "imdb": "tt10314692",
+    "tmdb": 108751
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

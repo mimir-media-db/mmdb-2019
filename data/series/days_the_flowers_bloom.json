@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_days_the_flowers_bloom",
+  "title": "The Days the Flowers Bloom",
+  "start_year": 2018,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q60749967",
+    "imdb": "tt7915546",
+    "tmdb": 85475
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

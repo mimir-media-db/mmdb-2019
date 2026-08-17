@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_detail",
+  "title": "The Detail",
+  "start_year": 2019,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q55403090",
+    "imdb": "tt6882202",
+    "tmdb": 72735
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

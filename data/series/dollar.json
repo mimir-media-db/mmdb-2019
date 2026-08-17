@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dollar",
+  "title": "Dollar",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66363918",
+    "imdb": "tt10687564",
+    "tmdb": 92097
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

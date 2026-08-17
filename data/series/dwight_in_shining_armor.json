@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dwight_in_shining_armor",
+  "title": "Dwight in Shining Armor",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85758034",
+    "imdb": "tt8690580",
+    "tmdb": 89941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

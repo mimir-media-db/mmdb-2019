@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_death_to_spies",
+  "title": "Death to Spies",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113005291",
+    "imdb": "tt8629418",
+    "tmdb": 105550
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dit_zijn_wij",
+  "title": "Dit zijn wij",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q76190573",
+    "imdb": "tt10699326",
+    "tmdb": 95299
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
