@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_2019",
+  "title": "Ma",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621609",
+    "imdb": "tt7958736",
+    "tmdb": 502416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

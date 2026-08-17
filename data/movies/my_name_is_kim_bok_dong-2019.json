@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_kim_bok_dong_2019",
+  "title": "My Name Is Kim Bok Dong",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999084",
+    "imdb": "tt10809316",
+    "tmdb": 600198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

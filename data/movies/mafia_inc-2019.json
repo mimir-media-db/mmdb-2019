@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mafia_inc_2019",
+  "title": "Mafia Inc.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85783100",
+    "imdb": "tt6980960",
+    "tmdb": 622469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

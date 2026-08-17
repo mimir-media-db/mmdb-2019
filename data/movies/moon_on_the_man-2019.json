@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_on_the_man_2019",
+  "title": "Moon on the man",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26905484",
+    "imdb": "tt3829958",
+    "tmdb": 381513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

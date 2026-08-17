@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_king_uproar_in_dragon_palace_2019",
+  "title": "Monkey King: Uproar in Dragon Palace",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999159",
+    "imdb": "tt9698044",
+    "tmdb": 579557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

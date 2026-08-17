@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_raga_2019",
+  "title": "My Name Is RaGa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61987242"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_family_and_the_wolf_2019",
+  "title": "My Family and the Wolf",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67193411",
+    "imdb": "tt5869404",
+    "tmdb": 613296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

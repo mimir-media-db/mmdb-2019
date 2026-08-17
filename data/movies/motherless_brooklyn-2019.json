@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motherless_brooklyn_2019",
+  "title": "Motherless Brooklyn",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21581258",
+    "imdb": "tt0385887",
+    "tmdb": 504562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 144
+}

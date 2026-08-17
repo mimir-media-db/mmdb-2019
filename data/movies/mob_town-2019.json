@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mob_town_2019",
+  "title": "Mob Town",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73662867",
+    "imdb": "tt8722440",
+    "tmdb": 592128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

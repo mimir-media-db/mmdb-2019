@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malaal_2019",
+  "title": "Malaal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63952830",
+    "imdb": "tt10305616",
+    "tmdb": 611537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

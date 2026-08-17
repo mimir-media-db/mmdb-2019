@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mickey_and_the_bear_2019",
+  "title": "Mickey and the Bear",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63119125",
+    "imdb": "tt9614440",
+    "tmdb": 575958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mope_2019",
+  "title": "Mope",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60603536",
+    "imdb": "tt6927492",
+    "tmdb": 565377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

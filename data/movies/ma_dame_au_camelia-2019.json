@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_dame_au_camelia_2019",
+  "title": "Ma dame au camélia",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76589847",
+    "imdb": "tt8580270",
+    "tmdb": 650426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_henri_pick_2019",
+  "title": "The Mystery of Henri Pick",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60852749",
+    "imdb": "tt8263936",
+    "tmdb": 566454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_misteri_dilaila_2019",
+  "title": "Misteri Dilaila",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61117064",
+    "imdb": "tt9820594",
+    "tmdb": 582075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

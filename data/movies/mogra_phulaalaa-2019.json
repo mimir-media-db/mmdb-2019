@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mogra_phulaalaa_2019",
+  "title": "Mogra Phulaalaa",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77884919",
+    "imdb": "tt10209164",
+    "tmdb": 616454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

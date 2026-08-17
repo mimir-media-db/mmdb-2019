@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mom_is_a_character_3_2019",
+  "title": "My Mom Is a Character 3",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86738725",
+    "imdb": "tt10611372",
+    "tmdb": 620683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

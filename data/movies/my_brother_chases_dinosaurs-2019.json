@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_chases_dinosaurs_2019",
+  "title": "My Brother Chases Dinosaurs",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86663401",
+    "imdb": "tt7997966",
+    "tmdb": 593660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mukherjee_dar_bou_2019",
+  "title": "Mukherjee Dar Bou",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768571",
+    "imdb": "tt10034272",
+    "tmdb": 617450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miga_miga_avasaram_2019",
+  "title": "Miga Miga Avasaram",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77894045",
+    "imdb": "tt7542962",
+    "tmdb": 533901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

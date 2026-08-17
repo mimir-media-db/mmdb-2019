@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mundina_nildana_2019",
+  "title": "Mundina Nildana",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77892755",
+    "imdb": "tt10882938",
+    "tmdb": 653495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

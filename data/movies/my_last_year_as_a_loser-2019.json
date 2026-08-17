@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_last_year_as_a_loser_2019",
+  "title": "My Last Year as a Loser",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56641308",
+    "imdb": "tt8766224",
+    "tmdb": 501529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

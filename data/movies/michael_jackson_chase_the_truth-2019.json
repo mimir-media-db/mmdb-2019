@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_jackson_chase_the_truth_2019",
+  "title": "Michael Jackson: Chase the Truth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032657",
+    "imdb": "tt10801352",
+    "tmdb": 623983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
