@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_love_2019",
+  "title": "Divine Love",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63930000",
+    "imdb": "tt8311958",
+    "tmdb": 504592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

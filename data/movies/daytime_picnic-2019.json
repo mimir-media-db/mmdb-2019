@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_daytime_picnic_2019",
+  "title": "A Daytime Picnic",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65334006",
+    "tmdb": 606925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_cry_mr_ogre_2019",
+  "title": "Don'T Cry, Mr. Ogre",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65272326",
+    "imdb": "tt9882978",
+    "tmdb": 593562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

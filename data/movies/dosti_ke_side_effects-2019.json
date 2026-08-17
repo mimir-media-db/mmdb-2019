@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dosti_ke_side_effects_2019",
+  "title": "Dosti Ke Side Effects",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738453",
+    "imdb": "tt9248962",
+    "tmdb": 581634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhanusu_raasi_neyargale_2019",
+  "title": "Dhanusu Raasi Neyargale",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906109",
+    "imdb": "tt11143498",
+    "tmdb": 653848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

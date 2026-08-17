@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_digo_la_cordillera_cuadernos_de_viaje_2019",
+  "title": "Digo la cordillera. Cuadernos de viaje",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76763372",
+    "imdb": "tt10776050",
+    "tmdb": 654026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

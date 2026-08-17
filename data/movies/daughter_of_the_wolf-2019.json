@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daughter_of_the_wolf_2019",
+  "title": "Daughter of the Wolf",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73540758",
+    "imdb": "tt7615052",
+    "tmdb": 525657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

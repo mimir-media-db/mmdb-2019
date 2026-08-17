@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_sleep_2019",
+  "title": "Doctor Sleep",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56881169",
+    "imdb": "tt5606664",
+    "tmdb": 501170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 152
+}

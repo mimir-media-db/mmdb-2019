@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daughters_of_chibok_2019",
+  "title": "Daughters of Chibok",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77896687",
+    "imdb": "tt10874892",
+    "tmdb": 709188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

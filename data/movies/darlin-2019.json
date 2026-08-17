@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darlin_2019",
+  "title": "Darlin",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65062416",
+    "imdb": "tt8396294",
+    "tmdb": 529149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

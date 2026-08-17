@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_dick_long_2019",
+  "title": "The Death of Dick Long",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63119089",
+    "imdb": "tt9356952",
+    "tmdb": 565383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 100
+}

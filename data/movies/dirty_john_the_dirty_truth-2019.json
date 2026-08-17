@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_john_the_dirty_truth_2019",
+  "title": "Dirty John, The Dirty Truth",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61930375",
+    "imdb": "tt8300034",
+    "tmdb": 575169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}
