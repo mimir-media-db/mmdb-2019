@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_2019",
+  "title": "Normal",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66825656",
+    "imdb": "tt9648584",
+    "tmdb": 577078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-11",
+  "runtime_minutes": 70
+}

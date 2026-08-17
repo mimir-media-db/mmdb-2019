@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_national_theatre_live_cyrano_de_bergerac_2019",
+  "title": "National Theatre Live: Cyrano de Bergerac",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124400088",
+    "imdb": "tt10160742",
+    "tmdb": 665149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-14"
+}

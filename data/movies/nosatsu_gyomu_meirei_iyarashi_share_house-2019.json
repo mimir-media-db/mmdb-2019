@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nosatsu_gyomu_meirei_iyarashi_share_house_2019",
+  "title": "Nôsatsu gyômu meirei: Iyarashi share house",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109361294",
+    "imdb": "tt11482282",
+    "tmdb": 1571477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-12-13"
+}

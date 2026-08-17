@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_now_is_everything_2019",
+  "title": "Now Is Everything",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245117"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 80
+}

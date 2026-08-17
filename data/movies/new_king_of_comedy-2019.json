@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_king_of_comedy_2019",
+  "title": "The New King of Comedy",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60993104",
+    "imdb": "tt9368628",
+    "tmdb": 575138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-05",
+  "runtime_minutes": 91
+}

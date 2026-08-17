@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_horror_nightmare_radio_2019",
+  "title": "A Night of Horror: Nightmare Radio",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132720867",
+    "imdb": "tt10756374",
+    "tmdb": 630766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

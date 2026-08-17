@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ni_dieux_ni_maitres_2019",
+  "title": "Ni dieux ni maîtres",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135967395",
+    "imdb": "tt5614174",
+    "tmdb": 480657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-10"
+}

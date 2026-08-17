@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_look_away_2019",
+  "title": "Never Look Away",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28796230",
+    "imdb": "tt5311542",
+    "tmdb": 423612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-10-10",
+  "runtime_minutes": 188
+}

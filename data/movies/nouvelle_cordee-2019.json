@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nouvelle_cordee_2019",
+  "title": "Nouvelle Cordée",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75848279",
+    "imdb": "tt11053194",
+    "tmdb": 640120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-20"
+}

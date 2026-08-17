@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_netaji_2019",
+  "title": "Netaji",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65118029",
+    "imdb": "tt9349056",
+    "tmdb": 1135139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-26"
+}

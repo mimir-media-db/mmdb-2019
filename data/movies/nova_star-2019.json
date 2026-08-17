@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nova_star_2019",
+  "title": "Nova Star",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65042407",
+    "imdb": "tt8806520",
+    "tmdb": 711943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-11-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninu_veedani_needanu_nene_2019",
+  "title": "Ninu Veedani Needanu Nene",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65054241",
+    "imdb": "tt9789440",
+    "tmdb": 609118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_filter_2019",
+  "title": "No Filter",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62694631",
+    "imdb": "tt8538552",
+    "tmdb": 574861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-03",
+  "runtime_minutes": 100
+}

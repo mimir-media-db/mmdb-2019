@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_smoking_2019",
+  "title": "No Smoking",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109596102",
+    "imdb": "tt11160268",
+    "tmdb": 684288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
