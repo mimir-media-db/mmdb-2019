@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one_spring_night",
+  "title": "One Spring Night",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61360273",
+    "imdb": "tt10192576",
+    "tmdb": 89604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

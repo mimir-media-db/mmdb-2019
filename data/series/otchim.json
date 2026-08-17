@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_otchim",
+  "title": "Otchim",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86673459",
+    "imdb": "tt11241298",
+    "tmdb": 95530
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}
