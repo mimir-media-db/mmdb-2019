@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parasite_2019",
+  "title": "Parasite",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61448040",
+    "imdb": "tt6751668",
+    "tmdb": 496243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-21",
+  "runtime_minutes": 132
+}

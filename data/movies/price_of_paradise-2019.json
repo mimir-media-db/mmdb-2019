@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_paradise_2019",
+  "title": "The Price of Paradise",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63029972",
+    "imdb": "tt10876012",
+    "tmdb": 598872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-05-16",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_push_and_shove_2019",
+  "title": "Push and Shove",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63257370",
+    "imdb": "tt10214198",
+    "tmdb": 605249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-20"
+}

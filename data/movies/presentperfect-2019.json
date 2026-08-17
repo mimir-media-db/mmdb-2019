@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_presentperfect_2019",
+  "title": "Present.Perfect.",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61642198",
+    "imdb": "tt9585788",
+    "tmdb": 573675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-31",
+  "runtime_minutes": 124
+}

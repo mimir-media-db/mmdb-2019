@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poissonsexe_2019",
+  "title": "Poissonsexe",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96473052",
+    "imdb": "tt9164788",
+    "tmdb": 592782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

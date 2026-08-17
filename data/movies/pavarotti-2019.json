@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pavarotti_2019",
+  "title": "Pavarotti",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738400",
+    "imdb": "tt6964076",
+    "tmdb": 561325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-07-15",
+  "runtime_minutes": 114
+}

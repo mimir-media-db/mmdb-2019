@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pripad_dvou_manzelek_2019",
+  "title": "Prípad dvou manzelek",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897669",
+    "imdb": "tt9673232",
+    "tmdb": 581596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 72
+}

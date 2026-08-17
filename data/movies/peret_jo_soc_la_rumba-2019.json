@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peret_jo_soc_la_rumba_2019",
+  "title": "Peret: jo soc la rumba",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99590196",
+    "imdb": "tt9051760",
+    "tmdb": 593929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22",
+  "runtime_minutes": 92
+}

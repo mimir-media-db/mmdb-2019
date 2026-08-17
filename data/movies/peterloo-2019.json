@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peterloo_2019",
+  "title": "Peterloo",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32942227",
+    "imdb": "tt4614612",
+    "tmdb": 399440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-05",
+  "runtime_minutes": 154
+}

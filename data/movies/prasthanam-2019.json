@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prasthanam_2019",
+  "title": "Prasthanam",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65967069",
+    "imdb": "tt8706884",
+    "tmdb": 621005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoner_of_sakura_2019",
+  "title": "The Prisoner of Sakura",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65240318",
+    "imdb": "tt9800096",
+    "tmdb": 588417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-03-22"
+}

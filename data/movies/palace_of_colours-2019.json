@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palace_of_colours_2019",
+  "title": "Palace of Colours",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110975363",
+    "imdb": "tt10084950",
+    "tmdb": 650585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-09"
+}

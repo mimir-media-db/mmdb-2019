@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passed_by_censor_2019",
+  "title": "Passed by Censor",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65219350",
+    "imdb": "tt8135550",
+    "tmdb": 567940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paddleton_2019",
+  "title": "Paddleton",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50649727",
+    "imdb": "tt8041276",
+    "tmdb": 525183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-01",
+  "runtime_minutes": 89
+}

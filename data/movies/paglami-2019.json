@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paglami_2019",
+  "title": "Paglami",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97383726",
+    "imdb": "tt31632340"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-09-20"
+}

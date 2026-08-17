@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_is_us_2019",
+  "title": "Paris Is Us",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60788224",
+    "imdb": "tt7920024",
+    "tmdb": 504321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-02-22",
+  "runtime_minutes": 83
+}

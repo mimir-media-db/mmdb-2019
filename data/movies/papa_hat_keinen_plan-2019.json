@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_hat_keinen_plan_2019",
+  "title": "Papa hat keinen Plan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107297091",
+    "imdb": "tt7516218",
+    "tmdb": 594369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-04-12",
+  "runtime_minutes": 89
+}

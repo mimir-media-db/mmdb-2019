@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pop_black_posta_2019",
+  "title": "Pop Black Posta",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93966740",
+    "imdb": "tt8285432",
+    "tmdb": 625242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

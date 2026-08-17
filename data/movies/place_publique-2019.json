@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_place_publique_2019",
+  "title": "Place publique",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51645602",
+    "imdb": "tt6972372",
+    "tmdb": 486521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-17"
+}

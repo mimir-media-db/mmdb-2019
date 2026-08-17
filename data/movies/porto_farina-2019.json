@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_porto_farina_2019",
+  "title": "Porto Farina",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137900249",
+    "imdb": "tt10550922",
+    "tmdb": 611742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

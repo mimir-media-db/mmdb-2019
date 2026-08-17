@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paint_sun_sea_2019",
+  "title": "Paint Sun & Sea",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573786",
+    "imdb": "tt12404160"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 60
+}
