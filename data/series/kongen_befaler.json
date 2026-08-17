@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kongen_befaler",
+  "title": "Kongen befaler",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102395358",
+    "imdb": "tt13218362",
+    "tmdb": 94653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 116
+}

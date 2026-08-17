@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kwatery_hitlera",
+  "title": "Kwatery Hitlera",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q86661348",
+    "imdb": "tt11583580",
+    "tmdb": 117230
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

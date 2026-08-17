@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kukhnya_voyna_za_otel",
+  "title": "Kukhnya. Voyna za otel",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q65134615",
+    "imdb": "tt11400008",
+    "tmdb": 95910
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

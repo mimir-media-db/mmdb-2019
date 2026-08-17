@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kongen_av_gulset",
+  "title": "Kongen av Gulset",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q86217895",
+    "imdb": "tt9800520",
+    "tmdb": 113952
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kishiryu_sentai_ryusoulger",
+  "title": "Kishiryu Sentai Ryusoulger",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q60168401",
+    "imdb": "tt9546826",
+    "tmdb": 120409
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

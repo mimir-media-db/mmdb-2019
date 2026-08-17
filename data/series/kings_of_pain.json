@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_of_pain",
+  "title": "Kings of Pain",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85774531",
+    "imdb": "tt11091524",
+    "tmdb": 95406
+  },
+  "last_updated": "2026-08-17"
+}

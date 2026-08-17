@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdoms_of_fire",
+  "title": "Kingdoms of Fire",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q63122965",
+    "imdb": "tt10198930",
+    "tmdb": 95133
+  },
+  "last_updated": "2026-08-17"
+}
