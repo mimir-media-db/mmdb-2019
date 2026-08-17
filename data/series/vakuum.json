@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vakuum",
+  "title": "Vakuum",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q64853854",
+    "imdb": "tt11836184",
+    "tmdb": 124028
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vuslat",
+  "title": "Vuslat",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61077654",
+    "imdb": "tt9520396",
+    "tmdb": 85544
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

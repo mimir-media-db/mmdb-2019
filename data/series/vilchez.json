@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vilchez",
+  "title": "The Vilchez",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q59649615",
+    "imdb": "tt9884880"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 138
+}

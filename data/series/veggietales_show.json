@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_veggietales_show",
+  "title": "The VeggieTales Show",
+  "start_year": 2019,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q65066289",
+    "imdb": "tt10233662",
+    "tmdb": 99899
+  },
+  "last_updated": "2026-08-17"
+}

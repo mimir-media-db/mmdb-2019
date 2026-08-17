@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_videos_after_dark",
+  "title": "Videos After Dark",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60750868",
+    "imdb": "tt9205998",
+    "tmdb": 87549
+  },
+  "last_updated": "2026-08-17"
+}
