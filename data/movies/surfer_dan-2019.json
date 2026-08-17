@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_surfer_dan_2019",
+  "title": "Surfer Dan",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61268453"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 8
+}

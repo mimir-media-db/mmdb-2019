@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soy_lo_que_quise_ser_2019",
+  "title": "Soy lo que quise ser",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64757879",
+    "imdb": "tt5289172",
+    "tmdb": 616332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_than_jesus_2019",
+  "title": "Stranger than Jesus",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65273965",
+    "tmdb": 528453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_storia_di_nilde_2019",
+  "title": "Storia di Nilde",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77212729",
+    "imdb": "tt10630898",
+    "tmdb": 651807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

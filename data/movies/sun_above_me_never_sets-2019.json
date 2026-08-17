@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_above_me_never_sets_2019",
+  "title": "The Sun Above Me Never Sets",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65145460",
+    "imdb": "tt10217624",
+    "tmdb": 592547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 108
+}

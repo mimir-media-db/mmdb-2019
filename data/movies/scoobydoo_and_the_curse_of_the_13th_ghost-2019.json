@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_the_curse_of_the_13th_ghost_2019",
+  "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58393793",
+    "imdb": "tt9260980",
+    "tmdb": 560066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

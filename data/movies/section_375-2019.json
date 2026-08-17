@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_section_375_2019",
+  "title": "Section 375",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62815320",
+    "imdb": "tt8144834",
+    "tmdb": 507941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

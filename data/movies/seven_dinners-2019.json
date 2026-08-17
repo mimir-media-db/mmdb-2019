@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_dinners_2019",
+  "title": "Seven Dinners",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55655794",
+    "imdb": "tt9397884",
+    "tmdb": 518031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 91
+}

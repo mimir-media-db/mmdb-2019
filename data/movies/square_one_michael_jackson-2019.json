@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_square_one_michael_jackson_2019",
+  "title": "Square One: Michael Jackson",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75103260",
+    "imdb": "tt11033952",
+    "tmdb": 637113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

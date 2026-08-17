@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunrise_in_heaven_2019",
+  "title": "Sunrise in Heaven",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61664936",
+    "imdb": "tt8801584",
+    "tmdb": 593911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

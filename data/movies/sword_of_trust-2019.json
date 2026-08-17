@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_of_trust_2019",
+  "title": "Sword of Trust",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55081837",
+    "imdb": "tt8484012",
+    "tmdb": 575942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 88
+}

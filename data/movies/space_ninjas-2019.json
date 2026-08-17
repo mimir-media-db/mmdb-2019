@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_space_ninjas_2019",
+  "title": "Space Ninjas",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84366172",
+    "imdb": "tt10613572",
+    "tmdb": 572445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_software_sudheer_2019",
+  "title": "Software Sudheer",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80947042",
+    "imdb": "tt10851820",
+    "tmdb": 660671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seetharama_kalyana_2019",
+  "title": "Seetharama Kalyana",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738145",
+    "imdb": "tt9174420",
+    "tmdb": 577745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

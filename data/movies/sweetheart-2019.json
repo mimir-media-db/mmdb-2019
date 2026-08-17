@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweetheart_2019",
+  "title": "Sweetheart",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072243",
+    "imdb": "tt6560164",
+    "tmdb": 463843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 82
+}

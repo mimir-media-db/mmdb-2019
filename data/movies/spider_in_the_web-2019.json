@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spider_in_the_web_2019",
+  "title": "Spider in the Web",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86733080",
+    "imdb": "tt7942736",
+    "tmdb": 513413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 113
+}

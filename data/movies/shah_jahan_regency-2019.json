@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shah_jahan_regency_2019",
+  "title": "Shah Jahan Regency",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550941",
+    "imdb": "tt9468400",
+    "tmdb": 576539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

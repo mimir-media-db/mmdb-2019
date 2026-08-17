@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sikander_2_2019",
+  "title": "Sikander 2",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85161779",
+    "imdb": "tt9614428",
+    "tmdb": 621263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

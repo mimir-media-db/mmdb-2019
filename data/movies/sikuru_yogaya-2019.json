@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_sikuru_yogaya_2019",
+  "title": "Sikuru Yogaya",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65050758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

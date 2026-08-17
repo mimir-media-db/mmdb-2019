@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sholay_girl_2019",
+  "title": "The Sholay Girl",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768400",
+    "imdb": "tt10011102",
+    "tmdb": 586776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

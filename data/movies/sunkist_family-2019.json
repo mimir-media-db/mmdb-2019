@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunkist_family_2019",
+  "title": "Sunkist Family",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65269689",
+    "imdb": "tt10462808",
+    "tmdb": 573610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 105
+}

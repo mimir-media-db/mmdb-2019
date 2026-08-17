@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shibu_2019",
+  "title": "Shibu",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85800830",
+    "imdb": "tt10405902",
+    "tmdb": 617693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

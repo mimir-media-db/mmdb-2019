@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singel_39_2019",
+  "title": "Singel 39",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64756557",
+    "imdb": "tt9638668",
+    "tmdb": 545919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

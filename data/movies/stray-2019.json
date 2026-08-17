@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stray_2019",
+  "title": "Stray",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55659558",
+    "imdb": "tt8291886",
+    "tmdb": 575146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}
