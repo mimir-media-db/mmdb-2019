@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_happened_on_september_11_2019",
+  "title": "What Happened on September 11",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76488711",
+    "imdb": "tt10920662",
+    "tmdb": 630338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

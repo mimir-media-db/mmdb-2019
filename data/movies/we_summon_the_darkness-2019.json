@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_summon_the_darkness_2019",
+  "title": "We Summon the Darkness",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68681202",
+    "imdb": "tt8058874",
+    "tmdb": 546724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

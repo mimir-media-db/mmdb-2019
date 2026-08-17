@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_thr3e_2019",
+  "title": "We Are Thr3e",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85877885",
+    "imdb": "tt8150768",
+    "tmdb": 511365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 89
+}

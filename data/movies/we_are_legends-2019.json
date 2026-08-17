@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_legends_2019",
+  "title": "We Are Legends",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64015226",
+    "imdb": "tt10076722",
+    "tmdb": 589677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}
