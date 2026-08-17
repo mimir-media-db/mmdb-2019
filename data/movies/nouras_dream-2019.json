@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nouras_dream_2019",
+  "title": "Noura's Dream",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74426296",
+    "imdb": "tt10888514",
+    "tmdb": 621730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01"
+}

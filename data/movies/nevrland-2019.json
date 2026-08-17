@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nevrland_2019",
+  "title": "Nevrland",
+  "year": 2019,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59692468",
+    "imdb": "tt8974586",
+    "tmdb": 571032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2019-01-01",
+  "runtime_minutes": 90
+}
