@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_song_naree",
+  "title": "Song Naree",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q61367664",
+    "imdb": "tt23135464",
+    "tmdb": 93058
+  },
+  "last_updated": "2026-08-17"
+}

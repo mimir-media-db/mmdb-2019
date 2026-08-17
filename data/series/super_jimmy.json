@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_super_jimmy",
+  "title": "Super Jimmy",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q65127837",
+    "imdb": "tt10375672",
+    "tmdb": 89674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

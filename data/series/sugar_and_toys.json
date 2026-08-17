@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sugar_and_toys",
+  "title": "Sugar and Toys",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q104846459"
+  },
+  "last_updated": "2026-08-17"
+}

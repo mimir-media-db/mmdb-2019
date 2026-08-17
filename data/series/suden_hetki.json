@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_suden_hetki",
+  "title": "Suden hetki",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q64168663",
+    "imdb": "tt9637176",
+    "tmdb": 129596
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

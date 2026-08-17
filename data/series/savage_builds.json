@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_savage_builds",
+  "title": "Savage Builds",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q76381125",
+    "imdb": "tt10233836",
+    "tmdb": 88765
+  },
+  "last_updated": "2026-08-17"
+}

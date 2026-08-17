@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_of_rockets",
+  "title": "Summer of Rockets",
+  "start_year": 2018,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60768209",
+    "imdb": "tt8001214",
+    "tmdb": 89661
+  },
+  "last_updated": "2026-08-17"
+}

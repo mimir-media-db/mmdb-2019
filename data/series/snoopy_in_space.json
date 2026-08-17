@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_snoopy_in_space",
+  "title": "Snoopy in Space",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q83010409",
+    "imdb": "tt10659366",
+    "tmdb": 91249
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

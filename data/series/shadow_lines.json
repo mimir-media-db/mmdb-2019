@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shadow_lines",
+  "title": "Shadow Lines",
+  "start_year": 2019,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q87261069",
+    "imdb": "tt8734462",
+    "tmdb": 93891
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

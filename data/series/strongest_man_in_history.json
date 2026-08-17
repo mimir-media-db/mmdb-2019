@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strongest_man_in_history",
+  "title": "The Strongest Man in History",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q85808569",
+    "imdb": "tt10648730",
+    "tmdb": 90981
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

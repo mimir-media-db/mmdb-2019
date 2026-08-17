@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sherlock_untold_stories",
+  "title": "Sherlock: Untold Stories",
+  "start_year": 2019,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q73740906",
+    "imdb": "tt10691922",
+    "tmdb": 96245
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

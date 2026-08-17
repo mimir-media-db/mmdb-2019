@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soltero_con_hijas",
+  "title": "Soltero con hijas",
+  "start_year": 2019,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q67225037",
+    "imdb": "tt10954098",
+    "tmdb": 95160
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 87
+}

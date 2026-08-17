@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_success",
+  "title": "Success",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q60606888",
+    "imdb": "tt8453458",
+    "tmdb": 85549
+  },
+  "last_updated": "2026-08-17"
+}

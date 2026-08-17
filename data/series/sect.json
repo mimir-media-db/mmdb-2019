@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sect",
+  "title": "The Sect",
+  "start_year": 2018,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q111467766",
+    "imdb": "tt10595264",
+    "tmdb": 90550
+  },
+  "last_updated": "2026-08-17"
+}
